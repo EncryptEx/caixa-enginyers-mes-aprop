@@ -14,6 +14,7 @@ Route::get('/', function () {
 
 Route::get('/dashboard', DashboardController::class)->middleware(['auth', 'verified'])->name('dashboard');
 Route::get('/live', [LiveController::class, 'display'])->middleware(['auth', 'verified'])->name('live');
+Route::post('/form', [FormController::class, 'handleForm'])->middleware(['auth', 'verified'])->name('form');
 
 Route::middleware('auth')->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
