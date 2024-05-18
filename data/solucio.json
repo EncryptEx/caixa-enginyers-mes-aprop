@@ -1,159 +1,145 @@
 {
-    "Dia 1":
-        [
-         {
-            "tipus": "sortida",
-            "hora": "2024-05-18T09:00:00+02:00",
-            "temps_trajecte": "60",
-            "lloc_sortida": "ribes de frezer",
-            "desti": "berga"
-
-         },
-         {
-            "tipus": "arribada",
-            "hora": "2024-05-18T10:00:00+02:00",
-            "lloc_arribada": "berga",
-            "duracio_estada": "120"
-         },
-         {
-            "tipus": "sortida",
-            "hora": "2024-05-18T12:00:00+02:00",
-            "temps_trajecte": "30",
-            "lloc_sortida": "berga",
-            "desti": "barcelona"
-
-         },
-         {
-            "tipus": "arribada",
-            "hora": "2024-05-18T12:30:00+02:00",
-            "lloc_arribada": "barcelona",
-            "duracio_estada": "120"
-         }
-        ],
- 
-    "Dia 2":
+  "data": [
     [
-     {
+      {
+        "tipus": "sortida",
+        "hora": "2024-05-18T09:00:00+02:00",
+        "temps_trajecte": "60",
+        "lloc_sortida": "ribes de frezer",
+        "desti": "berga"
+      },
+      {
+        "tipus": "arribada",
+        "hora": "2024-05-18T10:00:00+02:00",
+        "lloc_arribada": "berga",
+        "duracio_estada": "120"
+      },
+      {
+        "tipus": "sortida",
+        "hora": "2024-05-18T12:00:00+02:00",
+        "temps_trajecte": "30",
+        "lloc_sortida": "berga",
+        "desti": "barcelona"
+      },
+      {
+        "tipus": "arribada",
+        "hora": "2024-05-18T12:30:00+02:00",
+        "lloc_arribada": "barcelona",
+        "duracio_estada": "120"
+      }
+    ],
+    [
+      {
         "tipus": "sortida",
         "hora": "2024-05-19T9:00:00+02:00",
         "temps_trajecte": "60",
         "lloc_sortida": "ribes de frezer",
         "desti": "berga"
-
-     },
-     {
+      },
+      {
         "tipus": "arribada",
         "hora": "2024-05-19T10:00:00+02:00",
         "lloc_arribada": "berga",
         "duracio_estada": "120"
-     },
-     {
+      },
+      {
         "tipus": "sortida",
         "hora": "2024-05-19T12:00:00+02:00",
         "temps_trajecte": "30",
         "lloc_sortida": "berga",
         "desti": "barcelona"
-
-     },
-     {
+      },
+      {
         "tipus": "arribada",
         "hora": "2024-05-19T12:30:00+02:00",
         "lloc_arribada": "barcelona",
         "duracio_estada": "120"
-     }
+      }
     ],
-     "Dia 3":
-     [
+    [
       {
-         "tipus": "sortida",
-         "hora": "2024-05-20T9:00:00+02:00",
-         "temps_trajecte": "60",
-         "lloc_sortida": "ribes de frezer",
-         "desti": "berga"
-
+        "tipus": "sortida",
+        "hora": "2024-05-20T9:00:00+02:00",
+        "temps_trajecte": "60",
+        "lloc_sortida": "ribes de frezer",
+        "desti": "berga"
       },
       {
-         "tipus": "arribada",
-         "hora": "2024-05-20T10:00:00+02:00",
-         "lloc_arribada": "berga",
-         "duracio_estada": "120"
+        "tipus": "arribada",
+        "hora": "2024-05-20T10:00:00+02:00",
+        "lloc_arribada": "berga",
+        "duracio_estada": "120"
       },
       {
-         "tipus": "sortida",
-         "hora": "2024-05-20T12:00:00+02:00",
-         "temps_trajecte": "30",
-         "lloc_sortida": "berga",
-         "desti": "barcelona"
-
+        "tipus": "sortida",
+        "hora": "2024-05-20T12:00:00+02:00",
+        "temps_trajecte": "30",
+        "lloc_sortida": "berga",
+        "desti": "barcelona"
       },
       {
-         "tipus": "arribada",
-         "hora": "2024-05-20T12:30:00+02:00",
-         "lloc_arribada": "barcelona",
-         "duracio_estada": "120"
+        "tipus": "arribada",
+        "hora": "2024-05-20T12:30:00+02:00",
+        "lloc_arribada": "barcelona",
+        "duracio_estada": "120"
       }
-     ],
-     "Dia 4":
-     [
+    ],
+    [
       {
-         "tipus": "sortida",
-         "hora": "2024-05-20T9:00:00+02:00",
-         "temps_trajecte": "60",
-         "lloc_sortida": "ribes de frezer",
-         "desti": "berga"
-
+        "tipus": "sortida",
+        "hora": "2024-05-20T9:00:00+02:00",
+        "temps_trajecte": "60",
+        "lloc_sortida": "ribes de frezer",
+        "desti": "berga"
       },
       {
-         "tipus": "arribada",
-         "hora": "2024-05-20T10:00:00+02:00",
-         "lloc_arribada": "berga",
-         "duracio_estada": "120"
+        "tipus": "arribada",
+        "hora": "2024-05-20T10:00:00+02:00",
+        "lloc_arribada": "berga",
+        "duracio_estada": "120"
       },
       {
-         "tipus": "sortida",
-         "hora": "2024-05-20T12:00:00+02:00",
-         "temps_trajecte": "30",
-         "lloc_sortida": "berga",
-         "desti": "barcelona"
-
+        "tipus": "sortida",
+        "hora": "2024-05-20T12:00:00+02:00",
+        "temps_trajecte": "30",
+        "lloc_sortida": "berga",
+        "desti": "barcelona"
       },
       {
-         "tipus": "arribada",
-         "hora": "2024-05-20T12:30:00+02:00",
-         "lloc_arribada": "barcelona",
-         "duracio_estada": "120"
+        "tipus": "arribada",
+        "hora": "2024-05-20T12:30:00+02:00",
+        "lloc_arribada": "barcelona",
+        "duracio_estada": "120"
       }
-     ],
-     "Dia 5":
-     [
+    ],
+    [
       {
-         "tipus": "sortida",
-         "hora":  "2024-05-20T9:00:00+02:00",
-         "temps_trajecte": "60",
-         "lloc_sortida": "ribes de frezer",
-         "desti": "berga"
+        "tipus": "sortida",
+        "hora": "2024-05-20T9:00:00+02:00",
+        "temps_trajecte": "60",
+        "lloc_sortida": "ribes de frezer",
+        "desti": "berga"
+      },
+      {
+        "tipus": "arribada",
+        "hora": "2024-05-20T10:00:00+02:00",
+        "lloc_arribada": "berga",
+        "duracio_estada": "120"
+      },
+      {
+        "tipus": "sortida",
+        "hora": "2024-05-20T12:00:00+02:00",
+        "temps_trajecte": "30",
+        "lloc_sortida": "berga",
+        "desti": "barcelona"
+      },
 
-      },
       {
-         "tipus": "arribada",
-         "hora":  "2024-05-20T10:00:00+02:00",
-         "lloc_arribada": "berga",
-         "duracio_estada": "120"
-      },
-      {
-         "tipus": "sortida",
-         "hora":  "2024-05-20T12:00:00+02:00",
-         "temps_trajecte": "30",
-         "lloc_sortida": "berga",
-         "desti": "barcelona"
-
-      },
-      
-      {
-         "tipus": "arribada",
-         "hora":  "2024-05-20T12:30:00+02:00",
-         "lloc_arribada": "barcelona",
-         "duracio_estada": "120"
+        "tipus": "arribada",
+        "hora": "2024-05-20T12:30:00+02:00",
+        "lloc_arribada": "barcelona",
+        "duracio_estada": "120"
       }
-     ]
+    ]
+  ]
 }
