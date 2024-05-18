@@ -13,7 +13,7 @@ return new class extends Migration
     {
         Schema::table('users', function($table) {
             // add phone column
-            $table->string('phone')->nullable();
+            $table->string('phone');
         });
     
     }
