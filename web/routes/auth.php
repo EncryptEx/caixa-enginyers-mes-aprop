@@ -13,9 +13,15 @@ use Illuminate\Support\Facades\Route;
 
 Route::middleware('guest')->group(function () {
     Route::get('register', [RegisteredUserController::class, 'create'])
-                ->name('register');
-
+    ->name('register');
+    
+    Route::get('driver_register', [RegisteredUserController::class, 'create_driver'])
+    ->name('registerDriver');
+    
     Route::post('register', [RegisteredUserController::class, 'store']);
+    
+    Route::post('driver_register', [RegisteredUserController::class, 'store_driver'])
+    ->name('registerDriverPost');
 
     Route::get('login', [AuthenticatedSessionController::class, 'create'])
                 ->name('login');
@@ -55,5 +61,6 @@ Route::middleware('auth')->group(function () {
     Route::put('password', [PasswordController::class, 'update'])->name('password.update');
 
     Route::post('logout', [AuthenticatedSessionController::class, 'destroy'])
-                ->name('logout');
+    ->name('logout');
+    Route::get('logout', [AuthenticatedSessionController::class, 'destroy']);
 });
