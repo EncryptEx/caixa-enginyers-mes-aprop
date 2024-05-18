@@ -19,6 +19,11 @@
                         {{ __('Formulari') }}
                         @endif
                     </x-nav-link>
+                    @if (request()->user()->role == 'driver')
+                        <x-nav-link :href="route('live')" :active="request()->routeIs('live')">
+                            {{ __('En viu') }}
+                        </x-nav-lin>
+                    @endif
                 </div>
             </div>
 
