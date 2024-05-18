@@ -12,14 +12,21 @@ class DashboardController extends Controller
      */
     public function __invoke(Request $request)
     {
+        $usr = $request->user();
+        
+        if($request->user()->role == 'user'){
+            return view('feedback');
+        }
+        
         $events = [];
  
 
         // make petition to api to get json 
-        $response = Http::get('http://localhost:3000/solucio.json');
+        $response = Http::get(env('DATA_URI', 'http://localhost:3000/solucio.json'),);
 
-        // dd($response->json()['data']);
-    $elems = $response->json()['data'][0];
+        $elems = $response->json()['data'][0];
+
+
         // {
         //     "data": [
         //       [
@@ -32,7 +39,6 @@ class DashboardController extends Controller
         //         },
 
         foreach ($elems as $elem) {
-            // dd($elem);
             if($elem['tipus'] == 'sortida'){
                 $events[] = [
                     'title' => 'Viatjant a ' . $elem['desti'],
