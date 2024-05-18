@@ -1,0 +1,158 @@
+{
+    "Dia 1":
+        [
+         {
+            "tipus": "sortida",
+            "hora": "9:00",
+            "temps_trajecte": "60",
+            "lloc_sortida": "ribes de frezer",
+            "desti": "berga"
+
+         },
+         {
+            "tipus": "arribada",
+            "hora": "10:00",
+            "lloc_arribada": "berga",
+            "duracio_estada": "120"
+         },
+         {
+            "tipus": "sortida",
+            "hora": "12:00",
+            "temps_trajecte": "30",
+            "lloc_sortida": "berga",
+            "desti": "barcelona"
+
+         },
+         {
+            "tipus": "arribada",
+            "hora": "12:30",
+            "lloc_arribada": "barcelona",
+            "duracio_estada": "120"
+         }
+        ],
+ 
+    "Dia 2":
+    [
+     {
+        "tipus": "sortida",
+        "hora": "9:00",
+        "temps_trajecte": "60",
+        "lloc_sortida": "ribes de frezer",
+        "desti": "berga"
+
+     },
+     {
+        "tipus": "arribada",
+        "hora": "10:00",
+        "lloc_arribada": "berga",
+        "duracio_estada": "120"
+     },
+     {
+        "tipus": "sortida",
+        "hora": "12:00",
+        "temps_trajecte": "30",
+        "lloc_sortida": "berga",
+        "desti": "barcelona"
+
+     },
+     {
+        "tipus": "arribada",
+        "hora": "12:30",
+        "lloc_arribada": "barcelona",
+        "duracio_estada": "120"
+     }
+    ],
+     "Dia 3":
+     [
+      {
+         "tipus": "sortida",
+         "hora": "9:00",
+         "temps_trajecte": "60",
+         "lloc_sortida": "ribes de frezer",
+         "desti": "berga"
+
+      },
+      {
+         "tipus": "arribada",
+         "hora": "10:00",
+         "lloc_arribada": "berga",
+         "duracio_estada": "120"
+      },
+      {
+         "tipus": "sortida",
+         "hora": "12:00",
+         "temps_trajecte": "30",
+         "lloc_sortida": "berga",
+         "desti": "barcelona"
+
+      },
+      {
+         "tipus": "arribada",
+         "hora": "12:30",
+         "lloc_arribada": "barcelona",
+         "duracio_estada": "120"
+      }
+     ],
+     "Dia 4":
+     [
+      {
+         "tipus": "sortida",
+         "hora": "9:00",
+         "temps_trajecte": "60",
+         "lloc_sortida": "ribes de frezer",
+         "desti": "berga"
+
+      },
+      {
+         "tipus": "arribada",
+         "hora": "10:00",
+         "lloc_arribada": "berga",
+         "duracio_estada": "120"
+      },
+      {
+         "tipus": "sortida",
+         "hora": "12:00",
+         "temps_trajecte": "30",
+         "lloc_sortida": "berga",
+         "desti": "barcelona"
+
+      },
+      {
+         "tipus": "arribada",
+         "hora": "12:30",
+         "lloc_arribada": "barcelona",
+         "duracio_estada": "120"
+      }
+     ],
+     "Dia 5":
+     [
+      {
+         "tipus": "sortida",
+         "hora": "9:00",
+         "temps_trajecte": "60",
+         "lloc_sortida": "ribes de frezer",
+         "desti": "berga"
+
+      },
+      {
+         "tipus": "arribada",
+         "hora": "10:00",
+         "lloc_arribada": "berga",
+         "duracio_estada": "120"
+      },
+      {
+         "tipus": "sortida",
+         "hora": "12:00",
+         "temps_trajecte": "30",
+         "lloc_sortida": "berga",
+         "desti": "barcelona"
+
+      },
+      {
+         "tipus": "arribada",
+         "hora": "12:30",
+         "lloc_arribada": "barcelona",
+         "duracio_estada": "120"
+      }
+     ]
+}
