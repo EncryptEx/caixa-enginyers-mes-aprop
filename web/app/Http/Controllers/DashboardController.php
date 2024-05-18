@@ -24,7 +24,7 @@ class DashboardController extends Controller
         // make petition to api to get json 
         $response = Http::get(env('DATA_URI', 'http://localhost:3000/solucio.json'),);
 
-        $elems = $response->json()['data'][0];
+        $elems = $response->json()['data'];
 
 
         // {
