@@ -36,8 +36,8 @@
             }
             @media (prefers-color-scheme: dark) {
                 #calendar * {
-                    border-color: var(--lt-color-gray-600) !important;
-                    color: var(--lt-color-gray-200);
+                    border-color: var(--lt-color-gray-600, #5e636e) !important;
+                    color: var(--lt-color-gray-200, #f1f3f9);
                 }
             }
             @media (prefers-color-scheme: light) {

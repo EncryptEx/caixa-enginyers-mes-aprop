@@ -33,8 +33,8 @@ function getDirectionsUrl($source, $destination)
 
         #progress-text {
             font-size: 24px;
-            color: var(--lt-color-gray-700);
-            background-color: var(--lt-color-gray-800);
+            color: var(--lt-color-gray-700, #f1f3f9);
+            background-color: var(--lt-color-gray-800, #1d1e20);
             border-radius: 50%;
             width: 75%;
             height: 75%;
