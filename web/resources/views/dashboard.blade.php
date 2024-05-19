@@ -36,14 +36,14 @@
             }
             @media (prefers-color-scheme: dark) {
                 #calendar * {
+                    border-color: var(--lt-color-gray-600) !important;
                     color: var(--lt-color-gray-200);
-                    border-color: var(--lt-color-gray-600);
                 }
             }
             @media (prefers-color-scheme: light) {
                 #calendar * {
-                    color: var(--lt-color-gray-900);
-                    border-color: var(--lt-color-gray-400);
+                    color: var(--lt-color-gray-900) !important;
+                    border-color: var(--lt-color-gray-400) !important;
                 }
             }
         </style>

@@ -16,17 +16,22 @@ class GenerateController extends Controller
     {
 
         // access API_URI from .env file
-        $api_uri = env('API_URI', 'http://localhost:8000/generate');
+        $api_uri = env('DATA_URI', 'http://localhost:8000/generate') . '/generate';
 
         // create an array of all feedbackREsponse entries
         $feedbackResponses = FeedbackResponse::all();
 
-        dd($feedbackResponses->toJson());
+        $response = Http::withHeaders([
+            'Content-Type' => 'application/json',
+        ])->post($api_uri, $feedbackResponses->toArray());
 
-        Http::post($api_uri, [
-            'feedbackResponses' => $feedbackResponses->toJson(),
-        ]);
+        // Handle the response
+        if ($response->successful()) {
+            return redirect()->route('success')->with('success', 'Acció enviada satisfatòriament!');
+        } else {
+            return redirect()->route('success')->with('error', 'Acció enviada erròniament!'. $response->body());
+            
+        }
 
-        return redirect()->route('success')->with('success', 'Acció enviada satisfatòriament!');
     }
 }

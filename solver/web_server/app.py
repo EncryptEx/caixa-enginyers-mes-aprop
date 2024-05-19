@@ -26,7 +26,7 @@ def generate():
         
         # Print the feedback_responses variable to verify
         # print(json.dumps(feedback_responses, indent=4))
-        # print(feedback_responses['data'][0]['municipi'])
+        print(feedback_responses)
         
         return jsonify({'message': 'Data received successfully!'}), 200
     except Exception as e:
