@@ -17,30 +17,39 @@ Design a software capable of proposing optimized routes for a mobile office (van
 [![GitHub followers](https://img.shields.io/github/followers/ArnauCS03?label=ArnauCS03)](https://github.com/ArnauCS03) &nbsp;&nbsp; [![GitHub followers](https://img.shields.io/github/followers/EncryptEx?label=EncryptEx)](https://github.com/EncryptEx) &nbsp;&nbsp; [![GitHub followers](https://img.shields.io/github/followers/PauMayench?label=PauMayench)](https://github.com/PauMayench) <br><br>
 
 ---
+<br>
 
 >[!NOTE]  
-> a
+> ### Project Technologies and Tools
+> Here is the summary of the technologies and tools utilized in our project:
+> - **Python**: Leveraged for the backend development.
+> - **Laravel (php)**: Main framework for the web application development.
+> - **Tailwind (CSS)**: Used for efficient and flexible styling in the web.
+> - **Flask**: For building the APIs.
+> - **Pandas**: Employed for data manipulation and analysis, and working with .csv files.
+> - **OpenStreetMap**: Integrated for rich mapping functionalities.
+> - **Leaflet**: Employed for the interactive map in our web.
+> - **ngrok**: Utilized for secure tunneling to connect IPs.
 
+<br><br>
 # Table of Contents
 
 1. [Project Overview](#project-ov)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Learning](#learning)
-6. [License](#license) <br><br>
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Learning](#learning)
+5. [License](#license) <br><br>
 
 <a name="project-ov"></a>
 ## Project Overview
+
+
 
 Todo:
 explicar aixo 
 DATA_URI="http://127.0.0.1:5000/"
 
 hi ha una variable d'entorn al servei de laravel que necessita comunicar-se amb el sevei flask muntat al servei d'algorismia. Cal arrancar el server de flask primer i obtenir la ip d'aquest per posar-ho com a env variable al servei de laravel per a un correcte funcionament. 
-
-<a name="features"></a>
-## Features
 
 <a name="installation"></a>
 ## Installation
