@@ -41,7 +41,7 @@ class DashboardController extends Controller
         foreach ($elems as $elem) {
             if($elem['tipus'] == 'sortida'){
                 $events[] = [
-                    'title' => 'Viatjant a ' . $elem['desti'],
+                    'title' => 'Viatjant a ' . $elem['desti'] . ' desde ' . $elem['lloc_sortida'],
                     'start' => date('Y-m-d H:i:s', strtotime($elem['hora'])),
                     'end' => date('Y-m-d H:i:s', strtotime($elem['hora']) + $elem['temps_trajecte'] * 60),
                 ];

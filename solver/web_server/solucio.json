@@ -4,52 +4,52 @@
         "tipus": "sortida",
         "hora": "2024-05-18T09:00:00+02:00",
         "temps_trajecte": "60",
-        "lloc_sortida": "ribes de frezer",
-        "desti": "berga"
+        "lloc_sortida": "Calonge de Segarra",
+        "desti": "Prats de Rei"
       },
       {
         "tipus": "arribada",
         "hora": "2024-05-18T10:00:00+02:00",
-        "lloc_arribada": "berga",
+        "lloc_arribada": "Prats de Rei",
         "duracio_estada": "120"
       },
       {
         "tipus": "sortida",
         "hora": "2024-05-18T12:00:00+02:00",
         "temps_trajecte": "30",
-        "lloc_sortida": "berga",
-        "desti": "barcelona"
+        "lloc_sortida": "Prats de Rei",
+        "desti": "Pujalt"
       },
       {
         "tipus": "arribada",
         "hora": "2024-05-18T12:30:00+02:00",
-        "lloc_arribada": "barcelona",
+        "lloc_arribada": "Pujalt",
         "duracio_estada": "120"
       },
       {
         "tipus": "sortida",
         "hora": "2024-05-19T9:00:00+02:00",
         "temps_trajecte": "60",
-        "lloc_sortida": "ribes de frezer2",
-        "desti": "berga2"
+        "lloc_sortida": "Pujalt",
+        "desti": "Argençola"
       },
       {
         "tipus": "arribada",
         "hora": "2024-05-19T10:00:00+02:00",
-        "lloc_arribada": "berga2",
+        "lloc_arribada": "Argençola",
         "duracio_estada": "120"
       },
       {
         "tipus": "sortida",
         "hora": "2024-05-19T12:00:00+02:00",
         "temps_trajecte": "30",
-        "lloc_sortida": "berga2",
-        "desti": "barcelona2"
+        "lloc_sortida": "Argençola",
+        "desti": "Copons"
       },
       {
         "tipus": "arribada",
         "hora": "2024-05-19T12:30:00+02:00",
-        "lloc_arribada": "barcelona2",
+        "lloc_arribada": "Copons",
         "duracio_estada": "120"
       },
       {

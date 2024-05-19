@@ -1,0 +1,644 @@
+[
+  {
+    "municipi": "Calonge de Segarra",
+    "latitude": 41.7642502,
+    "longitude": 1.4820028,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Castellfollit de Riubregós",
+    "latitude": 41.7762237,
+    "longitude": 1.4383714,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Prats de Rei",
+    "latitude": 41.7056641,
+    "longitude": 1.5412363,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Pujalt",
+    "latitude": 41.7169947,
+    "longitude": 1.4211325,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Sant Pere Sallavinera",
+    "latitude": 41.7365708,
+    "longitude": 1.5745225,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Sant Martí Sesgueioles",
+    "latitude": 41.7021286,
+    "longitude": 1.4882003,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Argençola",
+    "latitude": 41.5977099,
+    "longitude": 1.4433782,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Copons",
+    "latitude": 41.6363657,
+    "longitude": 1.5179333,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Jorba",
+    "latitude": 41.6014534,
+    "longitude": 1.547408,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Montmaneu",
+    "latitude": 41.6259778,
+    "longitude": 1.4147627,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Rubió",
+    "latitude": 41.6442397,
+    "longitude": 1.5701167,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Veciana",
+    "latitude": 41.6559029,
+    "longitude": 1.4885194,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Bellprat",
+    "latitude": 41.5174829,
+    "longitude": 1.4335846,
+    "BLOC": 1
+  },
+  {
+    "municipi": "El Bruc",
+    "latitude": 41.5792357,
+    "longitude": 1.7812982,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Castellolí",
+    "latitude": 41.5981563,
+    "longitude": 1.7002468,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Orpí",
+    "latitude": 41.5185604,
+    "longitude": 1.5755145,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Santa Maria de Miralles",
+    "latitude": 41.5004287,
+    "longitude": 1.5282249,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Cabrera d'Anoia",
+    "latitude": 41.4774648,
+    "longitude": 1.7042442,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Torre de Claramunt",
+    "latitude": 41.5352891,
+    "longitude": 1.6609381,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Vallbona d'Anoia",
+    "latitude": 41.5194769,
+    "longitude": 1.7082922,
+    "BLOC": 1
+  },
+  {
+    "municipi": "La Llacuna",
+    "latitude": 41.4729806,
+    "longitude": 1.534607,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Conesa",
+    "latitude": 41.5190356,
+    "longitude": 1.2913382,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Llorac",
+    "latitude": 41.5561484,
+    "longitude": 1.3071491,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Passanant i Belltall",
+    "latitude": 41.5319348,
+    "longitude": 1.19646,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Piles",
+    "latitude": 41.5036208,
+    "longitude": 1.3431045,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Savallà del Comtat",
+    "latitude": 41.5428139,
+    "longitude": 1.2997894,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Vallfogona de Riucorb",
+    "latitude": 41.5632199,
+    "longitude": 1.2363297,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Forès",
+    "latitude": 41.4941385,
+    "longitude": 1.2378499,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Rocafort de Queralt",
+    "latitude": 41.4784492,
+    "longitude": 1.2813851,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Carme",
+    "latitude": 41.5319058,
+    "longitude": 1.6198579,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Mediona",
+    "latitude": 41.47739425,
+    "longitude": 1.635018453270908,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Font-rubí",
+    "latitude": 41.4365689,
+    "longitude": 1.5878667,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Pontons",
+    "latitude": 41.4138036,
+    "longitude": 1.5140429,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Torrelles de Foix",
+    "latitude": 41.387735,
+    "longitude": 1.5723453,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Les Cabanyes",
+    "latitude": 41.3715156,
+    "longitude": 1.6893989,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Pacs del Penedès",
+    "latitude": 41.3615067,
+    "longitude": 1.6698611,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Sant Cugat Sesgarrigues",
+    "latitude": 41.3644619,
+    "longitude": 1.7530702,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Santa Fe del Penedès",
+    "latitude": 41.3844582,
+    "longitude": 1.7209214,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Vilobí del Penedès",
+    "latitude": 41.3875574,
+    "longitude": 1.6632965,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Castellet i la Gornal",
+    "latitude": 41.2532183,
+    "longitude": 1.5917346,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Albinyana",
+    "latitude": 41.2454739,
+    "longitude": 1.486748,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Bonastre",
+    "latitude": 41.2211883,
+    "longitude": 1.4400593,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Santa Oliva",
+    "latitude": 41.2532889,
+    "longitude": 1.5510139,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Olivella",
+    "latitude": 41.3103129,
+    "longitude": 1.8114946,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Olesa de Bonesvalls",
+    "latitude": 41.3505032,
+    "longitude": 1.8492996,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Puigdàlber",
+    "latitude": 41.4045506,
+    "longitude": 1.700349,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Sant Llorenç d'Hortons",
+    "latitude": 41.4681755,
+    "longitude": 1.8253181,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Subirats",
+    "latitude": 41.39516005,
+    "longitude": 1.8112495738408874,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Torrelavit",
+    "latitude": 41.4463416,
+    "longitude": 1.7298578,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Masllorenç",
+    "latitude": 41.270168,
+    "longitude": 1.4144917,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Montmell",
+    "latitude": 41.3151822,
+    "longitude": 1.4542794,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Salomó",
+    "latitude": 41.2295948,
+    "longitude": 1.3747378,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Vespella de Gaià",
+    "latitude": 41.2040993,
+    "longitude": 1.3599407,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Blancafort",
+    "latitude": 41.1274529,
+    "longitude": 1.0846694,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Pira",
+    "latitude": 41.4236202,
+    "longitude": 1.2031023,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Senan",
+    "latitude": 41.4696984,
+    "longitude": 1.0874668,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Aiguamúrcia",
+    "latitude": 41.329339,
+    "longitude": 1.3585409,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Cabra del Camp",
+    "latitude": 41.3952451,
+    "longitude": 1.2772435,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Querol",
+    "latitude": 41.4234071,
+    "longitude": 1.3970189,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Pontils",
+    "latitude": 41.4774835,
+    "longitude": 1.3884066,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Figuerola del Camp",
+    "latitude": 41.3720741,
+    "longitude": 1.265571,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Montferri",
+    "latitude": 41.2655697,
+    "longitude": 1.3666818,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Rodonyà",
+    "latitude": 41.2826844,
+    "longitude": 1.3990724,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Vallclara",
+    "latitude": 41.3774766,
+    "longitude": 0.982585,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Vilanova de Prades",
+    "latitude": 41.347873,
+    "longitude": 0.9571484,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Mont-ral",
+    "latitude": 41.2871207,
+    "longitude": 1.0980821,
+    "BLOC": 3
+  },
+  {
+    "municipi": "La Riba",
+    "latitude": 41.3169975,
+    "longitude": 1.1771329,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Vilaverd",
+    "latitude": 41.3346124,
+    "longitude": 1.1774773,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Garidells",
+    "latitude": 41.2071322,
+    "longitude": 1.2471593,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Masó",
+    "latitude": 41.2226045,
+    "longitude": 1.7189708,
+    "BLOC": 3
+  },
+  {
+    "municipi": "El Milà",
+    "latitude": 41.2487485,
+    "longitude": 1.2064295,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Vallmoll",
+    "latitude": 41.2426301,
+    "longitude": 1.2488953,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Alió",
+    "latitude": 41.2935881,
+    "longitude": 1.3062666,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Bràfim",
+    "latitude": 41.2687867,
+    "longitude": 1.341243,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Puigpelat",
+    "latitude": 41.2798081,
+    "longitude": 1.2970011,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Vilabella",
+    "latitude": 41.2467608,
+    "longitude": 1.3298797,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Nulles",
+    "latitude": 41.2492881,
+    "longitude": 1.2957338,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Rourell",
+    "latitude": 41.223574,
+    "longitude": 1.2183923,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Argentera",
+    "latitude": 41.1376505,
+    "longitude": 0.9089999,
+    "BLOC": 4
+  },
+  {
+    "municipi": "Botarell",
+    "latitude": 41.1362847,
+    "longitude": 0.9897786,
+    "BLOC": 4
+  },
+  {
+    "municipi": "Colldejou",
+    "latitude": 41.0991567,
+    "longitude": 0.8875766,
+    "BLOC": 4
+  },
+  {
+    "municipi": "Pratdip",
+    "latitude": 41.0515188,
+    "longitude": 0.8716047,
+    "BLOC": 4
+  },
+  {
+    "municipi": "Riudecanyes",
+    "latitude": 41.1303686,
+    "longitude": 0.9618942,
+    "BLOC": 4
+  },
+  {
+    "municipi": "Vilanova d'Escornalbou",
+    "latitude": 41.1129833,
+    "longitude": 0.9366799,
+    "BLOC": 4
+  },
+  {
+    "municipi": "Aleixar",
+    "latitude": 41.201249,
+    "longitude": 1.0466915,
+    "BLOC": 4
+  },
+  {
+    "municipi": "Alforja",
+    "latitude": 41.2099763,
+    "longitude": 0.9750606,
+    "BLOC": 4
+  },
+  {
+    "municipi": "Duesaigües",
+    "latitude": 41.1457974,
+    "longitude": 0.9305023,
+    "BLOC": 4
+  },
+  {
+    "municipi": "Maspujols",
+    "latitude": 41.1817965,
+    "longitude": 1.0457853,
+    "BLOC": 4
+  },
+  {
+    "municipi": "Riudecols",
+    "latitude": 41.1680845,
+    "longitude": 0.9746249,
+    "BLOC": 4
+  },
+  {
+    "municipi": "Arbolí",
+    "latitude": 41.2425941,
+    "longitude": 0.9487676,
+    "BLOC": 4
+  },
+  {
+    "municipi": "Capafonts",
+    "latitude": 41.2948795,
+    "longitude": 1.0269673,
+    "BLOC": 4
+  },
+  {
+    "municipi": "La Febró",
+    "latitude": 41.2772519,
+    "longitude": 1.0032924,
+    "BLOC": 4
+  },
+  {
+    "municipi": "Vilaplana",
+    "latitude": 41.2281084,
+    "longitude": 1.0336452,
+    "BLOC": 4
+  },
+  {
+    "municipi": "Albiol",
+    "latitude": 41.2518657,
+    "longitude": 1.0897995,
+    "BLOC": 4
+  },
+  {
+    "municipi": "Almoster",
+    "latitude": 41.1960574,
+    "longitude": 1.1111352,
+    "BLOC": 4
+  },
+  {
+    "municipi": "Perafort",
+    "latitude": 41.1914523,
+    "longitude": 1.2564332,
+    "BLOC": 4
+  },
+  {
+    "municipi": "Pobla de Mafumet",
+    "latitude": 41.1865974,
+    "longitude": 1.2082805,
+    "BLOC": 4
+  },
+  {
+    "municipi": "Vilallonga del Camp",
+    "latitude": 41.2080149,
+    "longitude": 1.2074709,
+    "BLOC": 4
+  },
+  {
+    "municipi": "Nou de Gaià",
+    "latitude": 41.1822282,
+    "longitude": 1.3738261,
+    "BLOC": 4
+  },
+  {
+    "municipi": "La Riera de Gaià",
+    "latitude": 41.1686281,
+    "longitude": 1.3582853,
+    "BLOC": 4
+  },
+  {
+    "municipi": "El Catllar",
+    "latitude": 41.1748794,
+    "longitude": 1.3256814,
+    "BLOC": 4
+  },
+  {
+    "municipi": "La Secuita",
+    "latitude": 41.2040962,
+    "longitude": 1.280166,
+    "BLOC": 4
+  },
+  {
+    "municipi": "Renau",
+    "latitude": 41.2249813,
+    "longitude": 1.3113308,
+    "BLOC": 4
+  },
+  {
+    "municipi": "Montblanc",
+    "latitude": 41.3762309,
+    "longitude": 1.1620703,
+    "BLOC": 1
+  },
+  {
+    "municipi": "Montblanc",
+    "latitude": 41.3762309,
+    "longitude": 1.1620703,
+    "BLOC": 2
+  },
+  {
+    "municipi": "Montblanc",
+    "latitude": 41.3762309,
+    "longitude": 1.1620703,
+    "BLOC": 3
+  },
+  {
+    "municipi": "Montblanc",
+    "latitude": 41.3762309,
+    "longitude": 1.1620703,
+    "BLOC": 4
+  }
+]

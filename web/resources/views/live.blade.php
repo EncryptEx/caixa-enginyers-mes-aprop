@@ -25,7 +25,7 @@ function getDirectionsUrl($source, $destination)
             width: 300px;
             height: 300px;
             border-radius: 50%;
-            background: conic-gradient(#4caf50 0%, #4caf50 0%, #ddd 0%);
+            background: conic-gradient(rgb(96 165 250 / var(--tw-text-opacity,1)) 0%, #4caf50 0%, #ddd 0%);
             display: flex;
             align-items: center;
             justify-content: center;
@@ -69,7 +69,7 @@ function getDirectionsUrl($source, $destination)
                     <h2 class="text-2xl font-semibold text-gray-800 dark:text-gray-200 leading-tight items-center justify-center text-center">
                         @if(isset($event))
                             @if ($event['tipus'] == 'sortida')
-                                Conduïnt cap a <u>{{ $event['desti'] }}</u>.
+                                Conduïnt cap a <u>{{ $event['desti'] }}</u> desde <u>{{ $event['lloc_sortida'] }} </u>.
                                 <br>Link a la ubicació: <a href="{{ getDirectionsUrl($event['lloc_sortida'], $event['desti']) }}"
                                     class="text-blue-500 dark:text-blue-400"> aquí.</a>
                             @else
@@ -175,7 +175,7 @@ function getDirectionsUrl($source, $destination)
                     const percentage = Math.min(Math.max(value, 0), 100);
                     const degree = (percentage / 100) * 360;
 
-                    progressCircle.style.background = `conic-gradient(#4caf50 ${degree}deg, #ddd ${degree}deg)`;
+                    progressCircle.style.background = `conic-gradient(rgb(96 165 250 / var(--tw-text-opacity,1)) ${degree}deg, #ddd ${degree}deg)`;
                 }
             </script>
         @endif

@@ -35,17 +35,24 @@ class MapController extends Controller
         //           "desti": "berga"
         //         },
 
+        $today = date('Y-m-d'); // Get current date in 'YYYY-MM-DD' format
+
+        $events = [];
+        
         foreach ($elems as $elem) {
-            if($elem['tipus'] == 'sortida'){
+            // Check if the event is a 'sortida' and its date matches the current date
+            if ($elem['tipus'] == 'sortida' && substr($elem['hora'], 0, 10) == $today) {
                 $events[] = [
                     'title' => 'Viatjant a ' . $elem['desti'],
                     'lloc_sortida' => $elem['lloc_sortida'],
                     'desti' => $elem['desti'],
                 ];
                 $last = $elem['desti'];
-                continue;
             }
         }
+        
+        // Now $events will contain only events from the current day
+        
  
         return view('map', compact('events'));
     }

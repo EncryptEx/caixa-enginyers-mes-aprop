@@ -1,8 +1,10 @@
 import json
 from flask import Flask, jsonify, request
+from flask_cors import CORS
 
 app = Flask(__name__)
 
+CORS(app)
 
 @app.route("/")
 def readFile():
@@ -19,18 +21,30 @@ def generate():
     try:
         # Get the JSON data from the request
         data = request.get_json()
-        
+
         # Store the JSON data in the feedback_responses variable
         # HERE YOU HAVE THE DATA:
         feedback_responses = data
-        
+
         # Print the feedback_responses variable to verify
         # print(json.dumps(feedback_responses, indent=4))
         print(feedback_responses)
-        
-        return jsonify({'message': 'Data received successfully!'}), 200
+
+        return jsonify({"message": "Data received successfully!"}), 200
     except Exception as e:
-        return jsonify({'message': 'Failed to receive data', 'error': str(e)}), 400
+        return jsonify({"message": "Failed to receive data", "error": str(e)}), 400
+
+
+# create a function that given a city name returns the lat and lon
+@app.route("/discover/<city_name>")
+def discover(city_name):
+    with open("coords.json", "r") as file:
+        data = json.load(file)
+    # print(data)
+    for city in data:
+        if city["municipi"].lower() == city_name.lower():
+            return jsonify({"lat": city["latitude"], "lng": city["longitude"]})
+    return jsonify({"error": "City not found"}), 404
 
 
 if __name__ == "__main__":

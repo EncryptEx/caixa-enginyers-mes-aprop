@@ -35,12 +35,14 @@
 
         // Function to add a route to the map
         function addRoute(departure, destination) {
-            fetch(`https://nominatim.openstreetmap.org/search?format=json&q=${departure}`)
+            fetch(`{{ env('DATA_URI') }}/discover/${departure}`)
                 .then(response => response.json())
                 .then(data => {
                     if (data.length > 0) {
+                        console.log(data);
+                        debugger;
                         var departureLatLng = [data[0].lat, data[0].lon];
-                        fetch(`https://nominatim.openstreetmap.org/search?format=json&q=${destination}`)
+                        fetch(`{{ env('DATA_URI') }}/discover/${destination}`)
                             .then(response => response.json())
                             .then(data => {
                                 if (data.length > 0) {
@@ -53,9 +55,10 @@
                 });
         }
 
+        debugger;
         // Plot routes from data
         @foreach ($events as $item)
-       
+        
                 addRoute('{{ $item["lloc_sortida"] }}', '{{ $item["desti"] }}');
        
         @endforeach
