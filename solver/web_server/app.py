@@ -1,3 +1,4 @@
+import json
 from flask import Flask, jsonify
 
 app = Flask(__name__)
@@ -7,8 +8,8 @@ app = Flask(__name__)
 def readFile():
     # read file
     # return file content
-    with open('data.json', 'r') as file:
-        data = file.read()
+    with open('solucio.json', 'r') as file:
+        data = json.load(file)
     return jsonify(data)
 
 
