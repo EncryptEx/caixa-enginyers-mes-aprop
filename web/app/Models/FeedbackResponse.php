@@ -10,6 +10,8 @@ class FeedbackResponse extends Model
 
     protected $fillable = [
         'rating',
+        'question',
+        'timetable'
     ];
 
 
