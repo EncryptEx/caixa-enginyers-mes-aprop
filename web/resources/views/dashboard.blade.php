@@ -15,7 +15,7 @@
                 headerToolbar: {
                 left: 'prev,next',
                 center: 'title',
-                right: 'timeGridDay,timeGridFourDay',
+                right: 'timeGridDay,timeGridFourDay,dayGridMonth,listWeek',
                 },
                 views: {
                 timeGridFourDay: {
@@ -39,6 +39,16 @@
                     border-color: var(--lt-color-gray-600, #5e636e) !important;
                     color: var(--lt-color-gray-200, #f1f3f9);
                 }
+                fc .fc-list-event td, .fc .fc-list-event:hover td{
+                    background-color: var(--lt-color-gray-800, #2d2f36) !important;
+                }
+                .fc .fc-list-sticky .fc-list-day > * {
+                    background-color: var(--lt-color-gray-800, #2d2f36) !important;
+                }
+
+            }
+            [class^="fc"][scope="colgroup"] {
+                background-color: var(--lt-color-gray-800, #2d2f36);
             }
             @media (prefers-color-scheme: light) {
                 #calendar * {
