@@ -35,30 +35,28 @@ Design a software capable of proposing optimized routes for a mobile office (van
 # Table of Contents
 
 1. [Project Overview](#project-ov)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Learning](#learning)
-5. [License](#license) <br><br>
+2. [Challenges we ran into](#callenge)
+3. [Learning](#learning)
+4. [Next](#next)
+5. [Licence](#license) <br><br>
 
 <a name="project-ov"></a>
 ## Project Overview
+We devided the work in forntend and backend. For the forntend we build a web with Laravel (php). And backend with Python and Flask, modeling the Algorithm. 
 
-
-
-Todo:
-explicar aixo 
-DATA_URI="http://127.0.0.1:5000/"
-
-hi ha una variable d'entorn al servei de laravel que necessita comunicar-se amb el sevei flask muntat al servei d'algorismia. Cal arrancar el server de flask primer i obtenir la ip d'aquest per posar-ho com a env variable al servei de laravel per a un correcte funcionament. 
-
-<a name="installation"></a>
-## Installation
-
-<a name="usage"></a>
-## Usage
+<a name="callenge"></a>
+## Challenges we ran into
+Finding a good modelizations and algorithm. Also the heuristic for calculating the optimal routes. Work with new frameworks, and moreover having to calculate distances from all pairs of cities. And little details like correcting the names of the dataset of small cities so the API recognised them inside Spain.
 
 <a name="learning"></a>
 ## Learning 🎓
+We paractised and learned  Technologies and Tools, like Python for all the backend and data processing. Laravel (php): the main framework for the web application development. Tailwind (CSS): Used for efficient and flexible styling in the web. Flask: For building the APIs. Pandas: Employed for data manipulation and analysis, and working with .csv files. OpenStreetMap: Integrated for rich mapping functionalities. Leaflet: Employed for the interactive map in our web. Ngrok: Utilized for secure tunneling to connect IPs. Also working with APIs, and little thinks like improving the quality of the readme in Github.
+
+<a name="next"></a>
+## What's next for Caixa Enginyers mes a prop
+Send SMS messages to the users so they can answer the feedback forms.
+Improve the feedback data collections and improving of the routes.
+
 
 <a name="license"></a>
 ## License ⚖️
