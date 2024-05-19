@@ -38,7 +38,8 @@ Design a software capable of proposing optimized routes for a mobile office (van
 2. [Challenges we ran into](#callenge)
 3. [Learning](#learning)
 4. [Next](#next)
-5. [Licence](#license) <br><br>
+5. [Screenshots](#screen)
+6. [Licence](#license)<br><br>
 
 <a name="project-ov"></a>
 ## Project Overview
@@ -56,6 +57,12 @@ We paractised and learned  Technologies and Tools, like Python for all the backe
 ## What's next for Caixa Enginyers mes a prop
 Send SMS messages to the users so they can answer the feedback forms.
 Improve the feedback data collections and improving of the routes.
+
+<a name="screen"></a>
+## Screenshots
+![d](https://github.com/EncryptEx/caixa-enginyers-mes-aprop/assets/95536223/b93fad29-b3df-42ad-b32f-01c0538c5c37)
+![b](https://github.com/EncryptEx/caixa-enginyers-mes-aprop/assets/95536223/fef7a4ef-d813-4e4e-b888-b242d55f1764)
+![e](https://github.com/EncryptEx/caixa-enginyers-mes-aprop/assets/95536223/a02c9823-6f25-44e4-a614-fea12bb827a7)
 
 
 <a name="license"></a>
