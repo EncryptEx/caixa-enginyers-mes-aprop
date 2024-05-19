@@ -23,7 +23,10 @@
                         <x-nav-link :href="route('live')" :active="request()->routeIs('live')">
                             {{ __('En viu') }}
                         </x-nav-link>
-                        <x-nav-link :href="route('generate')" :active="request()->routeIs('metrics')">
+                        <x-nav-link :href="route('map')" :active="request()->routeIs('map')">
+                            {{ __('Mapa d\'avui') }}
+                        </x-nav-link>
+                        <x-nav-link :href="route('generate')" :active="request()->routeIs('generate')">
                             {{ __('Genera') }}
                         </x-nav-link>
                     @endif
