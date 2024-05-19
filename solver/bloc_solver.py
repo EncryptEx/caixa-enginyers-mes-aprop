@@ -2,6 +2,7 @@ import random
 import pandas as pd
 from copy import deepcopy
 import math
+from json_translator import compute_route
 
 MAX_HORES = 8
 PARAM_PONDERADOR_HORES = 1
@@ -90,57 +91,66 @@ def get_ponderador(city, min_times, param):
 def assignacio_optima_ciutats(day, distancies_entre_ciutats_lot, min_times):
     new_order = []
     total_time = 0
-
-    current_city = day[0]
-    new_order.append(current_city)
     total_time_activity = 0
-    while len(new_order) < len(day):
-        min_distance = float('inf')
-        next_city = None
 
-        for city in day:
-            if city not in new_order:
-                distance = get_distance(current_city, city, distancies_entre_ciutats_lot)
-                #distance -= PARAM_PONDERADOR_HORES * (get_ponderador(city, min_times, "MATI") if total_time < 4.5 else (get_ponderador(city, min_times, "MIGDIA") if total_time < 7.5 else get_ponderador(city, min_times, "TARDA") ))
-                if distance < min_distance:
-                    min_distance = distance
-                    next_city = city
+    if len(day) > 0:
+        current_city = day[0]
+        new_order.append(current_city)
+        
+        while len(new_order) < len(day):
+            min_distance = float('inf')
+            next_city = None
 
-        if next_city:
-            new_order.append(next_city)
-            total_time += min_distance
-            total_time_activity += min_distance
-            current_city = next_city
+            for city in day:
+                if city not in new_order:
+                    distance = get_distance(current_city, city, distancies_entre_ciutats_lot)
+                    #distance -= PARAM_PONDERADOR_HORES * (get_ponderador(city, min_times, "MATI") if total_time < 4.5 else (get_ponderador(city, min_times, "MIGDIA") if total_time < 7.5 else get_ponderador(city, min_times, "TARDA") ))
+                    if distance < min_distance:
+                        min_distance = distance
+                        next_city = city
+
+            if next_city:
+                new_order.append(next_city)
+                total_time += min_distance
+                total_time_activity += min_distance
+                total_time_activity += get_min_time(next_city, min_times)
+                current_city = next_city
+
+
     print(f"total_time_driving: {total_time}")
-    return new_order, total_time
+    print(f"total_time_activity: {total_time_activity}")
+    return new_order, total_time, total_time_activity
 
 
-def heuristic_m(week, distancies_entre_ciutats_lot, min_times, origen_city):
+def heuristic(week, distancies_entre_ciutats_lot, min_times, origen_city):
+    total_travel_time = 0
     heuristi = 0
-    for _, dayog in enumerate(week):
+    for dayog in week:
         day = deepcopy(dayog)
-        day.append(origen_city)
-        optimal_distribution, optimal_time = assignacio_optima_ciutats(day, distancies_entre_ciutats_lot)
+        #day.append(origen_city)
+        day = [origen_city] + day
+        optimal_distribution, optimal_time_traveling, total_time_heuristic = assignacio_optima_ciutats(day, distancies_entre_ciutats_lot, min_times)
         temps_treballant = sum(list(get_min_time(city, min_times) for city in optimal_distribution))
         
-        total_day_time = temps_treballant + optimal_time
+        total_day_time = temps_treballant + optimal_time_traveling
 
         if total_day_time > MAX_HORES:
-            heuristi +=  -100*(temps_treballant + optimal_time -MAX_HORES)
+            heuristi +=  -1000*(temps_treballant - MAX_HORES ) + total_time_heuristic
         else:
-            heuristi += temps_treballant*100 - optimal_time
+            heuristi += total_time_heuristic*100 - optimal_time_traveling*100
             #heuristi += - optimal_time
+
     return heuristi
 
 #heuristic_minimize_travel_time
-def heuristic(week, distancies_entre_ciutats_lot, min_times, origen_city):
+def heuristic_minimize_travel_time(week, distancies_entre_ciutats_lot, min_times, origen_city):
     total_travel_time = 0
     heuristic = 0
     for day in week:
         day_cities = deepcopy(day)
         day_cities.append(origen_city)
         
-        optimal_distribution, optimal_time = assignacio_optima_ciutats(day_cities, distancies_entre_ciutats_lot, min_times)
+        optimal_distribution, optimal_time, _ = assignacio_optima_ciutats(day_cities, distancies_entre_ciutats_lot, min_times)
         working_time = sum(get_min_time(city, min_times) for city in optimal_distribution)
         
         total_day_time = working_time + optimal_time
@@ -216,16 +226,14 @@ def simulated_annealing(week, max_iterations, distancies_entre_ciutats_lot, min_
     return current_week
 
 
-
-
-def solve_bloc(bloc_id, lot_id):
+def solve_bloc(bloc_id, lot_id, data):
     lots = {}
     lots[2] = 1
     lots[4] = 2
     lots[5] = 3
     df_lot = pd.read_excel('../data/Dades_Municipis.xlsx', sheet_name=lots.get(lot_id))  # obrir lot 2
     distancies_entre_ciutats_lot = pd.read_csv(f'../data/distances_lot{lot_id}.csv')
-    min_times = pd.read_csv(f'../data/min_times_lot{lot_id}.csv')
+    min_times = pd.read_csv(f'../data/min_times.csv')
     origin_cities = pd.read_csv(f'../data/origin_cities.csv')
     origen_city = origin_cities[origin_cities["lot"] == lot_id].values[0]
     origen_city = origen_city[0]
@@ -248,9 +256,9 @@ def solve_bloc(bloc_id, lot_id):
 
 
     #best_week = hill_climbing(week, 1000, distancies_entre_ciutats_lot, min_times, origen_city)
-    max_iterations = 1000
-    initial_temp = 1000
-    cooling_rate = 0.99
+    max_iterations = 100
+    initial_temp = 100
+    cooling_rate = 0.95
 
     best_week = simulated_annealing(week, max_iterations, distancies_entre_ciutats_lot, min_times, origen_city, initial_temp, cooling_rate)
 
@@ -258,15 +266,19 @@ def solve_bloc(bloc_id, lot_id):
     print_week(best_week)
     print("--------------------------------------------")
 
-
-    for _, day in enumerate(best_week):
-        optimal_distribution, optimal_time = assignacio_optima_ciutats(day, distancies_entre_ciutats_lot, min_times)
-        temps_treballant = sum(list(get_min_time(city, min_times) for city in optimal_distribution))
-        if temps_treballant + optimal_time > MAX_HORES:
-            print("-------------FALSE---------------")
-        else:
-            print("-------------WORKS---------------")
-
-
-
-solve_bloc(3, 2)
+    final_route = []
+    for _, dayc in enumerate(best_week):
+        if dayc:
+            day = deepcopy(dayc)
+            day = [origen_city] + day
+            optimal_distribution, optimal_time, t = assignacio_optima_ciutats(day, distancies_entre_ciutats_lot, min_times)
+            temps_treballant = sum(list(get_min_time(city, min_times) for city in optimal_distribution))
+            print(f"total_time_working {t}")
+            #if temps_treballant + optimal_time > MAX_HORES:
+            if t > MAX_HORES:
+                print("-------------FALSE---------------")
+            else:
+                print("-------------WORKS---------------")
+            route = compute_route(optimal_distribution + [origen_city], data, min_times, distancies_entre_ciutats_lot)
+            final_route.extend(route)
+    return final_route

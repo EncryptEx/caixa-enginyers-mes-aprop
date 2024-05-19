@@ -486,6 +486,7 @@ BLOC,City1,City2,Duration (hours)
 2,Mediona,Montmell,0.9546666666666667
 2,Mediona,Salomó,1.0849444444444445
 2,Mediona,Vespella de Gaià,1.1417777777777778
+2,Mediona,Montblanc,1.0527777777777778
 2,Font-rubí,Pontons,0.3729166666666667
 2,Font-rubí,Torrelles de Foix,0.22469444444444445
 2,Font-rubí,Les Cabanyes,0.4069166666666667
@@ -507,6 +508,7 @@ BLOC,City1,City2,Duration (hours)
 2,Font-rubí,Montmell,0.8180000000000001
 2,Font-rubí,Salomó,0.9482777777777778
 2,Font-rubí,Vespella de Gaià,1.005111111111111
+2,Font-rubí,Montblanc,1.0854444444444444
 2,Pontons,Torrelles de Foix,0.1481111111111111
 2,Pontons,Les Cabanyes,0.41936111111111113
 2,Pontons,Pacs del Penedès,0.3281666666666667
@@ -527,6 +529,7 @@ BLOC,City1,City2,Duration (hours)
 2,Pontons,Montmell,0.74325
 2,Pontons,Salomó,0.6455555555555555
 2,Pontons,Vespella de Gaià,0.8331666666666667
+2,Pontons,Montblanc,0.7990277777777778
 2,Torrelles de Foix,Les Cabanyes,0.27125
 2,Torrelles de Foix,Pacs del Penedès,0.18005555555555558
 2,Torrelles de Foix,Sant Cugat Sesgarrigues,0.36569444444444443
@@ -546,6 +549,7 @@ BLOC,City1,City2,Duration (hours)
 2,Torrelles de Foix,Montmell,0.6823333333333333
 2,Torrelles de Foix,Salomó,0.7937777777777778
 2,Torrelles de Foix,Vespella de Gaià,0.8694444444444445
+2,Torrelles de Foix,Montblanc,0.9472499999999999
 2,Les Cabanyes,Pacs del Penedès,0.09083333333333334
 2,Les Cabanyes,Sant Cugat Sesgarrigues,0.19875
 2,Les Cabanyes,Santa Fe del Penedès,0.1257777777777778
@@ -564,6 +568,7 @@ BLOC,City1,City2,Duration (hours)
 2,Les Cabanyes,Montmell,0.5671388888888889
 2,Les Cabanyes,Salomó,0.6974166666666666
 2,Les Cabanyes,Vespella de Gaià,0.7542500000000001
+2,Les Cabanyes,Montblanc,0.8345833333333333
 2,Pacs del Penedès,Sant Cugat Sesgarrigues,0.22052777777777777
 2,Pacs del Penedès,Santa Fe del Penedès,0.20202777777777778
 2,Pacs del Penedès,Vilobí del Penedès,0.14094444444444443
@@ -581,6 +586,7 @@ BLOC,City1,City2,Duration (hours)
 2,Pacs del Penedès,Montmell,0.5371666666666667
 2,Pacs del Penedès,Salomó,0.6674444444444445
 2,Pacs del Penedès,Vespella de Gaià,0.7242777777777778
+2,Pacs del Penedès,Montblanc,0.804611111111111
 2,Sant Cugat Sesgarrigues,Santa Fe del Penedès,0.1318888888888889
 2,Sant Cugat Sesgarrigues,Vilobí del Penedès,0.27466666666666667
 2,Sant Cugat Sesgarrigues,Castellet i la Gornal,0.3399166666666667
@@ -597,6 +603,7 @@ BLOC,City1,City2,Duration (hours)
 2,Sant Cugat Sesgarrigues,Montmell,0.5580277777777778
 2,Sant Cugat Sesgarrigues,Salomó,0.6883055555555556
 2,Sant Cugat Sesgarrigues,Vespella de Gaià,0.7451388888888889
+2,Sant Cugat Sesgarrigues,Montblanc,0.8254722222222222
 2,Santa Fe del Penedès,Vilobí del Penedès,0.2231388888888889
 2,Santa Fe del Penedès,Castellet i la Gornal,0.3604444444444444
 2,Santa Fe del Penedès,Albinyana,0.5584722222222223
@@ -612,6 +619,7 @@ BLOC,City1,City2,Duration (hours)
 2,Santa Fe del Penedès,Montmell,0.5785555555555556
 2,Santa Fe del Penedès,Salomó,0.7088333333333334
 2,Santa Fe del Penedès,Vespella de Gaià,0.7656666666666667
+2,Santa Fe del Penedès,Montblanc,0.846
 2,Vilobí del Penedès,Castellet i la Gornal,0.4443888888888889
 2,Vilobí del Penedès,Albinyana,0.6326111111111111
 2,Vilobí del Penedès,Bonastre,0.7671388888888888
@@ -626,6 +634,7 @@ BLOC,City1,City2,Duration (hours)
 2,Vilobí del Penedès,Montmell,0.6526944444444444
 2,Vilobí del Penedès,Salomó,0.7829722222222222
 2,Vilobí del Penedès,Vespella de Gaià,0.8398055555555556
+2,Vilobí del Penedès,Montblanc,0.9201388888888888
 2,Castellet i la Gornal,Albinyana,0.22774999999999998
 2,Castellet i la Gornal,Bonastre,0.40049999999999997
 2,Castellet i la Gornal,Santa Oliva,0.17575000000000002
@@ -639,6 +648,7 @@ BLOC,City1,City2,Duration (hours)
 2,Castellet i la Gornal,Montmell,0.40269444444444447
 2,Castellet i la Gornal,Salomó,0.4653611111111111
 2,Castellet i la Gornal,Vespella de Gaià,0.5293333333333333
+2,Castellet i la Gornal,Montblanc,0.7111111111111111
 2,Albinyana,Bonastre,0.2515
 2,Albinyana,Santa Oliva,0.20755555555555558
 2,Albinyana,Olivella,0.7507222222222222
@@ -651,6 +661,7 @@ BLOC,City1,City2,Duration (hours)
 2,Albinyana,Montmell,0.3407222222222222
 2,Albinyana,Salomó,0.4033888888888889
 2,Albinyana,Vespella de Gaià,0.591
+2,Albinyana,Montblanc,0.6491388888888889
 2,Bonastre,Santa Oliva,0.41158333333333336
 2,Bonastre,Olivella,0.8183055555555556
 2,Bonastre,Olesa de Bonesvalls,0.9243055555555556
@@ -662,6 +673,7 @@ BLOC,City1,City2,Duration (hours)
 2,Bonastre,Montmell,0.32916666666666666
 2,Bonastre,Salomó,0.1973888888888889
 2,Bonastre,Vespella de Gaià,0.385
+2,Bonastre,Montblanc,0.5959166666666668
 2,Santa Oliva,Olivella,0.6989166666666666
 2,Santa Oliva,Olesa de Bonesvalls,0.7269166666666667
 2,Santa Oliva,Puigdàlber,0.5428333333333334
@@ -672,6 +684,7 @@ BLOC,City1,City2,Duration (hours)
 2,Santa Oliva,Montmell,0.36025
 2,Santa Oliva,Salomó,0.4459444444444445
 2,Santa Oliva,Vespella de Gaià,0.5250555555555556
+2,Santa Oliva,Montblanc,0.6686666666666666
 2,Olivella,Olesa de Bonesvalls,0.5659722222222222
 2,Olivella,Puigdàlber,0.4538333333333333
 2,Olivella,Sant Llorenç d'Hortons,0.7041666666666667
@@ -681,6 +694,7 @@ BLOC,City1,City2,Duration (hours)
 2,Olivella,Montmell,0.8063333333333333
 2,Olivella,Salomó,0.9366111111111112
 2,Olivella,Vespella de Gaià,0.9420555555555555
+2,Olivella,Montblanc,1.0737777777777777
 2,Olesa de Bonesvalls,Puigdàlber,0.4434722222222222
 2,Olesa de Bonesvalls,Sant Llorenç d'Hortons,0.8714722222222223
 2,Olesa de Bonesvalls,Subirats,0.3421666666666667
@@ -689,6 +703,7 @@ BLOC,City1,City2,Duration (hours)
 2,Olesa de Bonesvalls,Montmell,0.7959722222222222
 2,Olesa de Bonesvalls,Salomó,0.92625
 2,Olesa de Bonesvalls,Vespella de Gaià,0.9830833333333333
+2,Olesa de Bonesvalls,Montblanc,1.0634166666666667
 2,Puigdàlber,Sant Llorenç d'Hortons,0.44216666666666665
 2,Puigdàlber,Subirats,0.31483333333333335
 2,Puigdàlber,Torrelavit,0.21980555555555553
@@ -696,27 +711,35 @@ BLOC,City1,City2,Duration (hours)
 2,Puigdàlber,Montmell,0.6034444444444444
 2,Puigdàlber,Salomó,0.7337222222222223
 2,Puigdàlber,Vespella de Gaià,0.7905555555555556
+2,Puigdàlber,Montblanc,0.8708888888888888
 2,Sant Llorenç d'Hortons,Subirats,0.37722222222222224
 2,Sant Llorenç d'Hortons,Torrelavit,0.3646944444444445
 2,Sant Llorenç d'Hortons,Masllorenç,0.7797777777777777
 2,Sant Llorenç d'Hortons,Montmell,0.78475
 2,Sant Llorenç d'Hortons,Salomó,0.9150277777777778
 2,Sant Llorenç d'Hortons,Vespella de Gaià,0.9718611111111111
+2,Sant Llorenç d'Hortons,Montblanc,1.0521944444444444
 2,Subirats,Torrelavit,0.2879444444444444
 2,Subirats,Masllorenç,0.6816666666666666
 2,Subirats,Montmell,0.6866388888888889
 2,Subirats,Salomó,0.8169166666666667
 2,Subirats,Vespella de Gaià,0.87375
+2,Subirats,Montblanc,0.9540833333333333
 2,Torrelavit,Masllorenç,0.7339444444444444
 2,Torrelavit,Montmell,0.7389166666666667
 2,Torrelavit,Salomó,0.8691944444444444
 2,Torrelavit,Vespella de Gaià,0.9260277777777777
+2,Torrelavit,Montblanc,1.006361111111111
 2,Masllorenç,Montmell,0.17747222222222223
 2,Masllorenç,Salomó,0.14177777777777778
 2,Masllorenç,Vespella de Gaià,0.3293888888888889
+2,Masllorenç,Montblanc,0.5151944444444445
 2,Montmell,Salomó,0.3148611111111111
 2,Montmell,Vespella de Gaià,0.5024722222222222
+2,Montmell,Montblanc,0.6091944444444444
 2,Salomó,Vespella de Gaià,0.20438888888888887
+2,Salomó,Montblanc,0.5148611111111111
+2,Vespella de Gaià,Montblanc,0.7034722222222223
 3,Blancafort,Pira,0.7334722222222222
 3,Blancafort,Senan,0.9757499999999999
 3,Blancafort,Aiguamúrcia,0.7642222222222221
@@ -741,6 +764,7 @@ BLOC,City1,City2,Duration (hours)
 3,Blancafort,Vilabella,0.7227777777777777
 3,Blancafort,Nulles,0.6598888888888889
 3,Blancafort,Rourell,0.46147222222222223
+3,Blancafort,Montblanc,0.6469722222222222
 3,Pira,Senan,0.44122222222222224
 3,Pira,Aiguamúrcia,0.5045000000000001
 3,Pira,Cabra del Camp,0.21555555555555556
@@ -764,6 +788,7 @@ BLOC,City1,City2,Duration (hours)
 3,Pira,Vilabella,0.5739444444444444
 3,Pira,Nulles,0.5168333333333333
 3,Pira,Rourell,0.4036944444444444
+3,Pira,Montblanc,0.1613611111111111
 3,Senan,Aiguamúrcia,0.7520277777777779
 3,Senan,Cabra del Camp,0.5707222222222222
 3,Senan,Querol,0.7673888888888889
@@ -786,6 +811,7 @@ BLOC,City1,City2,Duration (hours)
 3,Senan,Vilabella,0.8094722222222221
 3,Senan,Nulles,0.7523611111111111
 3,Senan,Rourell,0.6392222222222221
+3,Senan,Montblanc,0.4002222222222222
 3,Aiguamúrcia,Cabra del Camp,0.3398333333333334
 3,Aiguamúrcia,Querol,0.33311111111111114
 3,Aiguamúrcia,Pontils,0.5663611111111111
@@ -807,6 +833,7 @@ BLOC,City1,City2,Duration (hours)
 3,Aiguamúrcia,Vilabella,0.40994444444444444
 3,Aiguamúrcia,Nulles,0.3750555555555556
 3,Aiguamúrcia,Rourell,0.408
+3,Aiguamúrcia,Montblanc,0.4861111111111111
 3,Cabra del Camp,Querol,0.3557222222222222
 3,Cabra del Camp,Pontils,0.53725
 3,Cabra del Camp,Figuerola del Camp,0.138
@@ -827,6 +854,7 @@ BLOC,City1,City2,Duration (hours)
 3,Cabra del Camp,Vilabella,0.49930555555555556
 3,Cabra del Camp,Nulles,0.44219444444444445
 3,Cabra del Camp,Rourell,0.4311666666666667
+3,Cabra del Camp,Montblanc,0.29086111111111107
 3,Querol,Pontils,0.23325
 3,Querol,Figuerola del Camp,0.3501388888888889
 3,Querol,Montferri,0.45641666666666664
@@ -846,6 +874,7 @@ BLOC,City1,City2,Duration (hours)
 3,Querol,Vilabella,0.6553333333333333
 3,Querol,Nulles,0.5982222222222222
 3,Querol,Rourell,0.5871944444444445
+3,Querol,Montblanc,0.5062777777777777
 3,Pontils,Figuerola del Camp,0.5822777777777777
 3,Pontils,Montferri,0.6885555555555556
 3,Pontils,Rodonyà,0.7072499999999999
@@ -864,6 +893,7 @@ BLOC,City1,City2,Duration (hours)
 3,Pontils,Vilabella,0.8874722222222222
 3,Pontils,Nulles,0.8303611111111112
 3,Pontils,Rourell,0.8193333333333334
+3,Pontils,Montblanc,0.616
 3,Figuerola del Camp,Montferri,0.3231111111111111
 3,Figuerola del Camp,Rodonyà,0.34180555555555553
 3,Figuerola del Camp,Vallclara,0.6175833333333334
@@ -881,6 +911,7 @@ BLOC,City1,City2,Duration (hours)
 3,Figuerola del Camp,Vilabella,0.4948888888888889
 3,Figuerola del Camp,Nulles,0.43777777777777777
 3,Figuerola del Camp,Rourell,0.40438888888888885
+3,Figuerola del Camp,Montblanc,0.37297222222222226
 3,Montferri,Rodonyà,0.11516666666666667
 3,Montferri,Vallclara,0.6883333333333334
 3,Montferri,Vilanova de Prades,0.7888055555555555
@@ -897,6 +928,7 @@ BLOC,City1,City2,Duration (hours)
 3,Montferri,Vilabella,0.23927777777777778
 3,Montferri,Nulles,0.2349166666666667
 3,Montferri,Rourell,0.3635
+3,Montferri,Montblanc,0.4416111111111111
 3,Rodonyà,Vallclara,0.7037777777777777
 3,Rodonyà,Vilanova de Prades,0.80425
 3,Rodonyà,Mont-ral,0.6955
@@ -912,6 +944,7 @@ BLOC,City1,City2,Duration (hours)
 3,Rodonyà,Vilabella,0.33752777777777776
 3,Rodonyà,Nulles,0.33316666666666667
 3,Rodonyà,Rourell,0.3789444444444445
+3,Rodonyà,Montblanc,0.4570555555555556
 3,Vallclara,Vilanova de Prades,0.11708333333333333
 3,Vallclara,Mont-ral,0.7960833333333334
 3,Vallclara,La Riba,0.4846944444444445
@@ -926,6 +959,7 @@ BLOC,City1,City2,Duration (hours)
 3,Vallclara,Vilabella,0.7755555555555556
 3,Vallclara,Nulles,0.7184444444444444
 3,Vallclara,Rourell,0.6053055555555555
+3,Vallclara,Montblanc,0.36630555555555555
 3,Vilanova de Prades,Mont-ral,0.6878888888888889
 3,Vilanova de Prades,La Riba,0.5843055555555555
 3,Vilanova de Prades,Vilaverd,0.5190277777777778
@@ -939,6 +973,7 @@ BLOC,City1,City2,Duration (hours)
 3,Vilanova de Prades,Vilabella,0.8751666666666666
 3,Vilanova de Prades,Nulles,0.8180555555555555
 3,Vilanova de Prades,Rourell,0.7049166666666666
+3,Vilanova de Prades,Montblanc,0.46591666666666665
 3,Mont-ral,La Riba,0.4971944444444445
 3,Mont-ral,Vilaverd,0.5238888888888888
 3,Mont-ral,Garidells,0.5982777777777778
@@ -951,6 +986,7 @@ BLOC,City1,City2,Duration (hours)
 3,Mont-ral,Vilabella,0.7314166666666666
 3,Mont-ral,Nulles,0.6485277777777777
 3,Mont-ral,Rourell,0.538
+3,Mont-ral,Montblanc,0.5984999999999999
 3,La Riba,Vilaverd,0.10433333333333333
 3,La Riba,Garidells,0.3894444444444444
 3,La Riba,Masó,1.0155555555555555
@@ -959,7 +995,10 @@ BLOC,City1,City2,Duration (hours)
 3,La Riba,Alió,0.3760277777777778
 3,La Riba,Bràfim,0.5295555555555556
 3,La Riba,Puigpelat,0.3920555555555556
+3,La Riba,Vilabella,0.5225833333333333
+3,La Riba,Nulles,0.43969444444444444
 3,La Riba,Rourell,0.32916666666666666
+3,La Riba,Montblanc,0.19766666666666668
 3,Vilaverd,Garidells,0.41511111111111115
 3,Vilaverd,Masó,0.9573055555555556
 3,Vilaverd,El Milà,0.26230555555555557
@@ -970,6 +1009,7 @@ BLOC,City1,City2,Duration (hours)
 3,Vilaverd,Vilabella,0.5238055555555555
 3,Vilaverd,Nulles,0.4653611111111111
 3,Vilaverd,Rourell,0.35355555555555557
+3,Vilaverd,Montblanc,0.13083333333333333
 3,Garidells,Masó,0.72975
 3,Garidells,El Milà,0.23591666666666666
 3,Garidells,Vallmoll,0.10202777777777779
@@ -979,6 +1019,7 @@ BLOC,City1,City2,Duration (hours)
 3,Garidells,Vilabella,0.30216666666666664
 3,Garidells,Nulles,0.23927777777777778
 3,Garidells,Rourell,0.1678611111111111
+3,Garidells,Montblanc,0.40122222222222226
 3,Masó,El Milà,0.8151944444444444
 3,Masó,Vallmoll,0.8286111111111111
 3,Masó,Alió,0.7044444444444444
@@ -987,6 +1028,7 @@ BLOC,City1,City2,Duration (hours)
 3,Masó,Vilabella,0.8930833333333333
 3,Masó,Nulles,0.8512777777777778
 3,Masó,Rourell,0.7471388888888888
+3,Masó,Montblanc,0.9308333333333333
 3,El Milà,Vallmoll,0.18433333333333335
 3,El Milà,Alió,0.24725
 3,El Milà,Bràfim,0.4007777777777778
@@ -994,27 +1036,35 @@ BLOC,City1,City2,Duration (hours)
 3,El Milà,Vilabella,0.3938055555555556
 3,El Milà,Nulles,0.3109166666666667
 3,El Milà,Rourell,0.10352777777777777
+3,El Milà,Montblanc,0.34041666666666665
 3,Vallmoll,Alió,0.19711111111111113
 3,Vallmoll,Bràfim,0.3506388888888889
 3,Vallmoll,Puigpelat,0.21313888888888888
 3,Vallmoll,Vilabella,0.3436666666666667
 3,Vallmoll,Nulles,0.2607777777777778
 3,Vallmoll,Rourell,0.1262222222222222
+3,Vallmoll,Montblanc,0.35694444444444445
 3,Alió,Bràfim,0.2058888888888889
 3,Alió,Puigpelat,0.11330555555555555
 3,Alió,Vilabella,0.2603888888888889
 3,Alió,Nulles,0.21891666666666668
 3,Alió,Rourell,0.25186111111111115
+3,Alió,Montblanc,0.3299722222222222
 3,Bràfim,Puigpelat,0.15794444444444444
 3,Bràfim,Vilabella,0.13102777777777777
 3,Bràfim,Nulles,0.12666666666666668
 3,Bràfim,Rourell,0.3635555555555555
+3,Bràfim,Montblanc,0.44166666666666665
 3,Puigpelat,Vilabella,0.1925
 3,Puigpelat,Nulles,0.1510277777777778
 3,Puigpelat,Rourell,0.26594444444444443
+3,Puigpelat,Montblanc,0.3556111111111111
 3,Vilabella,Nulles,0.12058333333333333
 3,Vilabella,Rourell,0.3728611111111111
+3,Vilabella,Montblanc,0.46252777777777776
 3,Nulles,Rourell,0.3141388888888889
+3,Nulles,Montblanc,0.44375
+3,Rourell,Montblanc,0.3279444444444444
 4,Argentera,Botarell,0.2758611111111111
 4,Argentera,Colldejou,0.4411666666666667
 4,Argentera,Pratdip,0.6803888888888889
@@ -1039,6 +1089,7 @@ BLOC,City1,City2,Duration (hours)
 4,Argentera,El Catllar,0.8283611111111111
 4,Argentera,La Secuita,0.8506388888888889
 4,Argentera,Renau,0.9598055555555556
+4,Argentera,Montblanc,0.9852777777777778
 4,Botarell,Colldejou,0.41280555555555554
 4,Botarell,Pratdip,0.4457777777777778
 4,Botarell,Riudecanyes,0.0976111111111111
@@ -1062,6 +1113,7 @@ BLOC,City1,City2,Duration (hours)
 4,Botarell,El Catllar,0.5899722222222222
 4,Botarell,La Secuita,0.61225
 4,Botarell,Renau,0.7214166666666666
+4,Botarell,Montblanc,0.7179444444444444
 4,Colldejou,Pratdip,0.3245
 4,Colldejou,Riudecanyes,0.4176388888888889
 4,Colldejou,Vilanova d'Escornalbou,0.27447222222222223
@@ -1084,6 +1136,7 @@ BLOC,City1,City2,Duration (hours)
 4,Colldejou,El Catllar,0.8471944444444445
 4,Colldejou,La Secuita,0.8694722222222222
 4,Colldejou,Renau,0.9786388888888888
+4,Colldejou,Montblanc,1.0041111111111112
 4,Pratdip,Riudecanyes,0.4922777777777778
 4,Pratdip,Vilanova d'Escornalbou,0.4018611111111111
 4,Pratdip,Aleixar,0.6664722222222222
@@ -1105,6 +1158,7 @@ BLOC,City1,City2,Duration (hours)
 4,Pratdip,El Catllar,0.7575555555555555
 4,Pratdip,La Secuita,0.7876944444444444
 4,Pratdip,Renau,0.8968611111111111
+4,Pratdip,Montblanc,0.9415
 4,Riudecanyes,Vilanova d'Escornalbou,0.15325000000000003
 4,Riudecanyes,Aleixar,0.36530555555555555
 4,Riudecanyes,Alforja,0.36997222222222226
@@ -1125,6 +1179,7 @@ BLOC,City1,City2,Duration (hours)
 4,Riudecanyes,El Catllar,0.6348888888888888
 4,Riudecanyes,La Secuita,0.6571666666666667
 4,Riudecanyes,Renau,0.7663333333333334
+4,Riudecanyes,Montblanc,0.7918055555555555
 4,Vilanova d'Escornalbou,Aleixar,0.49030555555555555
 4,Vilanova d'Escornalbou,Alforja,0.5173611111111112
 4,Vilanova d'Escornalbou,Duesaigües,0.30575
@@ -1144,6 +1199,7 @@ BLOC,City1,City2,Duration (hours)
 4,Vilanova d'Escornalbou,El Catllar,0.6861388888888889
 4,Vilanova d'Escornalbou,La Secuita,0.7084166666666667
 4,Vilanova d'Escornalbou,Renau,0.8175833333333333
+4,Vilanova d'Escornalbou,Montblanc,0.8430555555555556
 4,Aleixar,Alforja,0.2208888888888889
 4,Aleixar,Duesaigües,0.48358333333333337
 4,Aleixar,Maspujols,0.06708333333333333
@@ -1162,6 +1218,7 @@ BLOC,City1,City2,Duration (hours)
 4,Aleixar,El Catllar,0.5270833333333333
 4,Aleixar,La Secuita,0.5480555555555555
 4,Aleixar,Renau,0.6572222222222223
+4,Aleixar,Montblanc,0.6293888888888889
 4,Alforja,Duesaigües,0.4892222222222222
 4,Alforja,Maspujols,0.25030555555555556
 4,Alforja,Riudecols,0.21669444444444444
@@ -1176,7 +1233,10 @@ BLOC,City1,City2,Duration (hours)
 4,Alforja,Vilallonga del Camp,0.5093611111111112
 4,Alforja,Nou de Gaià,0.7110277777777777
 4,Alforja,La Riera de Gaià,0.6770555555555556
+4,Alforja,El Catllar,0.6455833333333333
+4,Alforja,La Secuita,0.6665555555555556
 4,Alforja,Renau,0.7757222222222222
+4,Alforja,Montblanc,0.6885833333333333
 4,Duesaigües,Maspujols,0.4324444444444444
 4,Duesaigües,Riudecols,0.26969444444444446
 4,Duesaigües,Arbolí,0.7019444444444445
@@ -1193,6 +1253,7 @@ BLOC,City1,City2,Duration (hours)
 4,Duesaigües,El Catllar,0.7662777777777777
 4,Duesaigües,La Secuita,0.7885555555555556
 4,Duesaigües,Renau,0.8977222222222223
+4,Duesaigües,Montblanc,0.9231944444444444
 4,Maspujols,Riudecols,0.20230555555555554
 4,Maspujols,Arbolí,0.4828611111111111
 4,Maspujols,Capafonts,0.8649722222222223
@@ -1208,6 +1269,7 @@ BLOC,City1,City2,Duration (hours)
 4,Maspujols,El Catllar,0.4890555555555555
 4,Maspujols,La Secuita,0.5100277777777777
 4,Maspujols,Renau,0.6191944444444444
+4,Maspujols,Montblanc,0.6091111111111112
 4,Riudecols,Arbolí,0.44730555555555557
 4,Riudecols,Capafonts,0.98125
 4,Riudecols,La Febró,0.8161666666666666
@@ -1222,6 +1284,7 @@ BLOC,City1,City2,Duration (hours)
 4,Riudecols,El Catllar,0.5634444444444444
 4,Riudecols,La Secuita,0.5844166666666667
 4,Riudecols,Renau,0.6935833333333333
+4,Riudecols,Montblanc,0.6897222222222222
 4,Arbolí,Capafonts,0.6577777777777778
 4,Arbolí,La Febró,0.49269444444444443
 4,Arbolí,Vilaplana,0.37766666666666665
@@ -1235,6 +1298,7 @@ BLOC,City1,City2,Duration (hours)
 4,Arbolí,El Catllar,0.8703888888888889
 4,Arbolí,La Secuita,0.8913611111111112
 4,Arbolí,Renau,1.000527777777778
+4,Arbolí,Montblanc,0.9133888888888888
 4,Capafonts,La Febró,0.20202777777777778
 4,Capafonts,Vilaplana,0.7562777777777777
 4,Capafonts,Albiol,0.7040555555555555
@@ -1247,6 +1311,7 @@ BLOC,City1,City2,Duration (hours)
 4,Capafonts,El Catllar,1.0643888888888888
 4,Capafonts,La Secuita,0.9070277777777779
 4,Capafonts,Renau,0.9643333333333333
+4,Capafonts,Montblanc,0.8388333333333334
 4,La Febró,Vilaplana,0.5903333333333333
 4,La Febró,Albiol,0.5381111111111111
 4,La Febró,Almoster,0.8406666666666667
@@ -1258,6 +1323,7 @@ BLOC,City1,City2,Duration (hours)
 4,La Febró,El Catllar,1.1515555555555557
 4,La Febró,La Secuita,1.09025
 4,La Febró,Renau,1.1475555555555554
+4,La Febró,Montblanc,0.8576666666666667
 4,Vilaplana,Albiol,0.3918055555555556
 4,Vilaplana,Almoster,0.27725
 4,Vilaplana,Perafort,0.5049166666666667
@@ -1268,6 +1334,7 @@ BLOC,City1,City2,Duration (hours)
 4,Vilaplana,El Catllar,0.588138888888889
 4,Vilaplana,La Secuita,0.5831944444444445
 4,Vilaplana,Renau,0.6667777777777778
+4,Vilaplana,Montblanc,0.5664166666666667
 4,Albiol,Almoster,0.42325
 4,Albiol,Perafort,0.6220833333333333
 4,Albiol,Pobla de Mafumet,0.5386666666666666
@@ -1277,6 +1344,7 @@ BLOC,City1,City2,Duration (hours)
 4,Albiol,El Catllar,0.753
 4,Albiol,La Secuita,0.69375
 4,Albiol,Renau,0.7510555555555556
+4,Albiol,Montblanc,0.6506944444444445
 4,Almoster,Perafort,0.35577777777777775
 4,Almoster,Pobla de Mafumet,0.2723611111111111
 4,Almoster,Vilallonga del Camp,0.24783333333333335
@@ -1285,6 +1353,7 @@ BLOC,City1,City2,Duration (hours)
 4,Almoster,El Catllar,0.5013888888888889
 4,Almoster,La Secuita,0.43405555555555553
 4,Almoster,Renau,0.5176388888888889
+4,Almoster,Montblanc,0.4172777777777778
 4,Perafort,Pobla de Mafumet,0.12683333333333335
 4,Perafort,Vilallonga del Camp,0.16744444444444442
 4,Perafort,Nou de Gaià,0.41041666666666665
@@ -1292,24 +1361,32 @@ BLOC,City1,City2,Duration (hours)
 4,Perafort,El Catllar,0.24069444444444443
 4,Perafort,La Secuita,0.09936111111111111
 4,Perafort,Renau,0.20852777777777778
+4,Perafort,Montblanc,0.4483611111111111
 4,Pobla de Mafumet,Vilallonga del Camp,0.0788611111111111
 4,Pobla de Mafumet,Nou de Gaià,0.3969166666666667
 4,Pobla de Mafumet,La Riera de Gaià,0.3629444444444444
 4,Pobla de Mafumet,El Catllar,0.3446666666666667
 4,Pobla de Mafumet,La Secuita,0.19744444444444442
 4,Pobla de Mafumet,Renau,0.3066111111111111
+4,Pobla de Mafumet,Montblanc,0.3894722222222222
 4,Vilallonga del Camp,Nou de Gaià,0.447
 4,Vilallonga del Camp,La Riera de Gaià,0.4130277777777778
 4,Vilallonga del Camp,El Catllar,0.39475
 4,Vilallonga del Camp,La Secuita,0.2475277777777778
 4,Vilallonga del Camp,Renau,0.3566944444444444
+4,Vilallonga del Camp,Montblanc,0.3628888888888889
 4,Nou de Gaià,La Riera de Gaià,0.07819444444444444
 4,Nou de Gaià,El Catllar,0.17622222222222222
 4,Nou de Gaià,La Secuita,0.3388333333333333
 4,Nou de Gaià,Renau,0.4128888888888889
+4,Nou de Gaià,Montblanc,0.6392777777777778
 4,La Riera de Gaià,El Catllar,0.11263888888888889
 4,La Riera de Gaià,La Secuita,0.27525
 4,La Riera de Gaià,Renau,0.34930555555555554
+4,La Riera de Gaià,Montblanc,0.6798055555555556
 4,El Catllar,La Secuita,0.17752777777777778
 4,El Catllar,Renau,0.2515833333333333
+4,El Catllar,Montblanc,0.6291388888888889
 4,La Secuita,Renau,0.1218888888888889
+4,La Secuita,Montblanc,0.4696111111111111
+4,Renau,Montblanc,0.5237222222222222

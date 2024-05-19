@@ -39,7 +39,7 @@ def calculate_distances_by_bloc(csv_file, output_csv):
                         'BLOC': bloc,
                         'City1': city1['municipi'],
                         'City2': city2['municipi'],
-                        'City2': "Montblanc",
+                        #'City2': "Montblanc",
                         'Duration (hours)': duration
                     })
                 except ValueError as e:
