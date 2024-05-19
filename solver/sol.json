@@ -9,371 +9,384 @@
     },
     {
       "tipus": "arribada",
-      "hora": "2024-06-10T08:00:25+0200",
+      "hora": "2024-06-10T08:25:00+0200",
       "lloc_arribada": "Almoster",
       "duracio_estada": "60"
     },
     {
       "tipus": "sortida",
-      "hora": "2024-06-10T08:01:25+0200",
-      "temps_trajecte": "21",
+      "hora": "2024-06-10T09:25:00+0200",
+      "temps_trajecte": "19",
       "lloc_sortida": "Almoster",
+      "desti": "Riudecols"
+    },
+    {
+      "tipus": "arribada",
+      "hora": "2024-06-10T09:44:00+0200",
+      "lloc_arribada": "Riudecols",
+      "duracio_estada": "60"
+    },
+    {
+      "tipus": "sortida",
+      "hora": "2024-06-10T10:44:00+0200",
+      "temps_trajecte": "26",
+      "lloc_sortida": "Riudecols",
+      "desti": "Arbol\u00ed"
+    },
+    {
+      "tipus": "arribada",
+      "hora": "2024-06-10T11:10:00+0200",
+      "lloc_arribada": "Arbol\u00ed",
+      "duracio_estada": "30"
+    },
+    {
+      "tipus": "sortida",
+      "hora": "2024-06-10T11:40:00+0200",
+      "temps_trajecte": "29",
+      "lloc_sortida": "Arbol\u00ed",
+      "desti": "La Febr\u00f3"
+    },
+    {
+      "tipus": "arribada",
+      "hora": "2024-06-10T12:09:00+0200",
+      "lloc_arribada": "La Febr\u00f3",
+      "duracio_estada": "30"
+    },
+    {
+      "tipus": "sortida",
+      "hora": "2024-06-10T12:39:00+0200",
+      "temps_trajecte": "64",
+      "lloc_sortida": "La Febr\u00f3",
       "desti": "Perafort"
     },
     {
       "tipus": "arribada",
-      "hora": "2024-06-10T08:01:46+0200",
+      "hora": "2024-06-10T13:43:00+0200",
       "lloc_arribada": "Perafort",
       "duracio_estada": "60"
     },
     {
       "tipus": "sortida",
-      "hora": "2024-06-10T08:02:46+0200",
-      "temps_trajecte": "5",
+      "hora": "2024-06-10T14:43:00+0200",
+      "temps_trajecte": "12",
       "lloc_sortida": "Perafort",
-      "desti": "La Secuita"
+      "desti": "Renau"
     },
     {
       "tipus": "arribada",
-      "hora": "2024-06-10T08:02:52+0200",
-      "lloc_arribada": "La Secuita",
-      "duracio_estada": "60"
-    },
-    {
-      "tipus": "sortida",
-      "hora": "2024-06-10T08:03:52+0200",
-      "temps_trajecte": "39",
-      "lloc_sortida": "La Secuita",
-      "desti": "Alforja"
-    },
-    {
-      "tipus": "arribada",
-      "hora": "2024-06-10T08:04:32+0200",
-      "lloc_arribada": "Alforja",
-      "duracio_estada": "60"
-    },
-    {
-      "tipus": "sortida",
-      "hora": "2024-06-10T08:05:32+0200",
-      "temps_trajecte": "29",
-      "lloc_sortida": "Alforja",
-      "desti": "Duesaig\u00fces"
-    },
-    {
-      "tipus": "arribada",
-      "hora": "2024-06-10T08:06:01+0200",
-      "lloc_arribada": "Duesaig\u00fces",
+      "hora": "2024-06-10T14:55:00+0200",
+      "lloc_arribada": "Renau",
       "duracio_estada": "30"
     },
     {
       "tipus": "sortida",
-      "hora": "2024-06-10T08:06:31+0200",
-      "temps_trajecte": "70",
-      "lloc_sortida": "Duesaig\u00fces",
-      "desti": "Capafonts"
+      "hora": "2024-06-10T15:25:00+0200",
+      "temps_trajecte": "20",
+      "lloc_sortida": "Renau",
+      "desti": "La Riera de Gai\u00e0"
     },
     {
       "tipus": "arribada",
-      "hora": "2024-06-10T08:07:42+0200",
-      "lloc_arribada": "Capafonts",
-      "duracio_estada": "30"
+      "hora": "2024-06-10T15:45:00+0200",
+      "lloc_arribada": "La Riera de Gai\u00e0",
+      "duracio_estada": "60"
     },
     {
       "tipus": "sortida",
-      "hora": "2024-06-10T08:08:12+0200",
-      "temps_trajecte": "50",
-      "lloc_sortida": "Capafonts",
+      "hora": "2024-06-10T16:45:00+0200",
+      "temps_trajecte": "40",
+      "lloc_sortida": "La Riera de Gai\u00e0",
       "desti": "Montblanc"
     },
     {
       "tipus": "arribada",
-      "hora": "2024-06-10T08:09:02+0200",
+      "hora": "2024-06-10T17:25:00+0200",
       "lloc_arribada": "Montblanc",
       "duracio_estada": "0"
     },
     {
       "tipus": "sortida",
       "hora": "2024-06-11T08:00:00+0200",
-      "temps_trajecte": "23",
-      "lloc_sortida": "Montblanc",
-      "desti": "Pobla de Mafumet"
-    },
-    {
-      "tipus": "arribada",
-      "hora": "2024-06-11T08:00:23+0200",
-      "lloc_arribada": "Pobla de Mafumet",
-      "duracio_estada": "60"
-    },
-    {
-      "tipus": "sortida",
-      "hora": "2024-06-11T08:01:23+0200",
-      "temps_trajecte": "18",
-      "lloc_sortida": "Pobla de Mafumet",
-      "desti": "Renau"
-    },
-    {
-      "tipus": "arribada",
-      "hora": "2024-06-11T08:01:41+0200",
-      "lloc_arribada": "Renau",
-      "duracio_estada": "30"
-    },
-    {
-      "tipus": "sortida",
-      "hora": "2024-06-11T08:02:11+0200",
-      "temps_trajecte": "43",
-      "lloc_sortida": "Renau",
-      "desti": "Botarell"
-    },
-    {
-      "tipus": "arribada",
-      "hora": "2024-06-11T08:02:55+0200",
-      "lloc_arribada": "Botarell",
-      "duracio_estada": "60"
-    },
-    {
-      "tipus": "sortida",
-      "hora": "2024-06-11T08:03:55+0200",
-      "temps_trajecte": "16",
-      "lloc_sortida": "Botarell",
-      "desti": "Argentera"
-    },
-    {
-      "tipus": "arribada",
-      "hora": "2024-06-11T08:04:11+0200",
-      "lloc_arribada": "Argentera",
-      "duracio_estada": "30"
-    },
-    {
-      "tipus": "sortida",
-      "hora": "2024-06-11T08:04:41+0200",
-      "temps_trajecte": "40",
-      "lloc_sortida": "Argentera",
-      "desti": "Pratdip"
-    },
-    {
-      "tipus": "arribada",
-      "hora": "2024-06-11T08:05:22+0200",
-      "lloc_arribada": "Pratdip",
-      "duracio_estada": "60"
-    },
-    {
-      "tipus": "sortida",
-      "hora": "2024-06-11T08:06:22+0200",
-      "temps_trajecte": "77",
-      "lloc_sortida": "Pratdip",
-      "desti": "La Febr\u00f3"
-    },
-    {
-      "tipus": "arribada",
-      "hora": "2024-06-11T08:07:39+0200",
-      "lloc_arribada": "La Febr\u00f3",
-      "duracio_estada": "30"
-    },
-    {
-      "tipus": "sortida",
-      "hora": "2024-06-11T08:08:09+0200",
-      "temps_trajecte": "51",
-      "lloc_sortida": "La Febr\u00f3",
-      "desti": "Montblanc"
-    },
-    {
-      "tipus": "arribada",
-      "hora": "2024-06-11T08:09:01+0200",
-      "lloc_arribada": "Montblanc",
-      "duracio_estada": "0"
-    },
-    {
-      "tipus": "sortida",
-      "hora": "2024-06-12T08:00:00+0200",
       "temps_trajecte": "21",
       "lloc_sortida": "Montblanc",
       "desti": "Vilallonga del Camp"
     },
     {
       "tipus": "arribada",
-      "hora": "2024-06-12T08:00:21+0200",
+      "hora": "2024-06-11T08:21:00+0200",
       "lloc_arribada": "Vilallonga del Camp",
       "duracio_estada": "60"
     },
     {
       "tipus": "sortida",
-      "hora": "2024-06-12T08:01:21+0200",
-      "temps_trajecte": "23",
+      "hora": "2024-06-11T09:21:00+0200",
+      "temps_trajecte": "14",
       "lloc_sortida": "Vilallonga del Camp",
-      "desti": "El Catllar"
+      "desti": "La Secuita"
     },
     {
       "tipus": "arribada",
-      "hora": "2024-06-12T08:01:45+0200",
-      "lloc_arribada": "El Catllar",
+      "hora": "2024-06-11T09:35:00+0200",
+      "lloc_arribada": "La Secuita",
       "duracio_estada": "60"
     },
     {
       "tipus": "sortida",
-      "hora": "2024-06-12T08:02:45+0200",
-      "temps_trajecte": "29",
-      "lloc_sortida": "El Catllar",
-      "desti": "Maspujols"
+      "hora": "2024-06-11T10:35:00+0200",
+      "temps_trajecte": "20",
+      "lloc_sortida": "La Secuita",
+      "desti": "Nou de Gai\u00e0"
     },
     {
       "tipus": "arribada",
-      "hora": "2024-06-12T08:03:14+0200",
-      "lloc_arribada": "Maspujols",
+      "hora": "2024-06-11T10:55:00+0200",
+      "lloc_arribada": "Nou de Gai\u00e0",
       "duracio_estada": "60"
     },
     {
       "tipus": "sortida",
-      "hora": "2024-06-12T08:04:14+0200",
-      "temps_trajecte": "12",
-      "lloc_sortida": "Maspujols",
-      "desti": "Riudecols"
+      "hora": "2024-06-11T11:55:00+0200",
+      "temps_trajecte": "42",
+      "lloc_sortida": "Nou de Gai\u00e0",
+      "desti": "Riudecanyes"
     },
     {
       "tipus": "arribada",
-      "hora": "2024-06-12T08:04:26+0200",
-      "lloc_arribada": "Riudecols",
+      "hora": "2024-06-11T12:37:00+0200",
+      "lloc_arribada": "Riudecanyes",
       "duracio_estada": "60"
     },
     {
       "tipus": "sortida",
-      "hora": "2024-06-12T08:05:26+0200",
-      "temps_trajecte": "29",
-      "lloc_sortida": "Riudecols",
-      "desti": "Colldejou"
-    },
-    {
-      "tipus": "arribada",
-      "hora": "2024-06-12T08:05:56+0200",
-      "lloc_arribada": "Colldejou",
-      "duracio_estada": "30"
-    },
-    {
-      "tipus": "sortida",
-      "hora": "2024-06-12T08:06:26+0200",
-      "temps_trajecte": "61",
-      "lloc_sortida": "Colldejou",
-      "desti": "Albiol"
-    },
-    {
-      "tipus": "arribada",
-      "hora": "2024-06-12T08:07:27+0200",
-      "lloc_arribada": "Albiol",
-      "duracio_estada": "60"
-    },
-    {
-      "tipus": "sortida",
-      "hora": "2024-06-12T08:08:27+0200",
-      "temps_trajecte": "39",
-      "lloc_sortida": "Albiol",
+      "hora": "2024-06-11T13:37:00+0200",
+      "temps_trajecte": "47",
+      "lloc_sortida": "Riudecanyes",
       "desti": "Montblanc"
     },
     {
       "tipus": "arribada",
-      "hora": "2024-06-12T08:09:06+0200",
+      "hora": "2024-06-11T14:24:00+0200",
       "lloc_arribada": "Montblanc",
       "duracio_estada": "0"
     },
     {
       "tipus": "sortida",
-      "hora": "2024-06-13T08:00:00+0200",
+      "hora": "2024-06-12T08:00:00+0200",
       "temps_trajecte": "33",
       "lloc_sortida": "Montblanc",
       "desti": "Vilaplana"
     },
     {
       "tipus": "arribada",
-      "hora": "2024-06-13T08:00:33+0200",
+      "hora": "2024-06-12T08:33:00+0200",
       "lloc_arribada": "Vilaplana",
       "duracio_estada": "60"
     },
     {
       "tipus": "sortida",
-      "hora": "2024-06-13T08:01:33+0200",
-      "temps_trajecte": "5",
+      "hora": "2024-06-12T09:33:00+0200",
+      "temps_trajecte": "32",
       "lloc_sortida": "Vilaplana",
-      "desti": "Aleixar"
-    },
-    {
-      "tipus": "arribada",
-      "hora": "2024-06-13T08:01:39+0200",
-      "lloc_arribada": "Aleixar",
-      "duracio_estada": "60"
-    },
-    {
-      "tipus": "sortida",
-      "hora": "2024-06-13T08:02:39+0200",
-      "temps_trajecte": "21",
-      "lloc_sortida": "Aleixar",
-      "desti": "Riudecanyes"
-    },
-    {
-      "tipus": "arribada",
-      "hora": "2024-06-13T08:03:01+0200",
-      "lloc_arribada": "Riudecanyes",
-      "duracio_estada": "60"
-    },
-    {
-      "tipus": "sortida",
-      "hora": "2024-06-13T08:04:01+0200",
-      "temps_trajecte": "9",
-      "lloc_sortida": "Riudecanyes",
       "desti": "Vilanova d'Escornalbou"
     },
     {
       "tipus": "arribada",
-      "hora": "2024-06-13T08:04:10+0200",
+      "hora": "2024-06-12T10:05:00+0200",
       "lloc_arribada": "Vilanova d'Escornalbou",
       "duracio_estada": "60"
     },
     {
       "tipus": "sortida",
-      "hora": "2024-06-13T08:05:10+0200",
-      "temps_trajecte": "43",
+      "hora": "2024-06-12T11:05:00+0200",
+      "temps_trajecte": "16",
       "lloc_sortida": "Vilanova d'Escornalbou",
-      "desti": "La Riera de Gai\u00e0"
+      "desti": "Colldejou"
     },
     {
       "tipus": "arribada",
-      "hora": "2024-06-13T08:05:53+0200",
-      "lloc_arribada": "La Riera de Gai\u00e0",
-      "duracio_estada": "60"
-    },
-    {
-      "tipus": "sortida",
-      "hora": "2024-06-13T08:06:53+0200",
-      "temps_trajecte": "4",
-      "lloc_sortida": "La Riera de Gai\u00e0",
-      "desti": "Nou de Gai\u00e0"
-    },
-    {
-      "tipus": "arribada",
-      "hora": "2024-06-13T08:06:58+0200",
-      "lloc_arribada": "Nou de Gai\u00e0",
-      "duracio_estada": "60"
-    },
-    {
-      "tipus": "sortida",
-      "hora": "2024-06-13T08:07:58+0200",
-      "temps_trajecte": "56",
-      "lloc_sortida": "Nou de Gai\u00e0",
-      "desti": "Arbol\u00ed"
-    },
-    {
-      "tipus": "arribada",
-      "hora": "2024-06-13T08:08:54+0200",
-      "lloc_arribada": "Arbol\u00ed",
+      "hora": "2024-06-12T11:21:00+0200",
+      "lloc_arribada": "Colldejou",
       "duracio_estada": "30"
     },
     {
       "tipus": "sortida",
-      "hora": "2024-06-13T08:09:24+0200",
-      "temps_trajecte": "54",
-      "lloc_sortida": "Arbol\u00ed",
+      "hora": "2024-06-12T11:51:00+0200",
+      "temps_trajecte": "19",
+      "lloc_sortida": "Colldejou",
+      "desti": "Pratdip"
+    },
+    {
+      "tipus": "arribada",
+      "hora": "2024-06-12T12:10:00+0200",
+      "lloc_arribada": "Pratdip",
+      "duracio_estada": "60"
+    },
+    {
+      "tipus": "sortida",
+      "hora": "2024-06-12T13:10:00+0200",
+      "temps_trajecte": "40",
+      "lloc_sortida": "Pratdip",
+      "desti": "Argentera"
+    },
+    {
+      "tipus": "arribada",
+      "hora": "2024-06-12T13:50:00+0200",
+      "lloc_arribada": "Argentera",
+      "duracio_estada": "30"
+    },
+    {
+      "tipus": "sortida",
+      "hora": "2024-06-12T14:20:00+0200",
+      "temps_trajecte": "49",
+      "lloc_sortida": "Argentera",
+      "desti": "El Catllar"
+    },
+    {
+      "tipus": "arribada",
+      "hora": "2024-06-12T15:09:00+0200",
+      "lloc_arribada": "El Catllar",
+      "duracio_estada": "60"
+    },
+    {
+      "tipus": "sortida",
+      "hora": "2024-06-12T16:09:00+0200",
+      "temps_trajecte": "37",
+      "lloc_sortida": "El Catllar",
       "desti": "Montblanc"
     },
     {
       "tipus": "arribada",
-      "hora": "2024-06-13T08:10:19+0200",
+      "hora": "2024-06-12T16:46:00+0200",
+      "lloc_arribada": "Montblanc",
+      "duracio_estada": "0"
+    },
+    {
+      "tipus": "sortida",
+      "hora": "2024-06-13T08:00:00+0200",
+      "temps_trajecte": "23",
+      "lloc_sortida": "Montblanc",
+      "desti": "Pobla de Mafumet"
+    },
+    {
+      "tipus": "arribada",
+      "hora": "2024-06-13T08:23:00+0200",
+      "lloc_arribada": "Pobla de Mafumet",
+      "duracio_estada": "60"
+    },
+    {
+      "tipus": "sortida",
+      "hora": "2024-06-13T09:23:00+0200",
+      "temps_trajecte": "24",
+      "lloc_sortida": "Pobla de Mafumet",
+      "desti": "Maspujols"
+    },
+    {
+      "tipus": "arribada",
+      "hora": "2024-06-13T09:47:00+0200",
+      "lloc_arribada": "Maspujols",
+      "duracio_estada": "60"
+    },
+    {
+      "tipus": "sortida",
+      "hora": "2024-06-13T10:47:00+0200",
+      "temps_trajecte": "15",
+      "lloc_sortida": "Maspujols",
+      "desti": "Alforja"
+    },
+    {
+      "tipus": "arribada",
+      "hora": "2024-06-13T11:02:00+0200",
+      "lloc_arribada": "Alforja",
+      "duracio_estada": "60"
+    },
+    {
+      "tipus": "sortida",
+      "hora": "2024-06-13T12:02:00+0200",
+      "temps_trajecte": "29",
+      "lloc_sortida": "Alforja",
+      "desti": "Duesaig\u00fces"
+    },
+    {
+      "tipus": "arribada",
+      "hora": "2024-06-13T12:31:00+0200",
+      "lloc_arribada": "Duesaig\u00fces",
+      "duracio_estada": "30"
+    },
+    {
+      "tipus": "sortida",
+      "hora": "2024-06-13T13:01:00+0200",
+      "temps_trajecte": "54",
+      "lloc_sortida": "Duesaig\u00fces",
+      "desti": "Albiol"
+    },
+    {
+      "tipus": "arribada",
+      "hora": "2024-06-13T13:55:00+0200",
+      "lloc_arribada": "Albiol",
+      "duracio_estada": "60"
+    },
+    {
+      "tipus": "sortida",
+      "hora": "2024-06-13T14:55:00+0200",
+      "temps_trajecte": "42",
+      "lloc_sortida": "Albiol",
+      "desti": "Capafonts"
+    },
+    {
+      "tipus": "arribada",
+      "hora": "2024-06-13T15:37:00+0200",
+      "lloc_arribada": "Capafonts",
+      "duracio_estada": "30"
+    },
+    {
+      "tipus": "sortida",
+      "hora": "2024-06-13T16:07:00+0200",
+      "temps_trajecte": "50",
+      "lloc_sortida": "Capafonts",
+      "desti": "Montblanc"
+    },
+    {
+      "tipus": "arribada",
+      "hora": "2024-06-13T16:57:00+0200",
+      "lloc_arribada": "Montblanc",
+      "duracio_estada": "0"
+    },
+    {
+      "tipus": "sortida",
+      "hora": "2024-06-14T08:00:00+0200",
+      "temps_trajecte": "37",
+      "lloc_sortida": "Montblanc",
+      "desti": "Aleixar"
+    },
+    {
+      "tipus": "arribada",
+      "hora": "2024-06-14T08:37:00+0200",
+      "lloc_arribada": "Aleixar",
+      "duracio_estada": "60"
+    },
+    {
+      "tipus": "sortida",
+      "hora": "2024-06-14T09:37:00+0200",
+      "temps_trajecte": "16",
+      "lloc_sortida": "Aleixar",
+      "desti": "Botarell"
+    },
+    {
+      "tipus": "arribada",
+      "hora": "2024-06-14T09:53:00+0200",
+      "lloc_arribada": "Botarell",
+      "duracio_estada": "60"
+    },
+    {
+      "tipus": "sortida",
+      "hora": "2024-06-14T10:53:00+0200",
+      "temps_trajecte": "43",
+      "lloc_sortida": "Botarell",
+      "desti": "Montblanc"
+    },
+    {
+      "tipus": "arribada",
+      "hora": "2024-06-14T11:36:00+0200",
       "lloc_arribada": "Montblanc",
       "duracio_estada": "0"
     }
