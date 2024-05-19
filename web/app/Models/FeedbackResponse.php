@@ -9,11 +9,11 @@ class FeedbackResponse extends Model
 {
 
     protected $fillable = [
+        'municipi',
         'rating',
-        'question',
+        'time_increment',
         'timetable'
     ];
-
 
     use HasFactory;
 }

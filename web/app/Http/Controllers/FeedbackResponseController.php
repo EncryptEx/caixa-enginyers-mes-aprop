@@ -12,16 +12,18 @@ class FeedbackResponseController extends Controller
     {
         // Validate the form data
         $validated = $request->validate([
+            'municipi' => 'required|string',
             'rating' => 'required|numeric|min:1|max:5',
-            'question' => 'required|numeric',
-            'timetable' => 'required|numeric|min:1|max:3',
+            'time_increment' => 'required|numeric',
+            'timetable' => 'required|numeric|min:1|max:3'
         ]);
 
 
         // Save the form data to the database
         $form = new FeedbackResponse();
+        $form->municipi = $validated['municipi'];
         $form->rating = $validated['rating'];
-        $form->question = $validated['question'];
+        $form->time_increment = $validated['time_increment'];
         $form->timetable = $validated['timetable'];
         $form->save();
 
