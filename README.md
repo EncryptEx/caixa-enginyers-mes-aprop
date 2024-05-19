@@ -4,7 +4,7 @@
 ![caixa](https://github.com/EncryptEx/caixa-enginyers-mes-aprop/assets/95536223/10f07df9-2823-4616-bc31-0749219a8d9d)<br><br>
 
 Our team has participated in the Hackathon hosted by Universitat Autònoma de Barcelona, where we implemented a solution for the project presented by Caixa Enginyers.<br>
-Grup Caixa Enginyers: is a cooperative credit and financial services entity, offering a wide range of banking, financial, and insurance solutions. <br>
+Grup Caixa Enginyers is a cooperative credit and financial services entity, offering a wide range of banking, financial, and insurance solutions. <br>
 ## The challenge 
 Design a swoftware capable of proposing optimized routes for a mobile office (van) and visits a set of municipalities. Everything satisfying some restrictions, like the working day, going to some places on certain days of the month, and having only 4 vans. The routs had to obey some requirements for the contest organized by the Generalitat de Catalunya that can be found [here](https://contractaciopublica.cat/ca/detall-publicacio/6d5220fb-70f6-42c7-bf85-b78ef0184427/300013925).
 
