@@ -43,7 +43,7 @@ def discover(city_name):
     # print(data)
     for city in data:
         if city["municipi"].lower() == city_name.lower():
-            return jsonify({"lat": city["latitude"], "lng": city["longitude"]})
+            return jsonify({"lat": city["latitude"], "lon": city["longitude"]})
     return jsonify({"error": "City not found"}), 404
 
 
