@@ -6,6 +6,7 @@ app = Flask(__name__)
 
 CORS(app)
 
+
 @app.route("/")
 def readFile():
     # read file
@@ -42,7 +43,9 @@ def discover(city_name):
         data = json.load(file)
     # print(data)
     for city in data:
-        if city["municipi"].lower() == city_name.lower():
+        if city["municipi"].lower() == city_name.lower().replace("%20", " ").replace(
+            "&#039;", "'"
+        ):
             return jsonify({"lat": city["latitude"], "lon": city["longitude"]})
     return jsonify({"error": "City not found"}), 404
 
