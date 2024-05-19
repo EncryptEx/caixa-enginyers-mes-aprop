@@ -23,6 +23,9 @@
                         <x-nav-link :href="route('live')" :active="request()->routeIs('live')">
                             {{ __('En viu') }}
                         </x-nav-link>
+                        <x-nav-link :href="route('generate')" :active="request()->routeIs('metrics')">
+                            {{ __('Genera') }}
+                        </x-nav-link>
                     @endif
                 </div>
             </div>

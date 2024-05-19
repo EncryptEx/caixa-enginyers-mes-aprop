@@ -31,4 +31,10 @@ class FeedbackResponseController extends Controller
         // Redirect back with a success message
         return redirect()->route('success')->with('success', 'Formulari enviat satisfatòriament!');
     }
+
+    // success
+    public function success()
+    {
+        return view('success');
+    }
 }
