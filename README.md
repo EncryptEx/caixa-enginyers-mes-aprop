@@ -41,4 +41,4 @@ Our team has participated in the Hackathon hosted by Universitat Autònoma de Ba
 
 <a name="license"></a>
 ## License ⚖️
-
+Creative Commons Attribution Non Commercial No Derivatives 4.0 International
