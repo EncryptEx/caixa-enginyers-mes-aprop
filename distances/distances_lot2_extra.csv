@@ -1,0 +1,105 @@
+BLOC,City1,City2,Duration (hours)
+1,Calonge de Segarra,Montblanc,1.0847499999999999
+1,Castellfollit de Riubregós,Montblanc,1.0612222222222223
+1,Prats de Rei,Montblanc,0.9696111111111111
+1,Pujalt,Montblanc,1.0436944444444445
+1,Sant Pere Sallavinera,Montblanc,1.04475
+1,Sant Martí Sesgueioles,Montblanc,0.8577777777777778
+1,Argençola,Montblanc,0.7955555555555556
+1,Copons,Montblanc,0.8657777777777779
+1,Jorba,Montblanc,0.8231666666666667
+1,Montmaneu,Montblanc,0.6795833333333333
+1,Rubió,Montblanc,0.969361111111111
+1,Veciana,Montblanc,0.8401666666666666
+1,Bellprat,Montblanc,0.6171944444444445
+1,El Bruc,Montblanc,1.1250277777777777
+1,Castellolí,Montblanc,0.9834999999999999
+1,Orpí,Montblanc,1.0071388888888888
+1,Santa Maria de Miralles,Montblanc,0.7723888888888889
+1,Cabrera d'Anoia,Montblanc,1.0115833333333333
+1,Torre de Claramunt,Montblanc,1.1211666666666666
+1,Vallbona d'Anoia,Montblanc,1.103138888888889
+1,La Llacuna,Montblanc,0.7976944444444444
+1,Conesa,Montblanc,0.4658333333333333
+1,Llorac,Montblanc,0.6343888888888889
+1,Passanant i Belltall,Montblanc,0.5235555555555556
+1,Piles,Montblanc,0.40597222222222223
+1,Savallà del Comtat,Montblanc,0.54825
+1,Vallfogona de Riucorb,Montblanc,0.6264166666666666
+1,Forès,Montblanc,0.47872222222222227
+1,Rocafort de Queralt,Montblanc,0.3243333333333333
+1,Carme,Montblanc,0.9598055555555556
+1,Montblanc,Montblanc,0.0
+2,Mediona,Montblanc,1.0527777777777778
+2,Font-rubí,Montblanc,1.0854444444444444
+2,Pontons,Montblanc,0.7990277777777778
+2,Torrelles de Foix,Montblanc,0.9472499999999999
+2,Les Cabanyes,Montblanc,0.8345833333333333
+2,Pacs del Penedès,Montblanc,0.804611111111111
+2,Sant Cugat Sesgarrigues,Montblanc,0.8254722222222222
+2,Santa Fe del Penedès,Montblanc,0.846
+2,Vilobí del Penedès,Montblanc,0.9201388888888888
+2,Castellet i la Gornal,Montblanc,0.7111111111111111
+2,Albinyana,Montblanc,0.6491388888888889
+2,Bonastre,Montblanc,0.5959166666666668
+2,Santa Oliva,Montblanc,0.6686666666666666
+2,Olivella,Montblanc,1.0737777777777777
+2,Olesa de Bonesvalls,Montblanc,1.0634166666666667
+2,Puigdàlber,Montblanc,0.8708888888888888
+2,Sant Llorenç d'Hortons,Montblanc,1.0521944444444444
+2,Subirats,Montblanc,0.9540833333333333
+2,Torrelavit,Montblanc,1.006361111111111
+2,Masllorenç,Montblanc,0.5151944444444445
+2,Montmell,Montblanc,0.6091944444444444
+2,Salomó,Montblanc,0.5148611111111111
+2,Vespella de Gaià,Montblanc,0.7034722222222223
+3,Blancafort,Montblanc,0.6469722222222222
+3,Pira,Montblanc,0.1613611111111111
+3,Senan,Montblanc,0.4002222222222222
+3,Aiguamúrcia,Montblanc,0.4861111111111111
+3,Cabra del Camp,Montblanc,0.29086111111111107
+3,Querol,Montblanc,0.5062777777777777
+3,Pontils,Montblanc,0.616
+3,Figuerola del Camp,Montblanc,0.37297222222222226
+3,Montferri,Montblanc,0.4416111111111111
+3,Rodonyà,Montblanc,0.4570555555555556
+3,Vallclara,Montblanc,0.36630555555555555
+3,Vilanova de Prades,Montblanc,0.46591666666666665
+3,Mont-ral,Montblanc,0.5984999999999999
+3,La Riba,Montblanc,0.19766666666666668
+3,Vilaverd,Montblanc,0.13083333333333333
+3,Garidells,Montblanc,0.40122222222222226
+3,Masó,Montblanc,0.9308333333333333
+3,El Milà,Montblanc,0.34041666666666665
+3,Vallmoll,Montblanc,0.35694444444444445
+3,Alió,Montblanc,0.3299722222222222
+3,Bràfim,Montblanc,0.44166666666666665
+3,Puigpelat,Montblanc,0.3556111111111111
+3,Vilabella,Montblanc,0.46252777777777776
+3,Nulles,Montblanc,0.44375
+3,Rourell,Montblanc,0.3279444444444444
+4,Argentera,Montblanc,0.9852777777777778
+4,Botarell,Montblanc,0.7179444444444444
+4,Colldejou,Montblanc,1.0041111111111112
+4,Pratdip,Montblanc,0.9415
+4,Riudecanyes,Montblanc,0.7918055555555555
+4,Vilanova d'Escornalbou,Montblanc,0.8430555555555556
+4,Aleixar,Montblanc,0.6293888888888889
+4,Alforja,Montblanc,0.6885833333333333
+4,Duesaigües,Montblanc,0.9231944444444444
+4,Maspujols,Montblanc,0.6091111111111112
+4,Riudecols,Montblanc,0.6897222222222222
+4,Arbolí,Montblanc,0.9133888888888888
+4,Capafonts,Montblanc,0.8388333333333334
+4,La Febró,Montblanc,0.8576666666666667
+4,Vilaplana,Montblanc,0.5664166666666667
+4,Albiol,Montblanc,0.6506944444444445
+4,Almoster,Montblanc,0.4172777777777778
+4,Perafort,Montblanc,0.4483611111111111
+4,Pobla de Mafumet,Montblanc,0.3894722222222222
+4,Vilallonga del Camp,Montblanc,0.3628888888888889
+4,Nou de Gaià,Montblanc,0.6392777777777778
+4,La Riera de Gaià,Montblanc,0.6798055555555556
+4,El Catllar,Montblanc,0.6291388888888889
+4,La Secuita,Montblanc,0.4696111111111111
+4,Renau,Montblanc,0.5237222222222222

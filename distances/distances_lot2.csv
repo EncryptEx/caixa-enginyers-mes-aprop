@@ -1,0 +1,1315 @@
+BLOC,City1,City2,Duration (hours)
+1,Calonge de Segarra,Castellfollit de Riubregós,0.16008333333333333
+1,Calonge de Segarra,Prats de Rei,0.24927777777777776
+1,Calonge de Segarra,Pujalt,0.4196388888888889
+1,Calonge de Segarra,Sant Pere Sallavinera,0.3161666666666667
+1,Calonge de Segarra,Sant Martí Sesgueioles,0.2515555555555556
+1,Calonge de Segarra,Argençola,0.6076666666666667
+1,Calonge de Segarra,Copons,0.3843333333333333
+1,Calonge de Segarra,Jorba,0.4632222222222222
+1,Calonge de Segarra,Montmaneu,0.44169444444444445
+1,Calonge de Segarra,Rubió,0.5529166666666666
+1,Calonge de Segarra,Veciana,0.37022222222222223
+1,Calonge de Segarra,Bellprat,0.7407777777777779
+1,Calonge de Segarra,El Bruc,0.7583333333333333
+1,Calonge de Segarra,Castellolí,0.6242222222222221
+1,Calonge de Segarra,Orpí,0.9022777777777777
+1,Calonge de Segarra,Santa Maria de Miralles,0.8316388888888889
+1,Calonge de Segarra,Cabrera d'Anoia,0.7922222222222223
+1,Calonge de Segarra,Torre de Claramunt,0.7544722222222222
+1,Calonge de Segarra,Vallbona d'Anoia,0.7294166666666667
+1,Calonge de Segarra,La Llacuna,0.9223333333333333
+1,Calonge de Segarra,Conesa,0.905611111111111
+1,Calonge de Segarra,Llorac,0.7639444444444444
+1,Calonge de Segarra,Passanant i Belltall,0.9345277777777778
+1,Calonge de Segarra,Piles,0.6954444444444444
+1,Calonge de Segarra,Savallà del Comtat,0.7968055555555555
+1,Calonge de Segarra,Vallfogona de Riucorb,0.8770555555555556
+1,Calonge de Segarra,Forès,1.1108333333333333
+1,Calonge de Segarra,Rocafort de Queralt,0.8077222222222222
+1,Calonge de Segarra,Carme,0.7955000000000001
+1,Calonge de Segarra,Montblanc,1.0847499999999999
+1,Castellfollit de Riubregós,Prats de Rei,0.22575
+1,Castellfollit de Riubregós,Pujalt,0.39611111111111114
+1,Castellfollit de Riubregós,Sant Pere Sallavinera,0.2926388888888889
+1,Castellfollit de Riubregós,Sant Martí Sesgueioles,0.22802777777777777
+1,Castellfollit de Riubregós,Argençola,0.5841388888888889
+1,Castellfollit de Riubregós,Copons,0.3608055555555556
+1,Castellfollit de Riubregós,Jorba,0.43969444444444444
+1,Castellfollit de Riubregós,Montmaneu,0.4181666666666667
+1,Castellfollit de Riubregós,Rubió,0.5293888888888889
+1,Castellfollit de Riubregós,Veciana,0.3466944444444444
+1,Castellfollit de Riubregós,Bellprat,0.7172499999999999
+1,Castellfollit de Riubregós,El Bruc,0.7348055555555556
+1,Castellfollit de Riubregós,Castellolí,0.6006944444444444
+1,Castellfollit de Riubregós,Orpí,0.87875
+1,Castellfollit de Riubregós,Santa Maria de Miralles,0.8081111111111111
+1,Castellfollit de Riubregós,Cabrera d'Anoia,0.7686944444444445
+1,Castellfollit de Riubregós,Torre de Claramunt,0.7309444444444445
+1,Castellfollit de Riubregós,Vallbona d'Anoia,0.7058888888888888
+1,Castellfollit de Riubregós,La Llacuna,0.8988055555555555
+1,Castellfollit de Riubregós,Conesa,0.8820833333333333
+1,Castellfollit de Riubregós,Llorac,0.7404166666666666
+1,Castellfollit de Riubregós,Passanant i Belltall,0.9109999999999999
+1,Castellfollit de Riubregós,Piles,0.6719166666666667
+1,Castellfollit de Riubregós,Savallà del Comtat,0.7732777777777778
+1,Castellfollit de Riubregós,Vallfogona de Riucorb,0.8535277777777778
+1,Castellfollit de Riubregós,Forès,1.0873055555555555
+1,Castellfollit de Riubregós,Rocafort de Queralt,0.7841944444444444
+1,Castellfollit de Riubregós,Carme,0.7719722222222222
+1,Castellfollit de Riubregós,Montblanc,1.0612222222222223
+1,Prats de Rei,Pujalt,0.3518611111111111
+1,Prats de Rei,Sant Pere Sallavinera,0.21541666666666667
+1,Prats de Rei,Sant Martí Sesgueioles,0.13641666666666669
+1,Prats de Rei,Argençola,0.4236111111111111
+1,Prats de Rei,Copons,0.16266666666666668
+1,Prats de Rei,Jorba,0.24155555555555555
+1,Prats de Rei,Montmaneu,0.32655555555555554
+1,Prats de Rei,Rubió,0.33125
+1,Prats de Rei,Veciana,0.25508333333333333
+1,Prats de Rei,Bellprat,0.625638888888889
+1,Prats de Rei,El Bruc,0.5366666666666666
+1,Prats de Rei,Castellolí,0.40255555555555556
+1,Prats de Rei,Orpí,0.6806111111111111
+1,Prats de Rei,Santa Maria de Miralles,0.6099722222222222
+1,Prats de Rei,Cabrera d'Anoia,0.5705555555555556
+1,Prats de Rei,Torre de Claramunt,0.5328055555555555
+1,Prats de Rei,Vallbona d'Anoia,0.50775
+1,Prats de Rei,La Llacuna,0.7006666666666667
+1,Prats de Rei,Conesa,0.7904722222222221
+1,Prats de Rei,Llorac,0.6488055555555555
+1,Prats de Rei,Passanant i Belltall,0.8818055555555555
+1,Prats de Rei,Piles,0.5803055555555555
+1,Prats de Rei,Savallà del Comtat,0.6816666666666666
+1,Prats de Rei,Vallfogona de Riucorb,0.7619166666666667
+1,Prats de Rei,Forès,0.9956944444444444
+1,Prats de Rei,Rocafort de Queralt,0.6925833333333333
+1,Prats de Rei,Carme,0.5738333333333334
+1,Prats de Rei,Montblanc,0.9696111111111111
+1,Pujalt,Sant Pere Sallavinera,0.40066666666666667
+1,Pujalt,Sant Martí Sesgueioles,0.3703611111111111
+1,Pujalt,Argençola,0.6135277777777777
+1,Pujalt,Copons,0.48283333333333334
+1,Pujalt,Jorba,0.5617222222222222
+1,Pujalt,Montmaneu,0.4713333333333333
+1,Pujalt,Rubió,0.6514166666666666
+1,Pujalt,Veciana,0.4221388888888889
+1,Pujalt,Bellprat,0.746638888888889
+1,Pujalt,El Bruc,0.8568333333333333
+1,Pujalt,Castellolí,0.7227222222222223
+1,Pujalt,Orpí,1.0007777777777778
+1,Pujalt,Santa Maria de Miralles,0.9034722222222222
+1,Pujalt,Cabrera d'Anoia,0.8907222222222222
+1,Pujalt,Torre de Claramunt,0.8529722222222221
+1,Pujalt,Vallbona d'Anoia,0.8279166666666666
+1,Pujalt,La Llacuna,0.9288611111111111
+1,Pujalt,Conesa,0.9114722222222222
+1,Pujalt,Llorac,0.7698055555555556
+1,Pujalt,Passanant i Belltall,0.8144722222222222
+1,Pujalt,Piles,0.7013055555555555
+1,Pujalt,Savallà del Comtat,0.8026666666666666
+1,Pujalt,Vallfogona de Riucorb,0.7975833333333334
+1,Pujalt,Forès,0.9983888888888889
+1,Pujalt,Rocafort de Queralt,0.8135833333333333
+1,Pujalt,Carme,0.894
+1,Pujalt,Montblanc,1.0436944444444445
+1,Sant Pere Sallavinera,Sant Martí Sesgueioles,0.21155555555555555
+1,Sant Pere Sallavinera,Argençola,0.5676666666666667
+1,Sant Pere Sallavinera,Copons,0.35230555555555554
+1,Sant Pere Sallavinera,Jorba,0.43119444444444444
+1,Sant Pere Sallavinera,Montmaneu,0.4016944444444444
+1,Sant Pere Sallavinera,Rubió,0.520888888888889
+1,Sant Pere Sallavinera,Veciana,0.3302222222222222
+1,Sant Pere Sallavinera,Bellprat,0.7007777777777778
+1,Sant Pere Sallavinera,El Bruc,0.7263055555555555
+1,Sant Pere Sallavinera,Castellolí,0.5921944444444445
+1,Sant Pere Sallavinera,Orpí,0.8702500000000001
+1,Sant Pere Sallavinera,Santa Maria de Miralles,0.799611111111111
+1,Sant Pere Sallavinera,Cabrera d'Anoia,0.7601944444444444
+1,Sant Pere Sallavinera,Torre de Claramunt,0.7224444444444444
+1,Sant Pere Sallavinera,Vallbona d'Anoia,0.6973888888888888
+1,Sant Pere Sallavinera,La Llacuna,0.883
+1,Sant Pere Sallavinera,Conesa,0.8656111111111111
+1,Sant Pere Sallavinera,Llorac,0.7239444444444444
+1,Sant Pere Sallavinera,Passanant i Belltall,0.9184444444444445
+1,Sant Pere Sallavinera,Piles,0.6554444444444444
+1,Sant Pere Sallavinera,Savallà del Comtat,0.7568055555555555
+1,Sant Pere Sallavinera,Vallfogona de Riucorb,0.8370555555555556
+1,Sant Pere Sallavinera,Forès,1.0708333333333333
+1,Sant Pere Sallavinera,Rocafort de Queralt,0.7677222222222223
+1,Sant Pere Sallavinera,Carme,0.7634722222222222
+1,Sant Pere Sallavinera,Montblanc,1.04475
+1,Sant Martí Sesgueioles,Argençola,0.38069444444444445
+1,Sant Martí Sesgueioles,Copons,0.2708333333333333
+1,Sant Martí Sesgueioles,Jorba,0.3497222222222222
+1,Sant Martí Sesgueioles,Montmaneu,0.21472222222222223
+1,Sant Martí Sesgueioles,Rubió,0.4394166666666667
+1,Sant Martí Sesgueioles,Veciana,0.14325000000000002
+1,Sant Martí Sesgueioles,Bellprat,0.5138055555555555
+1,Sant Martí Sesgueioles,El Bruc,0.6448333333333334
+1,Sant Martí Sesgueioles,Castellolí,0.5107222222222222
+1,Sant Martí Sesgueioles,Orpí,0.7887777777777778
+1,Sant Martí Sesgueioles,Santa Maria de Miralles,0.6706388888888889
+1,Sant Martí Sesgueioles,Cabrera d'Anoia,0.6787222222222222
+1,Sant Martí Sesgueioles,Torre de Claramunt,0.6409722222222223
+1,Sant Martí Sesgueioles,Vallbona d'Anoia,0.6159166666666667
+1,Sant Martí Sesgueioles,La Llacuna,0.6960277777777777
+1,Sant Martí Sesgueioles,Conesa,0.6786388888888889
+1,Sant Martí Sesgueioles,Llorac,0.5369722222222222
+1,Sant Martí Sesgueioles,Passanant i Belltall,0.8930555555555556
+1,Sant Martí Sesgueioles,Piles,0.46847222222222223
+1,Sant Martí Sesgueioles,Savallà del Comtat,0.5698333333333334
+1,Sant Martí Sesgueioles,Vallfogona de Riucorb,0.6500833333333333
+1,Sant Martí Sesgueioles,Forès,0.8838611111111111
+1,Sant Martí Sesgueioles,Rocafort de Queralt,0.58075
+1,Sant Martí Sesgueioles,Carme,0.6819999999999999
+1,Sant Martí Sesgueioles,Montblanc,0.8577777777777778
+1,Argençola,Copons,0.2981388888888889
+1,Argençola,Jorba,0.25436111111111115
+1,Argençola,Montmaneu,0.20077777777777778
+1,Argençola,Rubió,0.4019722222222222
+1,Argençola,Veciana,0.3608888888888889
+1,Argençola,Bellprat,0.45158333333333334
+1,Argençola,El Bruc,0.5371111111111111
+1,Argençola,Castellolí,0.40299999999999997
+1,Argençola,Orpí,0.6810555555555556
+1,Argençola,Santa Maria de Miralles,0.6084166666666667
+1,Argençola,Cabrera d'Anoia,0.571
+1,Argençola,Torre de Claramunt,0.53325
+1,Argençola,Vallbona d'Anoia,0.5081944444444444
+1,Argençola,La Llacuna,0.6338055555555555
+1,Argençola,Conesa,0.6164166666666666
+1,Argençola,Llorac,0.47474999999999995
+1,Argençola,Passanant i Belltall,0.8446944444444444
+1,Argençola,Piles,0.40625
+1,Argençola,Savallà del Comtat,0.5076111111111111
+1,Argençola,Vallfogona de Riucorb,0.5878611111111112
+1,Argençola,Forès,0.8216388888888889
+1,Argençola,Rocafort de Queralt,0.5185277777777778
+1,Argençola,Carme,0.5742777777777778
+1,Argençola,Montblanc,0.7955555555555556
+1,Copons,Jorba,0.11183333333333334
+1,Copons,Montmaneu,0.2427222222222222
+1,Copons,Rubió,0.20152777777777778
+1,Copons,Veciana,0.11947222222222223
+1,Copons,Bellprat,0.5054444444444445
+1,Copons,El Bruc,0.40694444444444444
+1,Copons,Castellolí,0.27283333333333337
+1,Copons,Orpí,0.5508888888888889
+1,Copons,Santa Maria de Miralles,0.48025
+1,Copons,Cabrera d'Anoia,0.44083333333333335
+1,Copons,Torre de Claramunt,0.4030833333333333
+1,Copons,Vallbona d'Anoia,0.3780277777777778
+1,Copons,La Llacuna,0.5709444444444445
+1,Copons,Conesa,0.6866388888888889
+1,Copons,Llorac,0.5449722222222223
+1,Copons,Passanant i Belltall,0.9026111111111111
+1,Copons,Piles,0.4764722222222222
+1,Copons,Savallà del Comtat,0.5778333333333333
+1,Copons,Vallfogona de Riucorb,0.6580833333333334
+1,Copons,Forès,0.8918611111111111
+1,Copons,Rocafort de Queralt,0.58875
+1,Copons,Carme,0.4441111111111111
+1,Copons,Montblanc,0.8657777777777779
+1,Jorba,Montmaneu,0.2001111111111111
+1,Jorba,Rubió,0.20541666666666666
+1,Jorba,Veciana,0.20227777777777778
+1,Jorba,Bellprat,0.444
+1,Jorba,El Bruc,0.36097222222222225
+1,Jorba,Castellolí,0.22686111111111112
+1,Jorba,Orpí,0.5049166666666667
+1,Jorba,Santa Maria de Miralles,0.42347222222222225
+1,Jorba,Cabrera d'Anoia,0.3948611111111111
+1,Jorba,Torre de Claramunt,0.3571111111111111
+1,Jorba,Vallbona d'Anoia,0.3320555555555556
+1,Jorba,La Llacuna,0.5141666666666667
+1,Jorba,Conesa,0.6440277777777778
+1,Jorba,Llorac,0.5023611111111111
+1,Jorba,Passanant i Belltall,0.86
+1,Jorba,Piles,0.43386111111111114
+1,Jorba,Savallà del Comtat,0.5352222222222222
+1,Jorba,Vallfogona de Riucorb,0.6154722222222222
+1,Jorba,Forès,0.8492500000000001
+1,Jorba,Rocafort de Queralt,0.5461388888888888
+1,Jorba,Carme,0.3981388888888889
+1,Jorba,Montblanc,0.8231666666666667
+1,Montmaneu,Rubió,0.3615555555555555
+1,Montmaneu,Veciana,0.19561111111111112
+1,Montmaneu,Bellprat,0.33561111111111114
+1,Montmaneu,El Bruc,0.49669444444444444
+1,Montmaneu,Castellolí,0.3625833333333333
+1,Montmaneu,Orpí,0.640638888888889
+1,Montmaneu,Santa Maria de Miralles,0.4924444444444444
+1,Montmaneu,Cabrera d'Anoia,0.5305833333333333
+1,Montmaneu,Torre de Claramunt,0.49283333333333335
+1,Montmaneu,Vallbona d'Anoia,0.4677777777777778
+1,Montmaneu,La Llacuna,0.5178333333333334
+1,Montmaneu,Conesa,0.5004444444444445
+1,Montmaneu,Llorac,0.35877777777777775
+1,Montmaneu,Passanant i Belltall,0.7245277777777779
+1,Montmaneu,Piles,0.2902777777777778
+1,Montmaneu,Savallà del Comtat,0.3916388888888889
+1,Montmaneu,Vallfogona de Riucorb,0.47188888888888886
+1,Montmaneu,Forès,0.7056666666666667
+1,Montmaneu,Rocafort de Queralt,0.40255555555555556
+1,Montmaneu,Carme,0.5338611111111111
+1,Montmaneu,Montblanc,0.6795833333333333
+1,Rubió,Veciana,0.30224999999999996
+1,Rubió,Bellprat,0.6090277777777777
+1,Rubió,El Bruc,0.5105277777777778
+1,Rubió,Castellolí,0.3764166666666666
+1,Rubió,Orpí,0.6544722222222222
+1,Rubió,Santa Maria de Miralles,0.5838333333333334
+1,Rubió,Cabrera d'Anoia,0.5444166666666667
+1,Rubió,Torre de Claramunt,0.5066666666666667
+1,Rubió,Vallbona d'Anoia,0.4816111111111111
+1,Rubió,La Llacuna,0.6745277777777778
+1,Rubió,Conesa,0.7902222222222223
+1,Rubió,Llorac,0.6485555555555556
+1,Rubió,Passanant i Belltall,1.0061944444444444
+1,Rubió,Piles,0.5800555555555555
+1,Rubió,Savallà del Comtat,0.6814166666666667
+1,Rubió,Vallfogona de Riucorb,0.7616666666666667
+1,Rubió,Forès,0.9954444444444445
+1,Rubió,Rocafort de Queralt,0.6923333333333334
+1,Rubió,Carme,0.5476944444444445
+1,Rubió,Montblanc,0.969361111111111
+1,Veciana,Bellprat,0.49619444444444444
+1,Veciana,El Bruc,0.50725
+1,Veciana,Castellolí,0.37313888888888885
+1,Veciana,Orpí,0.6511944444444445
+1,Veciana,Santa Maria de Miralles,0.5805555555555556
+1,Veciana,Cabrera d'Anoia,0.5411388888888888
+1,Veciana,Torre de Claramunt,0.5033888888888889
+1,Veciana,Vallbona d'Anoia,0.47833333333333333
+1,Veciana,La Llacuna,0.6784166666666667
+1,Veciana,Conesa,0.6610277777777778
+1,Veciana,Llorac,0.5193611111111112
+1,Veciana,Passanant i Belltall,0.8851111111111112
+1,Veciana,Piles,0.4508611111111111
+1,Veciana,Savallà del Comtat,0.5522222222222222
+1,Veciana,Vallfogona de Riucorb,0.6324722222222222
+1,Veciana,Forès,0.86625
+1,Veciana,Rocafort de Queralt,0.5631388888888889
+1,Veciana,Carme,0.5444166666666667
+1,Veciana,Montblanc,0.8401666666666666
+1,Bellprat,El Bruc,0.6740277777777778
+1,Bellprat,Castellolí,0.5399166666666667
+1,Bellprat,Orpí,0.5090277777777777
+1,Bellprat,Santa Maria de Miralles,0.27594444444444444
+1,Bellprat,Cabrera d'Anoia,0.6251944444444444
+1,Bellprat,Torre de Claramunt,0.62275
+1,Bellprat,Vallbona d'Anoia,0.6451111111111112
+1,Bellprat,La Llacuna,0.30133333333333334
+1,Bellprat,Conesa,0.4446388888888889
+1,Bellprat,Llorac,0.30297222222222225
+1,Bellprat,Passanant i Belltall,0.6729166666666667
+1,Bellprat,Piles,0.2278888888888889
+1,Bellprat,Savallà del Comtat,0.3358333333333333
+1,Bellprat,Vallfogona de Riucorb,0.41608333333333336
+1,Bellprat,Forès,0.6432777777777778
+1,Bellprat,Rocafort de Queralt,0.3401666666666666
+1,Bellprat,Carme,0.46358333333333335
+1,Bellprat,Montblanc,0.6171944444444445
+1,El Bruc,Castellolí,0.18097222222222223
+1,El Bruc,Orpí,0.5323888888888889
+1,El Bruc,Santa Maria de Miralles,0.5363611111111112
+1,El Bruc,Cabrera d'Anoia,0.4263888888888889
+1,El Bruc,Torre de Claramunt,0.38863888888888887
+1,El Bruc,Vallbona d'Anoia,0.36358333333333337
+1,El Bruc,La Llacuna,0.6270555555555556
+1,El Bruc,Conesa,0.9458888888888889
+1,El Bruc,Llorac,0.8042222222222222
+1,El Bruc,Passanant i Belltall,1.161861111111111
+1,El Bruc,Piles,0.7357222222222222
+1,El Bruc,Savallà del Comtat,0.8370833333333333
+1,El Bruc,Vallfogona de Riucorb,0.9173333333333333
+1,El Bruc,Forès,1.1511111111111112
+1,El Bruc,Rocafort de Queralt,0.8480000000000001
+1,El Bruc,Carme,0.4256111111111111
+1,El Bruc,Montblanc,1.1250277777777777
+1,Castellolí,Orpí,0.3908611111111111
+1,Castellolí,Santa Maria de Miralles,0.39483333333333337
+1,Castellolí,Cabrera d'Anoia,0.2848611111111111
+1,Castellolí,Torre de Claramunt,0.24711111111111111
+1,Castellolí,Vallbona d'Anoia,0.22205555555555556
+1,Castellolí,La Llacuna,0.4855277777777778
+1,Castellolí,Conesa,0.8043611111111111
+1,Castellolí,Llorac,0.6626944444444444
+1,Castellolí,Passanant i Belltall,1.0203333333333333
+1,Castellolí,Piles,0.5941944444444445
+1,Castellolí,Savallà del Comtat,0.6955555555555556
+1,Castellolí,Vallfogona de Riucorb,0.7758055555555555
+1,Castellolí,Forès,1.0095833333333333
+1,Castellolí,Rocafort de Queralt,0.7064722222222223
+1,Castellolí,Carme,0.28408333333333335
+1,Castellolí,Montblanc,0.9834999999999999
+1,Orpí,Santa Maria de Miralles,0.23475000000000001
+1,Orpí,Cabrera d'Anoia,0.40041666666666664
+1,Orpí,Torre de Claramunt,0.2698055555555555
+1,Orpí,Vallbona d'Anoia,0.33325
+1,Orpí,La Llacuna,0.3239444444444445
+1,Orpí,Conesa,0.8345833333333333
+1,Orpí,Llorac,0.6929166666666666
+1,Orpí,Passanant i Belltall,1.0628611111111113
+1,Orpí,Piles,0.6178333333333332
+1,Orpí,Savallà del Comtat,0.7257777777777779
+1,Orpí,Vallfogona de Riucorb,0.8060277777777777
+1,Orpí,Forès,1.0332222222222223
+1,Orpí,Rocafort de Queralt,0.7301111111111112
+1,Orpí,Carme,0.1106388888888889
+1,Orpí,Montblanc,1.0071388888888888
+1,Santa Maria de Miralles,Cabrera d'Anoia,0.41455555555555557
+1,Santa Maria de Miralles,Torre de Claramunt,0.34680555555555553
+1,Santa Maria de Miralles,Vallbona d'Anoia,0.41025
+1,Santa Maria de Miralles,La Llacuna,0.09069444444444444
+1,Santa Maria de Miralles,Conesa,0.5998333333333333
+1,Santa Maria de Miralles,Llorac,0.45816666666666667
+1,Santa Maria de Miralles,Passanant i Belltall,0.828111111111111
+1,Santa Maria de Miralles,Piles,0.38308333333333333
+1,Santa Maria de Miralles,Savallà del Comtat,0.4910277777777778
+1,Santa Maria de Miralles,Vallfogona de Riucorb,0.5712777777777778
+1,Santa Maria de Miralles,Forès,0.7984722222222222
+1,Santa Maria de Miralles,Rocafort de Queralt,0.4953611111111111
+1,Santa Maria de Miralles,Carme,0.18763888888888888
+1,Santa Maria de Miralles,Montblanc,0.7723888888888889
+1,Cabrera d'Anoia,Torre de Claramunt,0.21572222222222223
+1,Cabrera d'Anoia,Vallbona d'Anoia,0.13341666666666668
+1,Cabrera d'Anoia,La Llacuna,0.32513888888888887
+1,Cabrera d'Anoia,Conesa,0.9502777777777778
+1,Cabrera d'Anoia,Llorac,0.8086111111111111
+1,Cabrera d'Anoia,Passanant i Belltall,1.1785555555555556
+1,Cabrera d'Anoia,Piles,0.7335277777777778
+1,Cabrera d'Anoia,Savallà del Comtat,0.8414722222222223
+1,Cabrera d'Anoia,Vallfogona de Riucorb,0.9217222222222222
+1,Cabrera d'Anoia,Forès,1.1489166666666668
+1,Cabrera d'Anoia,Rocafort de Queralt,0.8458055555555556
+1,Cabrera d'Anoia,Carme,0.2897777777777778
+1,Cabrera d'Anoia,Montblanc,1.0115833333333333
+1,Torre de Claramunt,Vallbona d'Anoia,0.1518611111111111
+1,Torre de Claramunt,La Llacuna,0.4379722222222222
+1,Torre de Claramunt,Conesa,0.9476111111111112
+1,Torre de Claramunt,Llorac,0.8059444444444445
+1,Torre de Claramunt,Passanant i Belltall,1.1635833333333332
+1,Torre de Claramunt,Piles,0.7318611111111111
+1,Torre de Claramunt,Savallà del Comtat,0.8388055555555555
+1,Torre de Claramunt,Vallfogona de Riucorb,0.9190555555555555
+1,Torre de Claramunt,Forès,1.14725
+1,Torre de Claramunt,Rocafort de Queralt,0.8441388888888889
+1,Torre de Claramunt,Carme,0.1651388888888889
+1,Torre de Claramunt,Montblanc,1.1211666666666666
+1,Vallbona d'Anoia,La Llacuna,0.4200277777777778
+1,Vallbona d'Anoia,Conesa,0.9426111111111112
+1,Vallbona d'Anoia,Llorac,0.8009444444444445
+1,Vallbona d'Anoia,Passanant i Belltall,1.1585833333333333
+1,Vallbona d'Anoia,Piles,0.7324444444444445
+1,Vallbona d'Anoia,Savallà del Comtat,0.8338055555555555
+1,Vallbona d'Anoia,Vallfogona de Riucorb,0.9140555555555555
+1,Vallbona d'Anoia,Forès,1.1478333333333333
+1,Vallbona d'Anoia,Rocafort de Queralt,0.8447222222222223
+1,Vallbona d'Anoia,Carme,0.25580555555555556
+1,Vallbona d'Anoia,Montblanc,1.103138888888889
+1,La Llacuna,Conesa,0.6251388888888889
+1,La Llacuna,Llorac,0.48347222222222225
+1,La Llacuna,Passanant i Belltall,0.8534166666666667
+1,La Llacuna,Piles,0.4083888888888889
+1,La Llacuna,Savallà del Comtat,0.5163333333333333
+1,La Llacuna,Vallfogona de Riucorb,0.5965833333333332
+1,La Llacuna,Forès,0.8237777777777777
+1,La Llacuna,Rocafort de Queralt,0.5206666666666667
+1,La Llacuna,Carme,0.2747222222222222
+1,La Llacuna,Montblanc,0.7976944444444444
+1,Conesa,Llorac,0.2475277777777778
+1,Conesa,Passanant i Belltall,0.4855
+1,Conesa,Piles,0.27094444444444443
+1,Conesa,Savallà del Comtat,0.12069444444444444
+1,Conesa,Vallfogona de Riucorb,0.2913611111111111
+1,Conesa,Forès,0.3160833333333334
+1,Conesa,Rocafort de Queralt,0.16647222222222222
+1,Conesa,Carme,0.7852222222222223
+1,Conesa,Montblanc,0.4658333333333333
+1,Llorac,Passanant i Belltall,0.39841666666666664
+1,Llorac,Piles,0.24508333333333332
+1,Llorac,Savallà del Comtat,0.1381388888888889
+1,Llorac,Vallfogona de Riucorb,0.14158333333333334
+1,Llorac,Forès,0.5326111111111111
+1,Llorac,Rocafort de Queralt,0.35736111111111113
+1,Llorac,Carme,0.6447777777777777
+1,Llorac,Montblanc,0.6343888888888889
+1,Passanant i Belltall,Piles,0.5411111111111111
+1,Passanant i Belltall,Savallà del Comtat,0.4644166666666667
+1,Passanant i Belltall,Vallfogona de Riucorb,0.2629722222222222
+1,Passanant i Belltall,Forès,0.2025
+1,Passanant i Belltall,Rocafort de Queralt,0.46044444444444443
+1,Passanant i Belltall,Carme,1.0125555555555554
+1,Passanant i Belltall,Montblanc,0.5235555555555556
+1,Piles,Savallà del Comtat,0.27811111111111114
+1,Piles,Vallfogona de Riucorb,0.3583611111111111
+1,Piles,Forès,0.4320555555555556
+1,Piles,Rocafort de Queralt,0.12894444444444444
+1,Piles,Carme,0.5706944444444444
+1,Piles,Montblanc,0.40597222222222223
+1,Savallà del Comtat,Vallfogona de Riucorb,0.21044444444444446
+1,Savallà del Comtat,Forès,0.4151388888888889
+1,Savallà del Comtat,Rocafort de Queralt,0.24888888888888888
+1,Savallà del Comtat,Carme,0.6769444444444445
+1,Savallà del Comtat,Montblanc,0.54825
+1,Vallfogona de Riucorb,Forès,0.3996388888888889
+1,Vallfogona de Riucorb,Rocafort de Queralt,0.41797222222222224
+1,Vallfogona de Riucorb,Carme,0.7565833333333333
+1,Vallfogona de Riucorb,Montblanc,0.6264166666666666
+1,Forès,Rocafort de Queralt,0.35675
+1,Forès,Carme,0.99225
+1,Forès,Montblanc,0.47872222222222227
+1,Rocafort de Queralt,Carme,0.6842777777777778
+1,Rocafort de Queralt,Montblanc,0.3243333333333333
+1,Carme,Montblanc,0.9598055555555556
+2,Mediona,Font-rubí,0.5085277777777778
+2,Mediona,Pontons,0.6657777777777778
+2,Mediona,Torrelles de Foix,0.5175555555555555
+2,Mediona,Les Cabanyes,0.5226944444444445
+2,Mediona,Pacs del Penedès,0.5866666666666667
+2,Mediona,Sant Cugat Sesgarrigues,0.5398611111111111
+2,Mediona,Santa Fe del Penedès,0.45180555555555557
+2,Mediona,Vilobí del Penedès,0.5798888888888889
+2,Mediona,Castellet i la Gornal,0.7365555555555555
+2,Mediona,Albinyana,0.9345833333333333
+2,Mediona,Bonastre,1.0691111111111111
+2,Mediona,Santa Oliva,0.8805555555555555
+2,Mediona,Olivella,0.8007222222222222
+2,Mediona,Olesa de Bonesvalls,0.7962777777777778
+2,Mediona,Puigdàlber,0.40194444444444444
+2,Mediona,Sant Llorenç d'Hortons,0.7056111111111111
+2,Mediona,Subirats,0.6276666666666666
+2,Mediona,Torrelavit,0.40225
+2,Mediona,Masllorenç,0.9496944444444445
+2,Mediona,Montmell,0.9546666666666667
+2,Mediona,Salomó,1.0849444444444445
+2,Mediona,Vespella de Gaià,1.1417777777777778
+2,Font-rubí,Pontons,0.3729166666666667
+2,Font-rubí,Torrelles de Foix,0.22469444444444445
+2,Font-rubí,Les Cabanyes,0.4069166666666667
+2,Font-rubí,Pacs del Penedès,0.3157222222222222
+2,Font-rubí,Sant Cugat Sesgarrigues,0.5013611111111111
+2,Font-rubí,Santa Fe del Penedès,0.48488888888888887
+2,Font-rubí,Vilobí del Penedès,0.38175
+2,Font-rubí,Castellet i la Gornal,0.6096944444444444
+2,Font-rubí,Albinyana,0.7979166666666667
+2,Font-rubí,Bonastre,0.9324444444444445
+2,Font-rubí,Santa Oliva,0.7457499999999999
+2,Font-rubí,Olivella,0.7464444444444444
+2,Font-rubí,Olesa de Bonesvalls,0.742
+2,Font-rubí,Puigdàlber,0.486
+2,Font-rubí,Sant Llorenç d'Hortons,0.783
+2,Font-rubí,Subirats,0.6316944444444444
+2,Font-rubí,Torrelavit,0.5859722222222222
+2,Font-rubí,Masllorenç,0.8130277777777778
+2,Font-rubí,Montmell,0.8180000000000001
+2,Font-rubí,Salomó,0.9482777777777778
+2,Font-rubí,Vespella de Gaià,1.005111111111111
+2,Pontons,Torrelles de Foix,0.1481111111111111
+2,Pontons,Les Cabanyes,0.41936111111111113
+2,Pontons,Pacs del Penedès,0.3281666666666667
+2,Pontons,Sant Cugat Sesgarrigues,0.5138055555555555
+2,Pontons,Santa Fe del Penedès,0.49733333333333335
+2,Pontons,Vilobí del Penedès,0.3941944444444444
+2,Pontons,Castellet i la Gornal,0.6221388888888888
+2,Pontons,Albinyana,0.8103611111111112
+2,Pontons,Bonastre,0.7285277777777778
+2,Pontons,Santa Oliva,0.7071944444444445
+2,Pontons,Olivella,0.7588888888888888
+2,Pontons,Olesa de Bonesvalls,0.7544444444444445
+2,Pontons,Puigdàlber,0.5480833333333333
+2,Pontons,Sant Llorenç d'Hortons,0.7954444444444444
+2,Pontons,Subirats,0.6441388888888889
+2,Pontons,Torrelavit,0.6652222222222223
+2,Pontons,Masllorenç,0.64675
+2,Pontons,Montmell,0.74325
+2,Pontons,Salomó,0.6455555555555555
+2,Pontons,Vespella de Gaià,0.8331666666666667
+2,Torrelles de Foix,Les Cabanyes,0.27125
+2,Torrelles de Foix,Pacs del Penedès,0.18005555555555558
+2,Torrelles de Foix,Sant Cugat Sesgarrigues,0.36569444444444443
+2,Torrelles de Foix,Santa Fe del Penedès,0.3492222222222222
+2,Torrelles de Foix,Vilobí del Penedès,0.24608333333333332
+2,Torrelles de Foix,Castellet i la Gornal,0.47402777777777777
+2,Torrelles de Foix,Albinyana,0.66225
+2,Torrelles de Foix,Bonastre,0.7967777777777778
+2,Torrelles de Foix,Santa Oliva,0.6100833333333334
+2,Torrelles de Foix,Olivella,0.6107777777777779
+2,Torrelles de Foix,Olesa de Bonesvalls,0.6063333333333334
+2,Torrelles de Foix,Puigdàlber,0.39997222222222223
+2,Torrelles de Foix,Sant Llorenç d'Hortons,0.6473333333333333
+2,Torrelles de Foix,Subirats,0.4960277777777778
+2,Torrelles de Foix,Torrelavit,0.5171111111111111
+2,Torrelles de Foix,Masllorenç,0.6773611111111111
+2,Torrelles de Foix,Montmell,0.6823333333333333
+2,Torrelles de Foix,Salomó,0.7937777777777778
+2,Torrelles de Foix,Vespella de Gaià,0.8694444444444445
+2,Les Cabanyes,Pacs del Penedès,0.09083333333333334
+2,Les Cabanyes,Sant Cugat Sesgarrigues,0.19875
+2,Les Cabanyes,Santa Fe del Penedès,0.1257777777777778
+2,Les Cabanyes,Vilobí del Penedès,0.10475000000000001
+2,Les Cabanyes,Castellet i la Gornal,0.35883333333333334
+2,Les Cabanyes,Albinyana,0.5470555555555556
+2,Les Cabanyes,Bonastre,0.6815833333333333
+2,Les Cabanyes,Santa Oliva,0.4968333333333333
+2,Les Cabanyes,Olivella,0.4438333333333333
+2,Les Cabanyes,Olesa de Bonesvalls,0.4393888888888889
+2,Les Cabanyes,Puigdàlber,0.1887777777777778
+2,Les Cabanyes,Sant Llorenç d'Hortons,0.4803888888888889
+2,Les Cabanyes,Subirats,0.32908333333333334
+2,Les Cabanyes,Torrelavit,0.3502222222222222
+2,Les Cabanyes,Masllorenç,0.5621666666666667
+2,Les Cabanyes,Montmell,0.5671388888888889
+2,Les Cabanyes,Salomó,0.6974166666666666
+2,Les Cabanyes,Vespella de Gaià,0.7542500000000001
+2,Pacs del Penedès,Sant Cugat Sesgarrigues,0.22052777777777777
+2,Pacs del Penedès,Santa Fe del Penedès,0.20202777777777778
+2,Pacs del Penedès,Vilobí del Penedès,0.14094444444444443
+2,Pacs del Penedès,Castellet i la Gornal,0.32886111111111116
+2,Pacs del Penedès,Albinyana,0.5170833333333333
+2,Pacs del Penedès,Bonastre,0.6516111111111111
+2,Pacs del Penedès,Santa Oliva,0.4649166666666667
+2,Pacs del Penedès,Olivella,0.46561111111111114
+2,Pacs del Penedès,Olesa de Bonesvalls,0.46116666666666667
+2,Pacs del Penedès,Puigdàlber,0.25480555555555556
+2,Pacs del Penedès,Sant Llorenç d'Hortons,0.5021666666666667
+2,Pacs del Penedès,Subirats,0.35086111111111107
+2,Pacs del Penedès,Torrelavit,0.4083055555555556
+2,Pacs del Penedès,Masllorenç,0.5321944444444444
+2,Pacs del Penedès,Montmell,0.5371666666666667
+2,Pacs del Penedès,Salomó,0.6674444444444445
+2,Pacs del Penedès,Vespella de Gaià,0.7242777777777778
+2,Sant Cugat Sesgarrigues,Santa Fe del Penedès,0.1318888888888889
+2,Sant Cugat Sesgarrigues,Vilobí del Penedès,0.27466666666666667
+2,Sant Cugat Sesgarrigues,Castellet i la Gornal,0.3399166666666667
+2,Sant Cugat Sesgarrigues,Albinyana,0.5379444444444444
+2,Sant Cugat Sesgarrigues,Bonastre,0.6724722222222222
+2,Sant Cugat Sesgarrigues,Santa Oliva,0.48391666666666666
+2,Sant Cugat Sesgarrigues,Olivella,0.3272777777777778
+2,Sant Cugat Sesgarrigues,Olesa de Bonesvalls,0.29283333333333333
+2,Sant Cugat Sesgarrigues,Puigdàlber,0.20552777777777778
+2,Sant Cugat Sesgarrigues,Sant Llorenç d'Hortons,0.44208333333333333
+2,Sant Cugat Sesgarrigues,Subirats,0.1825277777777778
+2,Sant Cugat Sesgarrigues,Torrelavit,0.3134722222222222
+2,Sant Cugat Sesgarrigues,Masllorenç,0.5530555555555555
+2,Sant Cugat Sesgarrigues,Montmell,0.5580277777777778
+2,Sant Cugat Sesgarrigues,Salomó,0.6883055555555556
+2,Sant Cugat Sesgarrigues,Vespella de Gaià,0.7451388888888889
+2,Santa Fe del Penedès,Vilobí del Penedès,0.2231388888888889
+2,Santa Fe del Penedès,Castellet i la Gornal,0.3604444444444444
+2,Santa Fe del Penedès,Albinyana,0.5584722222222223
+2,Santa Fe del Penedès,Bonastre,0.6930000000000001
+2,Santa Fe del Penedès,Santa Oliva,0.5044444444444445
+2,Santa Fe del Penedès,Olivella,0.4246111111111111
+2,Santa Fe del Penedès,Olesa de Bonesvalls,0.40019444444444446
+2,Santa Fe del Penedès,Puigdàlber,0.11452777777777778
+2,Santa Fe del Penedès,Sant Llorenç d'Hortons,0.41933333333333334
+2,Santa Fe del Penedès,Subirats,0.28988888888888886
+2,Santa Fe del Penedès,Torrelavit,0.27597222222222223
+2,Santa Fe del Penedès,Masllorenç,0.5735833333333333
+2,Santa Fe del Penedès,Montmell,0.5785555555555556
+2,Santa Fe del Penedès,Salomó,0.7088333333333334
+2,Santa Fe del Penedès,Vespella de Gaià,0.7656666666666667
+2,Vilobí del Penedès,Castellet i la Gornal,0.4443888888888889
+2,Vilobí del Penedès,Albinyana,0.6326111111111111
+2,Vilobí del Penedès,Bonastre,0.7671388888888888
+2,Vilobí del Penedès,Santa Oliva,0.5804444444444444
+2,Vilobí del Penedès,Olivella,0.5308055555555555
+2,Vilobí del Penedès,Olesa de Bonesvalls,0.5263611111111112
+2,Vilobí del Penedès,Puigdàlber,0.28825
+2,Vilobí del Penedès,Sant Llorenç d'Hortons,0.5673611111111111
+2,Vilobí del Penedès,Subirats,0.41605555555555557
+2,Vilobí del Penedès,Torrelavit,0.40969444444444447
+2,Vilobí del Penedès,Masllorenç,0.6477222222222223
+2,Vilobí del Penedès,Montmell,0.6526944444444444
+2,Vilobí del Penedès,Salomó,0.7829722222222222
+2,Vilobí del Penedès,Vespella de Gaià,0.8398055555555556
+2,Castellet i la Gornal,Albinyana,0.22774999999999998
+2,Castellet i la Gornal,Bonastre,0.40049999999999997
+2,Castellet i la Gornal,Santa Oliva,0.17575000000000002
+2,Castellet i la Gornal,Olivella,0.5843055555555555
+2,Castellet i la Gornal,Olesa de Bonesvalls,0.5798611111111112
+2,Castellet i la Gornal,Puigdàlber,0.3957777777777778
+2,Castellet i la Gornal,Sant Llorenç d'Hortons,0.6238055555555555
+2,Castellet i la Gornal,Subirats,0.46955555555555556
+2,Castellet i la Gornal,Torrelavit,0.5572222222222222
+2,Castellet i la Gornal,Masllorenç,0.32886111111111116
+2,Castellet i la Gornal,Montmell,0.40269444444444447
+2,Castellet i la Gornal,Salomó,0.4653611111111111
+2,Castellet i la Gornal,Vespella de Gaià,0.5293333333333333
+2,Albinyana,Bonastre,0.2515
+2,Albinyana,Santa Oliva,0.20755555555555558
+2,Albinyana,Olivella,0.7507222222222222
+2,Albinyana,Olesa de Bonesvalls,0.7823888888888889
+2,Albinyana,Puigdàlber,0.5983055555555555
+2,Albinyana,Sant Llorenç d'Hortons,0.7655833333333333
+2,Albinyana,Subirats,0.6556944444444445
+2,Albinyana,Torrelavit,0.7118611111111111
+2,Albinyana,Masllorenç,0.2668888888888889
+2,Albinyana,Montmell,0.3407222222222222
+2,Albinyana,Salomó,0.4033888888888889
+2,Albinyana,Vespella de Gaià,0.591
+2,Bonastre,Santa Oliva,0.41158333333333336
+2,Bonastre,Olivella,0.8183055555555556
+2,Bonastre,Olesa de Bonesvalls,0.9243055555555556
+2,Bonastre,Puigdàlber,0.7402222222222222
+2,Bonastre,Sant Llorenç d'Hortons,0.9075
+2,Bonastre,Subirats,0.7976111111111112
+2,Bonastre,Torrelavit,0.8537777777777777
+2,Bonastre,Masllorenç,0.15577777777777777
+2,Bonastre,Montmell,0.32916666666666666
+2,Bonastre,Salomó,0.1973888888888889
+2,Bonastre,Vespella de Gaià,0.385
+2,Santa Oliva,Olivella,0.6989166666666666
+2,Santa Oliva,Olesa de Bonesvalls,0.7269166666666667
+2,Santa Oliva,Puigdàlber,0.5428333333333334
+2,Santa Oliva,Sant Llorenç d'Hortons,0.7708611111111111
+2,Santa Oliva,Subirats,0.6166111111111111
+2,Santa Oliva,Torrelavit,0.7042777777777778
+2,Santa Oliva,Masllorenç,0.30944444444444447
+2,Santa Oliva,Montmell,0.36025
+2,Santa Oliva,Salomó,0.4459444444444445
+2,Santa Oliva,Vespella de Gaià,0.5250555555555556
+2,Olivella,Olesa de Bonesvalls,0.5659722222222222
+2,Olivella,Puigdàlber,0.4538333333333333
+2,Olivella,Sant Llorenç d'Hortons,0.7041666666666667
+2,Olivella,Subirats,0.45566666666666666
+2,Olivella,Torrelavit,0.6152777777777778
+2,Olivella,Masllorenç,0.8013611111111112
+2,Olivella,Montmell,0.8063333333333333
+2,Olivella,Salomó,0.9366111111111112
+2,Olivella,Vespella de Gaià,0.9420555555555555
+2,Olesa de Bonesvalls,Puigdàlber,0.4434722222222222
+2,Olesa de Bonesvalls,Sant Llorenç d'Hortons,0.8714722222222223
+2,Olesa de Bonesvalls,Subirats,0.3421666666666667
+2,Olesa de Bonesvalls,Torrelavit,0.5775277777777778
+2,Olesa de Bonesvalls,Masllorenç,0.7909999999999999
+2,Olesa de Bonesvalls,Montmell,0.7959722222222222
+2,Olesa de Bonesvalls,Salomó,0.92625
+2,Olesa de Bonesvalls,Vespella de Gaià,0.9830833333333333
+2,Puigdàlber,Sant Llorenç d'Hortons,0.44216666666666665
+2,Puigdàlber,Subirats,0.31483333333333335
+2,Puigdàlber,Torrelavit,0.21980555555555553
+2,Puigdàlber,Masllorenç,0.5984722222222222
+2,Puigdàlber,Montmell,0.6034444444444444
+2,Puigdàlber,Salomó,0.7337222222222223
+2,Puigdàlber,Vespella de Gaià,0.7905555555555556
+2,Sant Llorenç d'Hortons,Subirats,0.37722222222222224
+2,Sant Llorenç d'Hortons,Torrelavit,0.3646944444444445
+2,Sant Llorenç d'Hortons,Masllorenç,0.7797777777777777
+2,Sant Llorenç d'Hortons,Montmell,0.78475
+2,Sant Llorenç d'Hortons,Salomó,0.9150277777777778
+2,Sant Llorenç d'Hortons,Vespella de Gaià,0.9718611111111111
+2,Subirats,Torrelavit,0.2879444444444444
+2,Subirats,Masllorenç,0.6816666666666666
+2,Subirats,Montmell,0.6866388888888889
+2,Subirats,Salomó,0.8169166666666667
+2,Subirats,Vespella de Gaià,0.87375
+2,Torrelavit,Masllorenç,0.7339444444444444
+2,Torrelavit,Montmell,0.7389166666666667
+2,Torrelavit,Salomó,0.8691944444444444
+2,Torrelavit,Vespella de Gaià,0.9260277777777777
+2,Masllorenç,Montmell,0.17747222222222223
+2,Masllorenç,Salomó,0.14177777777777778
+2,Masllorenç,Vespella de Gaià,0.3293888888888889
+2,Montmell,Salomó,0.3148611111111111
+2,Montmell,Vespella de Gaià,0.5024722222222222
+2,Salomó,Vespella de Gaià,0.20438888888888887
+3,Blancafort,Pira,0.7334722222222222
+3,Blancafort,Senan,0.9757499999999999
+3,Blancafort,Aiguamúrcia,0.7642222222222221
+3,Blancafort,Cabra del Camp,0.7894166666666667
+3,Blancafort,Querol,0.9436388888888889
+3,Blancafort,Pontils,1.1768888888888889
+3,Blancafort,Figuerola del Camp,0.7770833333333333
+3,Blancafort,Montferri,0.7144166666666667
+3,Blancafort,Rodonyà,0.733111111111111
+3,Blancafort,Vallclara,0.9405
+3,Blancafort,Vilanova de Prades,1.0409722222222222
+3,Blancafort,Mont-ral,0.7448888888888888
+3,Blancafort,La Riba,0.5456666666666667
+3,Blancafort,Vilaverd,0.5723611111111111
+3,Blancafort,Garidells,0.4653333333333333
+3,Blancafort,Masó,0.8918333333333333
+3,Blancafort,El Milà,0.4688055555555556
+3,Blancafort,Vallmoll,0.5429444444444445
+3,Blancafort,Alió,0.6081944444444445
+3,Blancafort,Bràfim,0.74975
+3,Blancafort,Puigpelat,0.6242222222222221
+3,Blancafort,Vilabella,0.7227777777777777
+3,Blancafort,Nulles,0.6598888888888889
+3,Blancafort,Rourell,0.46147222222222223
+3,Pira,Senan,0.44122222222222224
+3,Pira,Aiguamúrcia,0.5045000000000001
+3,Pira,Cabra del Camp,0.21555555555555556
+3,Pira,Querol,0.5198611111111111
+3,Pira,Pontils,0.4596111111111111
+3,Pira,Figuerola del Camp,0.32630555555555557
+3,Pira,Montferri,0.45469444444444446
+3,Pira,Rodonyà,0.4733888888888889
+3,Pira,Vallclara,0.40597222222222223
+3,Pira,Vilanova de Prades,0.5064444444444445
+3,Pira,Mont-ral,0.6696666666666667
+3,Pira,La Riba,0.28308333333333335
+3,Pira,Vilaverd,0.21780555555555556
+3,Pira,Garidells,0.4718611111111111
+3,Pira,Masó,0.9353888888888889
+3,Pira,El Milà,0.4005833333333333
+3,Pira,Vallmoll,0.42716666666666664
+3,Pira,Alió,0.3994722222222222
+3,Pira,Bràfim,0.5483333333333333
+3,Pira,Puigpelat,0.42686111111111114
+3,Pira,Vilabella,0.5739444444444444
+3,Pira,Nulles,0.5168333333333333
+3,Pira,Rourell,0.4036944444444444
+3,Senan,Aiguamúrcia,0.7520277777777779
+3,Senan,Cabra del Camp,0.5707222222222222
+3,Senan,Querol,0.7673888888888889
+3,Senan,Pontils,0.895611111111111
+3,Senan,Figuerola del Camp,0.6304722222222222
+3,Senan,Montferri,0.7022222222222222
+3,Senan,Rodonyà,0.7209166666666668
+3,Senan,Vallclara,0.4771944444444445
+3,Senan,Vilanova de Prades,0.5776666666666667
+3,Senan,Mont-ral,0.9051944444444444
+3,Senan,La Riba,0.5186111111111111
+3,Senan,Vilaverd,0.4533333333333333
+3,Senan,Garidells,0.7073888888888888
+3,Senan,Masó,1.1829166666666666
+3,Senan,El Milà,0.6361111111111111
+3,Senan,Vallmoll,0.6626944444444444
+3,Senan,Alió,0.635
+3,Senan,Bràfim,0.7958611111111111
+3,Senan,Puigpelat,0.6623888888888889
+3,Senan,Vilabella,0.8094722222222221
+3,Senan,Nulles,0.7523611111111111
+3,Senan,Rourell,0.6392222222222221
+3,Aiguamúrcia,Cabra del Camp,0.3398333333333334
+3,Aiguamúrcia,Querol,0.33311111111111114
+3,Aiguamúrcia,Pontils,0.5663611111111111
+3,Aiguamúrcia,Figuerola del Camp,0.3366944444444444
+3,Aiguamúrcia,Montferri,0.18813888888888888
+3,Aiguamúrcia,Rodonyà,0.20683333333333334
+3,Aiguamúrcia,Vallclara,0.7328333333333333
+3,Aiguamúrcia,Vilanova de Prades,0.8333055555555556
+3,Aiguamúrcia,Mont-ral,0.7245555555555556
+3,Aiguamúrcia,La Riba,0.5375277777777777
+3,Aiguamúrcia,Vilaverd,0.5145
+3,Aiguamúrcia,Garidells,0.3997777777777778
+3,Aiguamúrcia,Masó,0.7410555555555556
+3,Aiguamúrcia,El Milà,0.40488888888888885
+3,Aiguamúrcia,Vallmoll,0.3550833333333333
+3,Aiguamúrcia,Alió,0.1972777777777778
+3,Aiguamúrcia,Bràfim,0.2817777777777778
+3,Aiguamúrcia,Puigpelat,0.26944444444444443
+3,Aiguamúrcia,Vilabella,0.40994444444444444
+3,Aiguamúrcia,Nulles,0.3750555555555556
+3,Aiguamúrcia,Rourell,0.408
+3,Cabra del Camp,Querol,0.3557222222222222
+3,Cabra del Camp,Pontils,0.53725
+3,Cabra del Camp,Figuerola del Camp,0.138
+3,Cabra del Camp,Montferri,0.32752777777777775
+3,Cabra del Camp,Rodonyà,0.34622222222222226
+3,Cabra del Camp,Vallclara,0.5354722222222222
+3,Cabra del Camp,Vilanova de Prades,0.6359444444444444
+3,Cabra del Camp,Mont-ral,0.7493055555555556
+3,Cabra del Camp,La Riba,0.4125833333333333
+3,Cabra del Camp,Vilaverd,0.34730555555555553
+3,Cabra del Camp,Garidells,0.4245277777777778
+3,Cabra del Camp,Masó,0.8082222222222222
+3,Cabra del Camp,El Milà,0.4280555555555556
+3,Cabra del Camp,Vallmoll,0.37983333333333336
+3,Cabra del Camp,Alió,0.3143333333333333
+3,Cabra del Camp,Bràfim,0.4211666666666667
+3,Cabra del Camp,Puigpelat,0.3522222222222222
+3,Cabra del Camp,Vilabella,0.49930555555555556
+3,Cabra del Camp,Nulles,0.44219444444444445
+3,Cabra del Camp,Rourell,0.4311666666666667
+3,Querol,Pontils,0.23325
+3,Querol,Figuerola del Camp,0.3501388888888889
+3,Querol,Montferri,0.45641666666666664
+3,Querol,Rodonyà,0.47511111111111115
+3,Querol,Vallclara,0.7508888888888888
+3,Querol,Vilanova de Prades,0.8513611111111111
+3,Querol,Mont-ral,0.9053333333333333
+3,Querol,La Riba,0.628
+3,Querol,Vilaverd,0.5627222222222222
+3,Querol,Garidells,0.5805555555555556
+3,Querol,Masó,0.9371111111111111
+3,Querol,El Milà,0.5840833333333333
+3,Querol,Vallmoll,0.5358611111111111
+3,Querol,Alió,0.4432222222222222
+3,Querol,Bràfim,0.5500555555555555
+3,Querol,Puigpelat,0.50825
+3,Querol,Vilabella,0.6553333333333333
+3,Querol,Nulles,0.5982222222222222
+3,Querol,Rourell,0.5871944444444445
+3,Pontils,Figuerola del Camp,0.5822777777777777
+3,Pontils,Montferri,0.6885555555555556
+3,Pontils,Rodonyà,0.7072499999999999
+3,Pontils,Vallclara,0.8606111111111111
+3,Pontils,Vilanova de Prades,0.9610833333333334
+3,Pontils,Mont-ral,1.1243055555555554
+3,Pontils,La Riba,0.7377222222222223
+3,Pontils,Vilaverd,0.6724444444444445
+3,Pontils,Garidells,0.8126944444444444
+3,Pontils,Masó,1.14075
+3,Pontils,El Milà,0.8162222222222223
+3,Pontils,Vallmoll,0.768
+3,Pontils,Alió,0.6753611111111112
+3,Pontils,Bràfim,0.7821944444444444
+3,Pontils,Puigpelat,0.7403888888888889
+3,Pontils,Vilabella,0.8874722222222222
+3,Pontils,Nulles,0.8303611111111112
+3,Pontils,Rourell,0.8193333333333334
+3,Figuerola del Camp,Montferri,0.3231111111111111
+3,Figuerola del Camp,Rodonyà,0.34180555555555553
+3,Figuerola del Camp,Vallclara,0.6175833333333334
+3,Figuerola del Camp,Vilanova de Prades,0.7180555555555556
+3,Figuerola del Camp,Mont-ral,0.7288333333333333
+3,Figuerola del Camp,La Riba,0.4735
+3,Figuerola del Camp,Vilaverd,0.4082222222222222
+3,Figuerola del Camp,Garidells,0.42011111111111116
+3,Figuerola del Camp,Masó,0.8038055555555556
+3,Figuerola del Camp,El Milà,0.40127777777777773
+3,Figuerola del Camp,Vallmoll,0.3754166666666667
+3,Figuerola del Camp,Alió,0.3099166666666667
+3,Figuerola del Camp,Bràfim,0.41675
+3,Figuerola del Camp,Puigpelat,0.34780555555555553
+3,Figuerola del Camp,Vilabella,0.4948888888888889
+3,Figuerola del Camp,Nulles,0.43777777777777777
+3,Figuerola del Camp,Rourell,0.40438888888888885
+3,Montferri,Rodonyà,0.11516666666666667
+3,Montferri,Vallclara,0.6883333333333334
+3,Montferri,Vilanova de Prades,0.7888055555555555
+3,Montferri,Mont-ral,0.6800555555555555
+3,Montferri,La Riba,0.4930277777777778
+3,Montferri,Vilaverd,0.47
+3,Montferri,Garidells,0.3552777777777778
+3,Montferri,Masó,0.6511666666666667
+3,Montferri,El Milà,0.3603888888888889
+3,Montferri,Vallmoll,0.3105833333333333
+3,Montferri,Alió,0.1527777777777778
+3,Montferri,Bràfim,0.1111111111111111
+3,Montferri,Puigpelat,0.22494444444444442
+3,Montferri,Vilabella,0.23927777777777778
+3,Montferri,Nulles,0.2349166666666667
+3,Montferri,Rourell,0.3635
+3,Rodonyà,Vallclara,0.7037777777777777
+3,Rodonyà,Vilanova de Prades,0.80425
+3,Rodonyà,Mont-ral,0.6955
+3,Rodonyà,La Riba,0.5084722222222222
+3,Rodonyà,Vilaverd,0.4854444444444444
+3,Rodonyà,Garidells,0.3707222222222222
+3,Rodonyà,Masó,0.5626111111111112
+3,Rodonyà,El Milà,0.37583333333333335
+3,Rodonyà,Vallmoll,0.3260277777777778
+3,Rodonyà,Alió,0.16822222222222222
+3,Rodonyà,Bràfim,0.20936111111111114
+3,Rodonyà,Puigpelat,0.24038888888888887
+3,Rodonyà,Vilabella,0.33752777777777776
+3,Rodonyà,Nulles,0.33316666666666667
+3,Rodonyà,Rourell,0.3789444444444445
+3,Vallclara,Vilanova de Prades,0.11708333333333333
+3,Vallclara,Mont-ral,0.7960833333333334
+3,Vallclara,La Riba,0.4846944444444445
+3,Vallclara,Vilaverd,0.4194166666666667
+3,Vallclara,Garidells,0.6734722222222222
+3,Vallclara,Masó,1.1489999999999998
+3,Vallclara,El Milà,0.6021944444444445
+3,Vallclara,Vallmoll,0.6287777777777778
+3,Vallclara,Alió,0.6010833333333334
+3,Vallclara,Bràfim,0.7619444444444444
+3,Vallclara,Puigpelat,0.6284722222222222
+3,Vallclara,Vilabella,0.7755555555555556
+3,Vallclara,Nulles,0.7184444444444444
+3,Vallclara,Rourell,0.6053055555555555
+3,Vilanova de Prades,Mont-ral,0.6878888888888889
+3,Vilanova de Prades,La Riba,0.5843055555555555
+3,Vilanova de Prades,Vilaverd,0.5190277777777778
+3,Vilanova de Prades,Garidells,0.7730833333333333
+3,Vilanova de Prades,Masó,1.2486111111111111
+3,Vilanova de Prades,El Milà,0.7018055555555556
+3,Vilanova de Prades,Vallmoll,0.7283888888888889
+3,Vilanova de Prades,Alió,0.7006944444444444
+3,Vilanova de Prades,Bràfim,0.8615555555555555
+3,Vilanova de Prades,Puigpelat,0.7280833333333333
+3,Vilanova de Prades,Vilabella,0.8751666666666666
+3,Vilanova de Prades,Nulles,0.8180555555555555
+3,Vilanova de Prades,Rourell,0.7049166666666666
+3,Mont-ral,La Riba,0.4971944444444445
+3,Mont-ral,Vilaverd,0.5238888888888888
+3,Mont-ral,Garidells,0.5982777777777778
+3,Mont-ral,Masó,1.2234722222222223
+3,Mont-ral,El Milà,0.4454722222222222
+3,Mont-ral,Vallmoll,0.5535833333333333
+3,Mont-ral,Alió,0.5848611111111112
+3,Mont-ral,Bràfim,0.7383888888888889
+3,Mont-ral,Puigpelat,0.6008888888888888
+3,Mont-ral,Vilabella,0.7314166666666666
+3,Mont-ral,Nulles,0.6485277777777777
+3,Mont-ral,Rourell,0.538
+3,La Riba,Vilaverd,0.10433333333333333
+3,La Riba,Garidells,0.3894444444444444
+3,La Riba,Masó,1.0155555555555555
+3,La Riba,El Milà,0.23663888888888887
+3,La Riba,Vallmoll,0.34475
+3,La Riba,Alió,0.3760277777777778
+3,La Riba,Bràfim,0.5295555555555556
+3,La Riba,Puigpelat,0.3920555555555556
+3,La Riba,Rourell,0.32916666666666666
+3,Vilaverd,Garidells,0.41511111111111115
+3,Vilaverd,Masó,0.9573055555555556
+3,Vilaverd,El Milà,0.26230555555555557
+3,Vilaverd,Vallmoll,0.37041666666666667
+3,Vilaverd,Alió,0.34933333333333333
+3,Vilaverd,Bràfim,0.5307777777777778
+3,Vilaverd,Puigpelat,0.37672222222222224
+3,Vilaverd,Vilabella,0.5238055555555555
+3,Vilaverd,Nulles,0.4653611111111111
+3,Vilaverd,Rourell,0.35355555555555557
+3,Garidells,Masó,0.72975
+3,Garidells,El Milà,0.23591666666666666
+3,Garidells,Vallmoll,0.10202777777777779
+3,Garidells,Alió,0.24138888888888888
+3,Garidells,Bràfim,0.3291388888888889
+3,Garidells,Puigpelat,0.2574166666666667
+3,Garidells,Vilabella,0.30216666666666664
+3,Garidells,Nulles,0.23927777777777778
+3,Garidells,Rourell,0.1678611111111111
+3,Masó,El Milà,0.8151944444444444
+3,Masó,Vallmoll,0.8286111111111111
+3,Masó,Alió,0.7044444444444444
+3,Masó,Bràfim,0.7649166666666666
+3,Masó,Puigpelat,0.7766111111111111
+3,Masó,Vilabella,0.8930833333333333
+3,Masó,Nulles,0.8512777777777778
+3,Masó,Rourell,0.7471388888888888
+3,El Milà,Vallmoll,0.18433333333333335
+3,El Milà,Alió,0.24725
+3,El Milà,Bràfim,0.4007777777777778
+3,El Milà,Puigpelat,0.2632777777777778
+3,El Milà,Vilabella,0.3938055555555556
+3,El Milà,Nulles,0.3109166666666667
+3,El Milà,Rourell,0.10352777777777777
+3,Vallmoll,Alió,0.19711111111111113
+3,Vallmoll,Bràfim,0.3506388888888889
+3,Vallmoll,Puigpelat,0.21313888888888888
+3,Vallmoll,Vilabella,0.3436666666666667
+3,Vallmoll,Nulles,0.2607777777777778
+3,Vallmoll,Rourell,0.1262222222222222
+3,Alió,Bràfim,0.2058888888888889
+3,Alió,Puigpelat,0.11330555555555555
+3,Alió,Vilabella,0.2603888888888889
+3,Alió,Nulles,0.21891666666666668
+3,Alió,Rourell,0.25186111111111115
+3,Bràfim,Puigpelat,0.15794444444444444
+3,Bràfim,Vilabella,0.13102777777777777
+3,Bràfim,Nulles,0.12666666666666668
+3,Bràfim,Rourell,0.3635555555555555
+3,Puigpelat,Vilabella,0.1925
+3,Puigpelat,Nulles,0.1510277777777778
+3,Puigpelat,Rourell,0.26594444444444443
+3,Vilabella,Nulles,0.12058333333333333
+3,Vilabella,Rourell,0.3728611111111111
+3,Nulles,Rourell,0.3141388888888889
+4,Argentera,Botarell,0.2758611111111111
+4,Argentera,Colldejou,0.4411666666666667
+4,Argentera,Pratdip,0.6803888888888889
+4,Argentera,Riudecanyes,0.21444444444444444
+4,Argentera,Vilanova d'Escornalbou,0.29041666666666666
+4,Argentera,Aleixar,0.5433333333333333
+4,Argentera,Alforja,0.548
+4,Argentera,Duesaigües,0.07377777777777779
+4,Argentera,Maspujols,0.4945277777777778
+4,Argentera,Riudecols,0.34347222222222223
+4,Argentera,Arbolí,0.7686111111111111
+4,Argentera,Capafonts,1.2513055555555554
+4,Argentera,La Febró,1.1374722222222222
+4,Argentera,Vilaplana,0.6025555555555555
+4,Argentera,Albiol,0.9672777777777777
+4,Argentera,Almoster,0.6261388888888889
+4,Argentera,Perafort,0.7723611111111112
+4,Argentera,Pobla de Mafumet,0.7501388888888889
+4,Argentera,Vilallonga del Camp,0.79075
+4,Argentera,Nou de Gaià,0.8951111111111112
+4,Argentera,La Riera de Gaià,0.8611388888888889
+4,Argentera,El Catllar,0.8283611111111111
+4,Argentera,La Secuita,0.8506388888888889
+4,Argentera,Renau,0.9598055555555556
+4,Botarell,Colldejou,0.41280555555555554
+4,Botarell,Pratdip,0.4457777777777778
+4,Botarell,Riudecanyes,0.0976111111111111
+4,Botarell,Vilanova d'Escornalbou,0.2505833333333333
+4,Botarell,Aleixar,0.2748055555555555
+4,Botarell,Alforja,0.27947222222222223
+4,Botarell,Duesaigües,0.2133888888888889
+4,Botarell,Maspujols,0.226
+4,Botarell,Riudecols,0.19575
+4,Botarell,Arbolí,0.5000833333333333
+4,Botarell,Capafonts,1.0340277777777778
+4,Botarell,La Febró,0.8689444444444444
+4,Botarell,Vilaplana,0.33402777777777776
+4,Botarell,Albiol,0.69875
+4,Botarell,Almoster,0.35880555555555554
+4,Botarell,Perafort,0.5339722222222222
+4,Botarell,Pobla de Mafumet,0.51175
+4,Botarell,Vilallonga del Camp,0.5263888888888889
+4,Botarell,Nou de Gaià,0.6567222222222222
+4,Botarell,La Riera de Gaià,0.62275
+4,Botarell,El Catllar,0.5899722222222222
+4,Botarell,La Secuita,0.61225
+4,Botarell,Renau,0.7214166666666666
+4,Colldejou,Pratdip,0.3245
+4,Colldejou,Riudecanyes,0.4176388888888889
+4,Colldejou,Vilanova d'Escornalbou,0.27447222222222223
+4,Colldejou,Aleixar,0.6513611111111112
+4,Colldejou,Alforja,0.6784166666666667
+4,Colldejou,Duesaigües,0.5139444444444444
+4,Colldejou,Maspujols,0.6025555555555555
+4,Colldejou,Riudecols,0.4867222222222222
+4,Colldejou,Arbolí,0.8990277777777778
+4,Colldejou,Capafonts,1.3420833333333333
+4,Colldejou,La Febró,1.2678888888888888
+4,Colldejou,Vilaplana,0.7105833333333333
+4,Colldejou,Albiol,1.021638888888889
+4,Colldejou,Almoster,0.6449722222222223
+4,Colldejou,Perafort,0.7911944444444445
+4,Colldejou,Pobla de Mafumet,0.7689722222222223
+4,Colldejou,Vilallonga del Camp,0.8095833333333333
+4,Colldejou,Nou de Gaià,0.9139444444444444
+4,Colldejou,La Riera de Gaià,0.8799722222222223
+4,Colldejou,El Catllar,0.8471944444444445
+4,Colldejou,La Secuita,0.8694722222222222
+4,Colldejou,Renau,0.9786388888888888
+4,Pratdip,Riudecanyes,0.4922777777777778
+4,Pratdip,Vilanova d'Escornalbou,0.4018611111111111
+4,Pratdip,Aleixar,0.6664722222222222
+4,Pratdip,Alforja,0.7406944444444444
+4,Pratdip,Duesaigües,0.62475
+4,Pratdip,Maspujols,0.6176666666666666
+4,Pratdip,Riudecols,0.6569722222222222
+4,Pratdip,Arbolí,0.9613055555555555
+4,Pratdip,Capafonts,1.2794722222222223
+4,Pratdip,La Febró,1.2905555555555555
+4,Pratdip,Vilaplana,0.7256944444444444
+4,Pratdip,Albiol,0.9590277777777778
+4,Pratdip,Almoster,0.6669999999999999
+4,Pratdip,Perafort,0.7094166666666667
+4,Pratdip,Pobla de Mafumet,0.6871944444444444
+4,Pratdip,Vilallonga del Camp,0.7278055555555555
+4,Pratdip,Nou de Gaià,0.8321666666666667
+4,Pratdip,La Riera de Gaià,0.7981944444444444
+4,Pratdip,El Catllar,0.7575555555555555
+4,Pratdip,La Secuita,0.7876944444444444
+4,Pratdip,Renau,0.8968611111111111
+4,Riudecanyes,Vilanova d'Escornalbou,0.15325000000000003
+4,Riudecanyes,Aleixar,0.36530555555555555
+4,Riudecanyes,Alforja,0.36997222222222226
+4,Riudecanyes,Duesaigües,0.15575
+4,Riudecanyes,Maspujols,0.3165
+4,Riudecanyes,Riudecols,0.28625
+4,Riudecanyes,Arbolí,0.5905833333333333
+4,Riudecanyes,Capafonts,1.1245277777777778
+4,Riudecanyes,La Febró,0.9594444444444444
+4,Riudecanyes,Vilaplana,0.4245277777777778
+4,Riudecanyes,Albiol,0.78925
+4,Riudecanyes,Almoster,0.43266666666666664
+4,Riudecanyes,Perafort,0.5788888888888889
+4,Riudecanyes,Pobla de Mafumet,0.5566666666666666
+4,Riudecanyes,Vilallonga del Camp,0.5972777777777777
+4,Riudecanyes,Nou de Gaià,0.7016388888888889
+4,Riudecanyes,La Riera de Gaià,0.6676666666666666
+4,Riudecanyes,El Catllar,0.6348888888888888
+4,Riudecanyes,La Secuita,0.6571666666666667
+4,Riudecanyes,Renau,0.7663333333333334
+4,Vilanova d'Escornalbou,Aleixar,0.49030555555555555
+4,Vilanova d'Escornalbou,Alforja,0.5173611111111112
+4,Vilanova d'Escornalbou,Duesaigües,0.30575
+4,Vilanova d'Escornalbou,Maspujols,0.4415
+4,Vilanova d'Escornalbou,Riudecols,0.43363888888888885
+4,Vilanova d'Escornalbou,Arbolí,0.7379722222222221
+4,Vilanova d'Escornalbou,Capafonts,1.1810277777777778
+4,Vilanova d'Escornalbou,La Febró,1.1068333333333333
+4,Vilanova d'Escornalbou,Vilaplana,0.5495277777777777
+4,Vilanova d'Escornalbou,Albiol,0.8605833333333333
+4,Vilanova d'Escornalbou,Almoster,0.48391666666666666
+4,Vilanova d'Escornalbou,Perafort,0.6301388888888889
+4,Vilanova d'Escornalbou,Pobla de Mafumet,0.6079166666666667
+4,Vilanova d'Escornalbou,Vilallonga del Camp,0.6485277777777777
+4,Vilanova d'Escornalbou,Nou de Gaià,0.7528888888888889
+4,Vilanova d'Escornalbou,La Riera de Gaià,0.7189166666666666
+4,Vilanova d'Escornalbou,El Catllar,0.6861388888888889
+4,Vilanova d'Escornalbou,La Secuita,0.7084166666666667
+4,Vilanova d'Escornalbou,Renau,0.8175833333333333
+4,Aleixar,Alforja,0.2208888888888889
+4,Aleixar,Duesaigües,0.48358333333333337
+4,Aleixar,Maspujols,0.06708333333333333
+4,Aleixar,Riudecols,0.24033333333333334
+4,Aleixar,Arbolí,0.4415
+4,Aleixar,Capafonts,0.8236111111111111
+4,Aleixar,La Febró,0.6585277777777777
+4,Aleixar,Vilaplana,0.09366666666666666
+4,Aleixar,Albiol,0.4583888888888889
+4,Aleixar,Almoster,0.288
+4,Aleixar,Perafort,0.4697777777777778
+4,Aleixar,Pobla de Mafumet,0.4434444444444445
+4,Aleixar,Vilallonga del Camp,0.45016666666666666
+4,Aleixar,Nou de Gaià,0.5925277777777778
+4,Aleixar,La Riera de Gaià,0.5585555555555556
+4,Aleixar,El Catllar,0.5270833333333333
+4,Aleixar,La Secuita,0.5480555555555555
+4,Aleixar,Renau,0.6572222222222223
+4,Alforja,Duesaigües,0.4892222222222222
+4,Alforja,Maspujols,0.25030555555555556
+4,Alforja,Riudecols,0.21669444444444444
+4,Alforja,Arbolí,0.29341666666666666
+4,Alforja,Capafonts,0.8273611111111111
+4,Alforja,La Febró,0.6622777777777777
+4,Alforja,Vilaplana,0.1528611111111111
+4,Alforja,Albiol,0.5175833333333333
+4,Alforja,Almoster,0.3994166666666667
+4,Alforja,Perafort,0.5882777777777778
+4,Alforja,Pobla de Mafumet,0.5436666666666666
+4,Alforja,Vilallonga del Camp,0.5093611111111112
+4,Alforja,Nou de Gaià,0.7110277777777777
+4,Alforja,La Riera de Gaià,0.6770555555555556
+4,Alforja,Renau,0.7757222222222222
+4,Duesaigües,Maspujols,0.4324444444444444
+4,Duesaigües,Riudecols,0.26969444444444446
+4,Duesaigües,Arbolí,0.7019444444444445
+4,Duesaigües,Capafonts,1.177527777777778
+4,Duesaigües,La Febró,1.0708055555555556
+4,Duesaigües,Vilaplana,0.5404722222222222
+4,Duesaigües,Albiol,0.9051944444444444
+4,Duesaigües,Almoster,0.5640555555555555
+4,Duesaigües,Perafort,0.7102777777777778
+4,Duesaigües,Pobla de Mafumet,0.6880555555555555
+4,Duesaigües,Vilallonga del Camp,0.7286666666666666
+4,Duesaigües,Nou de Gaià,0.8330277777777778
+4,Duesaigües,La Riera de Gaià,0.7990555555555555
+4,Duesaigües,El Catllar,0.7662777777777777
+4,Duesaigües,La Secuita,0.7885555555555556
+4,Duesaigües,Renau,0.8977222222222223
+4,Maspujols,Riudecols,0.20230555555555554
+4,Maspujols,Arbolí,0.4828611111111111
+4,Maspujols,Capafonts,0.8649722222222223
+4,Maspujols,La Febró,0.6998888888888889
+4,Maspujols,Vilaplana,0.13502777777777777
+4,Maspujols,Albiol,0.49974999999999997
+4,Maspujols,Almoster,0.2499722222222222
+4,Maspujols,Perafort,0.43174999999999997
+4,Maspujols,Pobla de Mafumet,0.40541666666666665
+4,Maspujols,Vilallonga del Camp,0.41944444444444445
+4,Maspujols,Nou de Gaià,0.5545
+4,Maspujols,La Riera de Gaià,0.5205277777777778
+4,Maspujols,El Catllar,0.4890555555555555
+4,Maspujols,La Secuita,0.5100277777777777
+4,Maspujols,Renau,0.6191944444444444
+4,Riudecols,Arbolí,0.44730555555555557
+4,Riudecols,Capafonts,0.98125
+4,Riudecols,La Febró,0.8161666666666666
+4,Riudecols,Vilaplana,0.29841666666666666
+4,Riudecols,Albiol,0.6631388888888889
+4,Riudecols,Almoster,0.3305833333333333
+4,Riudecols,Perafort,0.5061388888888889
+4,Riudecols,Pobla de Mafumet,0.48391666666666666
+4,Riudecols,Vilallonga del Camp,0.4981666666666667
+4,Riudecols,Nou de Gaià,0.6288888888888889
+4,Riudecols,La Riera de Gaià,0.5949166666666666
+4,Riudecols,El Catllar,0.5634444444444444
+4,Riudecols,La Secuita,0.5844166666666667
+4,Riudecols,Renau,0.6935833333333333
+4,Arbolí,Capafonts,0.6577777777777778
+4,Arbolí,La Febró,0.49269444444444443
+4,Arbolí,Vilaplana,0.37766666666666665
+4,Arbolí,Albiol,0.5971388888888889
+4,Arbolí,Almoster,0.6242222222222221
+4,Arbolí,Perafort,0.8130833333333333
+4,Arbolí,Pobla de Mafumet,0.7684722222222222
+4,Arbolí,Vilallonga del Camp,0.7341666666666666
+4,Arbolí,Nou de Gaià,0.9358333333333333
+4,Arbolí,La Riera de Gaià,0.9018611111111111
+4,Arbolí,El Catllar,0.8703888888888889
+4,Arbolí,La Secuita,0.8913611111111112
+4,Arbolí,Renau,1.000527777777778
+4,Capafonts,La Febró,0.20202777777777778
+4,Capafonts,Vilaplana,0.7562777777777777
+4,Capafonts,Albiol,0.7040555555555555
+4,Capafonts,Almoster,0.7568611111111111
+4,Capafonts,Perafort,0.8852222222222222
+4,Capafonts,Pobla de Mafumet,0.8384722222222222
+4,Capafonts,Vilallonga del Camp,0.7643888888888889
+4,Capafonts,Nou de Gaià,1.123361111111111
+4,Capafonts,La Riera de Gaià,1.1180833333333333
+4,Capafonts,El Catllar,1.0643888888888888
+4,Capafonts,La Secuita,0.9070277777777779
+4,Capafonts,Renau,0.9643333333333333
+4,La Febró,Vilaplana,0.5903333333333333
+4,La Febró,Albiol,0.5381111111111111
+4,La Febró,Almoster,0.8406666666666667
+4,La Febró,Perafort,1.0683333333333334
+4,La Febró,Pobla de Mafumet,0.9849166666666667
+4,La Febró,Vilallonga del Camp,0.9476111111111112
+4,La Febró,Nou de Gaià,1.2169999999999999
+4,La Febró,La Riera de Gaià,1.1830277777777776
+4,La Febró,El Catllar,1.1515555555555557
+4,La Febró,La Secuita,1.09025
+4,La Febró,Renau,1.1475555555555554
+4,Vilaplana,Albiol,0.3918055555555556
+4,Vilaplana,Almoster,0.27725
+4,Vilaplana,Perafort,0.5049166666666667
+4,Vilaplana,Pobla de Mafumet,0.42150000000000004
+4,Vilaplana,Vilallonga del Camp,0.38719444444444445
+4,Vilaplana,Nou de Gaià,0.6535833333333334
+4,Vilaplana,La Riera de Gaià,0.6196111111111111
+4,Vilaplana,El Catllar,0.588138888888889
+4,Vilaplana,La Secuita,0.5831944444444445
+4,Vilaplana,Renau,0.6667777777777778
+4,Albiol,Almoster,0.42325
+4,Albiol,Perafort,0.6220833333333333
+4,Albiol,Pobla de Mafumet,0.5386666666666666
+4,Albiol,Vilallonga del Camp,0.4728611111111111
+4,Albiol,Nou de Gaià,0.8184444444444444
+4,Albiol,La Riera de Gaià,0.7844722222222222
+4,Albiol,El Catllar,0.753
+4,Albiol,La Secuita,0.69375
+4,Albiol,Renau,0.7510555555555556
+4,Almoster,Perafort,0.35577777777777775
+4,Almoster,Pobla de Mafumet,0.2723611111111111
+4,Almoster,Vilallonga del Camp,0.24783333333333335
+4,Almoster,Nou de Gaià,0.5668333333333333
+4,Almoster,La Riera de Gaià,0.5328611111111111
+4,Almoster,El Catllar,0.5013888888888889
+4,Almoster,La Secuita,0.43405555555555553
+4,Almoster,Renau,0.5176388888888889
+4,Perafort,Pobla de Mafumet,0.12683333333333335
+4,Perafort,Vilallonga del Camp,0.16744444444444442
+4,Perafort,Nou de Gaià,0.41041666666666665
+4,Perafort,La Riera de Gaià,0.3382222222222222
+4,Perafort,El Catllar,0.24069444444444443
+4,Perafort,La Secuita,0.09936111111111111
+4,Perafort,Renau,0.20852777777777778
+4,Pobla de Mafumet,Vilallonga del Camp,0.0788611111111111
+4,Pobla de Mafumet,Nou de Gaià,0.3969166666666667
+4,Pobla de Mafumet,La Riera de Gaià,0.3629444444444444
+4,Pobla de Mafumet,El Catllar,0.3446666666666667
+4,Pobla de Mafumet,La Secuita,0.19744444444444442
+4,Pobla de Mafumet,Renau,0.3066111111111111
+4,Vilallonga del Camp,Nou de Gaià,0.447
+4,Vilallonga del Camp,La Riera de Gaià,0.4130277777777778
+4,Vilallonga del Camp,El Catllar,0.39475
+4,Vilallonga del Camp,La Secuita,0.2475277777777778
+4,Vilallonga del Camp,Renau,0.3566944444444444
+4,Nou de Gaià,La Riera de Gaià,0.07819444444444444
+4,Nou de Gaià,El Catllar,0.17622222222222222
+4,Nou de Gaià,La Secuita,0.3388333333333333
+4,Nou de Gaià,Renau,0.4128888888888889
+4,La Riera de Gaià,El Catllar,0.11263888888888889
+4,La Riera de Gaià,La Secuita,0.27525
+4,La Riera de Gaià,Renau,0.34930555555555554
+4,El Catllar,La Secuita,0.17752777777777778
+4,El Catllar,Renau,0.2515833333333333
+4,La Secuita,Renau,0.1218888888888889

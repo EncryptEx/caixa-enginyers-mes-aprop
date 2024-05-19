@@ -46,16 +46,6 @@ def get_random_successor(week):
     return new_week
 
 
-
-
-
-
-
-
-
-
-
-
 #==========================================================
 def get_successors(week):
     all_possible_weeks = []
