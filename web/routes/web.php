@@ -26,7 +26,6 @@ Route::post('/generate', [GenerateController::class, 'store'])->middleware(['aut
 
 Route::get('/map', [MapController::class, 'view'])->middleware(['auth', 'verified'])->name('map');
 
-
 Route::middleware('auth')->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
