@@ -41,18 +41,18 @@ class DashboardController extends Controller
         foreach ($elems as $elem) {
             if($elem['tipus'] == 'sortida'){
                 $events[] = [
-                    'title' => 'Viatjant a ' . $elem['desti'] . ' desde ' . $elem['lloc_sortida'],
-                    'start' => date('Y-m-d H:i:s', strtotime($elem['hora'])),
-                    'end' => date('Y-m-d H:i:s', strtotime($elem['hora']) + $elem['temps_trajecte'] * 60),
+                    'title' => 'Viatjant desde ' . $elem['lloc_sortida'] . ' a ' . $elem['desti'],
+                    'start' => (new \DateTime($elem['hora']))->format(\DateTime::ATOM),
+                    'end' => (new \DateTime($elem['hora']))->modify('+' . $elem['temps_trajecte'] . ' minutes')->format(\DateTime::ATOM),
                 ];
                 $last = $elem['desti'];
                 continue;
             } else {
-
+                
                 $events[] = [
                     'title' => 'Donant servei a ' . $last . ' durant ' . $elem['duracio_estada'] . ' minuts',
-                    'start' => date('Y-m-d H:i:s', strtotime($elem['hora'])),
-                    'end' => date('Y-m-d H:i:s', strtotime($elem['hora']) + $elem['duracio_estada'] * 60),
+                    'start' => (new \DateTime($elem['hora']))->format(\DateTime::ATOM),
+                    'end' => (new \DateTime($elem['hora']))->modify('+' . $elem['duracio_estada'] . ' minutes')->format(\DateTime::ATOM),
                 ];
                 continue;
             }
