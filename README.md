@@ -1,4 +1,4 @@
-# UAB The Hack - Caixa Enginyers Challenge
+# UAB The Hack 👾 - Caixa Enginyers Challenge 🚐 💰
 ![hack](https://github.com/EncryptEx/caixa-enginyers-mes-aprop/assets/95536223/660c4c7d-4be9-4f1e-b416-04ecb7db1cb4)<br>
 
 ![caixa](https://github.com/EncryptEx/caixa-enginyers-mes-aprop/assets/95536223/10f07df9-2823-4616-bc31-0749219a8d9d)<br><br>
@@ -37,7 +37,8 @@ Our team has participated in the Hackathon hosted by Universitat Autònoma de Ba
 ## Usage
 
 <a name="learning"></a>
-## Learning
+## Learning 🎓
 
 <a name="license"></a>
-## License
+## License ⚖️
+
