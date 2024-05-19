@@ -9,7 +9,7 @@ USER:
 
 
 
-DRIVER:
+DRIVER: [no afegir]
 - com va el trànsit
 
 - participacio de la gent en la poblacio 
