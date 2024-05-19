@@ -55,6 +55,11 @@
     <script src="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.js"></script>
 
     <script defer>
+        let headers = new Headers({
+            "Accept"       : "application/json",
+            "Content-Type" : "application/json",
+            "User-Agent"   : "CAIXAENGINYERS/1.0"
+        });
         // Initialize the map
         var map = L.map('map').setView([42.0, 2.2], 8); // Center the map on a specific location
 
@@ -69,13 +74,13 @@
 
         // Function to add a route to the map
         function addRoute(departure, destination) {
-            fetch(`{{ env('DATA_URI') }}/discover/${departure}`)
+            fetch(`{{ env('DATA_URI') }}discover/${departure}`, {method  : 'GET', headers : headers })
                 .then(response => response.json())
                 .then(data => {
 
                     console.log(data);
                     var departureLatLng = [data.lat, data.lon];
-                    fetch(`{{ env('DATA_URI') }}/discover/${destination}`)
+                    fetch(`{{ env('DATA_URI') }}discover/${destination}`, {method  : 'GET', headers : headers })
                         .then(response => response.json())
                         .then(data2 => {
                             ways(data.lat, data.lon, data2.lat, data2.lon);
