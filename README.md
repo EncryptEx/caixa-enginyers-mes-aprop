@@ -17,13 +17,27 @@ Our team has participated in the Hackathon hosted by Universitat Autònoma de Ba
 
 # Table of Contents
 
-1. [Project Overview](#ProjectOv)
+1. [Project Overview](#project-ov)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Learning](#learning)
+6. [License](#license)
 
-<a name="ProjectOv"></a>
+<a name="project-ov"></a>
 ## Project Overview
 
+<a name="features"></a>
 ## Features
+
+<a name="installation"></a>
 ## Installation
+
+<a name="usage"></a>
 ## Usage
+
+<a name="learning"></a>
 ## Learning
+
+<a name="license"></a>
 ## License
