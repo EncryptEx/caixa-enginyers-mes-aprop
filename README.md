@@ -36,9 +36,11 @@ Design a software capable of proposing optimized routes for a mobile office (van
 
 1. [Project Overview](#project-ov)
 2. [Challenges we ran into](#callenge)
-3. [Learning](#learning)
-4. [Next](#next)
-5. [Licence](#license) <br><br>
+3. [Project Setup](#project-setup)
+4. [Learning](#learning)
+5. [Next](#next)
+6. [Screenshots](#screen)
+7. [Licence](#license)<br><br>
 
 <a name="project-ov"></a>
 ## Project Overview
@@ -48,6 +50,71 @@ We devided the work in forntend and backend. For the forntend we build a web wit
 ## Challenges we ran into
 Finding a good modelizations and algorithm. Also the heuristic for calculating the optimal routes. Work with new frameworks, and moreover having to calculate distances from all pairs of cities. And little details like correcting the names of the dataset of small cities so the API recognised them inside Spain.
 
+<a name="project-setup"></a>
+## Project Setup
+First of all, we need to run the solver in order to compile its results into a readable json file:
+
+To do that, we'll need to create a virtualenviroment and install all the requirements
+```
+cd ./solver
+```
+```
+virtualenv env --python=python3.10
+```
+```
+source env/bin/activate
+```
+```
+pip install -r requirements.txt
+```
+Once created, we'll run the solver once and then, enable the FlaskAPI service to allow access to the json computed file (that contains all events in the correct order) to the backend (Laravel).
+```
+python3 solver.py
+```
+Now, run the FlaskAPI service:
+```
+cd ./web_server
+```
+```
+python3 app.py
+```
+
+Once having the FlaskAPI service up, we'll need to enable the backend service (Laravel) with PHP 8.3.6
+```
+cd ../../web
+```
+```
+composer install
+```
+Once installed all dependencies, now we can create a ``.env`` file by copying the `.env.example` and configuring all the standard credentials (we'll only need to set up the [database section if needed](https://www.inmotionhosting.com/support/edu/laravel/how-to-configure-the-laravel-env-for-a-database/), by default uses Sqlite3) 
+
+Don't forget to add the DATA_URI credential with the value of the host of the FlaskAPI e.g. ``DATA_URI="http://127.0.0.1:5000/"`` if running in the same machine on port 5000.
+
+If using in different devices, use [ngrok](https://ngrok.com/). (We used it for the demo)
+
+```
+php artisan migrate
+```
+```
+php artisan serve
+```
+In another terminal, we'll launch the frontend active CSS compiling service using tailwindcss, (for development purposes)
+```
+cd .. && npm install
+```
+To recompile every time any file gets changed: 
+```
+npm run dev
+```
+To create a production css-compiled snapshot:
+```
+npm run build
+```
+Now, you're ready to go and all services are up!
+
+You can enjoy the responsive web-app at 127.0.0.1:8000 (probably), or see the ``php artisan serve`` section and check which port is running on.
+
+
 <a name="learning"></a>
 ## Learning 🎓
 We paractised and learned  Technologies and Tools, like Python for all the backend and data processing. Laravel (php): the main framework for the web application development. Tailwind (CSS): Used for efficient and flexible styling in the web. Flask: For building the APIs. Pandas: Employed for data manipulation and analysis, and working with .csv files. OpenStreetMap: Integrated for rich mapping functionalities. Leaflet: Employed for the interactive map in our web. Ngrok: Utilized for secure tunneling to connect IPs. Also working with APIs, and little thinks like improving the quality of the readme in Github.
@@ -56,6 +123,13 @@ We paractised and learned  Technologies and Tools, like Python for all the backe
 ## What's next for Caixa Enginyers mes a prop
 Send SMS messages to the users so they can answer the feedback forms.
 Improve the feedback data collections and improving of the routes.
+
+<a name="screen"></a>
+## Screenshots
+![d](https://github.com/EncryptEx/caixa-enginyers-mes-aprop/assets/95536223/b93fad29-b3df-42ad-b32f-01c0538c5c37)
+![b](https://github.com/EncryptEx/caixa-enginyers-mes-aprop/assets/95536223/fef7a4ef-d813-4e4e-b888-b242d55f1764)
+![e](https://github.com/EncryptEx/caixa-enginyers-mes-aprop/assets/95536223/a02c9823-6f25-44e4-a614-fea12bb827a7)
+![Screenshot from 2024-05-20 14-49-31](https://github.com/ArnauCS03/caixa-enginyers-mes-aprop/assets/95536223/94d5dd20-85bc-4327-bc5e-e045c621a7bf)
 
 
 <a name="license"></a>
